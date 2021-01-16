@@ -19,4 +19,4 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
-        uses: simonecorsi/mawesome@master
+        uses: simonecorsi/mawesome@main
