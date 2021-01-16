@@ -20,3 +20,6 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a one-line script
         uses: simonecorsi/mawesome@main
+        with:
+          api-token: ${{ secrets.API_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
