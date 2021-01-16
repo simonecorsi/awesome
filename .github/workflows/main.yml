@@ -21,4 +21,4 @@ jobs:
       - name: Run a one-line script
         uses: simonecorsi/mawesome@main
         with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-token: ${{ secrets.API_TOKEN }}
