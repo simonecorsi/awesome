@@ -42,7 +42,6 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
-*   [Nginx](#nginx)
 
 ## TypeScript
 
@@ -1223,6 +1222,7 @@
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 *   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
+*   [zachfitz/Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Material Design style and animations for Ionic
 
 ## C
 
@@ -1572,7 +1572,3 @@
 ## Pug
 
 *   [StartBootstrap/startbootstrap-sb-admin](https://github.com/StartBootstrap/startbootstrap-sb-admin) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-
-## Nginx
-
-*   [DBRAINDESIGN/server-tools](https://github.com/DBRAINDESIGN/server-tools) -
