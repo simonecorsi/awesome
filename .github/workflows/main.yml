@@ -15,3 +15,5 @@ jobs:
         with:
           api-token: ${{ secrets.API_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
+          github-email: ${{ secrets.GITHUB_EMAIL }}
+          github-name: ${{ secrets.GITHUB_NAME }}
