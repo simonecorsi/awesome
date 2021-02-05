@@ -719,7 +719,7 @@
 *   [webpack/docs](https://github.com/webpack/docs) - \[OLD] documentation for webpack
 *   [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
 *   [Armax/Pokemon-GO-node-api](https://github.com/Armax/Pokemon-GO-node-api) - Pokemon GO api node.js library
-*   [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+*   [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 *   [reduxjs/redux-mock-store](https://github.com/reduxjs/redux-mock-store) - A mock store for testing Redux async action creators and middleware.
 *   [svgdotjs/svg.js](https://github.com/svgdotjs/svg.js) - The lightweight library for manipulating and animating SVG
 *   [negativo/JWT-Auth-NodeJS-Starter-Kit](https://github.com/negativo/JWT-Auth-NodeJS-Starter-Kit) - a Simple implementation of JWT Token auth with NodeJS and Express
