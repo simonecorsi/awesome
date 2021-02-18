@@ -583,7 +583,6 @@
 *   [frontend-collective/react-sortable-tree](https://github.com/frontend-collective/react-sortable-tree) - Drag-and-drop sortable component for nested data and hierarchies
 *   [swiftcarrot/react-ui-tree](https://github.com/swiftcarrot/react-ui-tree) - React tree component with  drag & drop
 *   [pawelczak/EasyAutocomplete](https://github.com/pawelczak/EasyAutocomplete) - JQuery autocomplete plugin
-*   [algolia/autocomplete.js](https://github.com/algolia/autocomplete.js) - :crystal_ball: Fast and full-featured autocomplete library
 *   [xudafeng/startserver](https://github.com/xudafeng/startserver) - Yet another http server just for fun.
 *   [adaltas/node-csv-stringify](https://github.com/adaltas/node-csv-stringify) - CSV stringifier implementing the Node.js `stream.Transform` API
 *   [Vestride/Shuffle](https://github.com/Vestride/Shuffle) - Categorize, sort, and filter a responsive grid of items
@@ -1012,6 +1011,7 @@
 *   [surveyjs/survey-library](https://github.com/surveyjs/survey-library) - JavaScript Survey and Form Library
 *   [apollographql/apollo-server](https://github.com/apollographql/apollo-server) - 🌍 GraphQL server for Express, Connect, Hapi, Koa and more
 *   [ekalinin/sitemap.js](https://github.com/ekalinin/sitemap.js) - Sitemap-generating framework for node.js
+*   [algolia/autocomplete](https://github.com/algolia/autocomplete) - 🔮 Fast and full-featured autocomplete library
 *   [formium/formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
 *   [react-dnd/react-dnd](https://github.com/react-dnd/react-dnd) - Drag and Drop for React
 *   [kriasoft/nodejs-api-starter](https://github.com/kriasoft/nodejs-api-starter) - 💥  Yarn v2 based monorepo template (seed project) pre-configured with GraphQL API, PostgreSQL, Next.js.
