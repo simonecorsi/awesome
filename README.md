@@ -889,7 +889,7 @@
 *   [developit/mitt](https://github.com/developit/mitt) - 🥊 Tiny 200 byte functional event emitter / pubsub.
 *   [mantou132/Spotify-Lyrics](https://github.com/mantou132/Spotify-Lyrics) - 🎉 Desktop Spotify Web Player Instant Synchronised Lyrics
 *   [iamvishnusankar/next-sitemap](https://github.com/iamvishnusankar/next-sitemap) - Sitemap generator for next.js. Generate sitemap(s) and robots.txt for all static/pre-rendered/dynamic/server-side pages.
-*   [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript API and SDK
+*   [open-telemetry/opentelemetry-js](https://github.com/open-telemetry/opentelemetry-js) - OpenTelemetry JavaScript Client
 *   [yangshun/lago](https://github.com/yangshun/lago) - 📕 Data Structures and Algorithms library in TypeScript
 *   [gera2ld/markmap](https://github.com/gera2ld/markmap) - Visualize your Markdown as mindmaps with Markmap.
 *   [modfy/modfy.video](https://github.com/modfy/modfy.video) - A video transcoder and converter built using Web Assembly and FFMPEG to transcode and convert videos right in your browser while protecting your privacy
