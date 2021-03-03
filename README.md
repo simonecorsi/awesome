@@ -396,7 +396,7 @@
 *   [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 *   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SRE
+*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SREs
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 *   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically. Looking for maintainers!
 *   [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
@@ -525,7 +525,6 @@
 *   [yannickcr/eslint-plugin-react](https://github.com/yannickcr/eslint-plugin-react) - React specific linting rules for ESLint
 *   [keymetrics/pmx](https://github.com/keymetrics/pmx) - (DEPRECATED) use @pm2/io instead (drop-in replacement) https://github.com/keymetrics/pm2-io-apm
 *   [reactopt/reactopt](https://github.com/reactopt/reactopt) - A CLI React performance optimization tool that identifies potential unnecessary re-rendering
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Essential cross-platform UI components for React Native
 *   [kelektiv/node-cron](https://github.com/kelektiv/node-cron) - Cron for NodeJS.
 *   [nodeca/pako](https://github.com/nodeca/pako) - high speed zlib port to javascript, works in browser & node.js
@@ -880,6 +879,7 @@
 *   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 *   [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 *   [philipnilsson/bueno](https://github.com/philipnilsson/bueno) - Composable validators for forms, API:s in TypeScript
+*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 *   [uditalias/injex](https://github.com/uditalias/injex) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 *   [brpapa/recursion-tree-visualizer](https://github.com/brpapa/recursion-tree-visualizer) - 🌳  Input the javascript code of any recursive function and visualize your recursion tree
 *   [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
@@ -996,11 +996,12 @@
 *   [skevy/wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
 *   [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) - Redux wrapper for Next.js
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
-*   [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Dev environment for building scalable, high-quality user interfaces
+*   [react-cosmos/react-cosmos](https://github.com/react-cosmos/react-cosmos) - Sandbox for developing and testing UI components in isolation
 *   [speks7/flowmaker](https://github.com/speks7/flowmaker) - flowmaker: JS to SVG flowchart generation extension for Vscode in realtime written in typescript and also download the SVG through local node server. Extension:
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - 📦🚀 Fast, disk space efficient package manager
 *   [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 *   [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 *   [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 *   [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - A QueryBuilder component for React
 *   [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
@@ -1182,7 +1183,6 @@
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 *   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 *   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 *   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
@@ -1346,7 +1346,7 @@
 *   [audreyt/node-webworker-threads](https://github.com/audreyt/node-webworker-threads) - Lightweight Web Worker API implementation with native threads
 *   [phusion/passenger](https://github.com/phusion/passenger) - A fast and robust web server and application server for Ruby, Python and Node.js
 *   [willbryant/kitchen_sync](https://github.com/willbryant/kitchen_sync) - Fast unidirectional synchronization - make or efficiently update a copy of a database, without slow dumping & reloading
-*   [JohnSully/KeyDB](https://github.com/JohnSully/KeyDB) - A Multithreaded Fork of Redis
+*   [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
 *   [uglide/RedisDesktopManager](https://github.com/uglide/RedisDesktopManager) - :wrench: Cross-platform GUI management tool for Redis
 *   [grpc/grpc](https://github.com/grpc/grpc) - The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)
 *   [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
@@ -1380,7 +1380,7 @@
 *   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 *   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
 *   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
-*   [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 📝 The website builder for Hugo. Build and deploy a beautiful website in minutes!
+*   [wowchemy/wowchemy-hugo-modules](https://github.com/wowchemy/wowchemy-hugo-modules) - 🔥 The website builder for Hugo. Build and deploy a beautiful website in minutes!
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 *   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
 *   [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
