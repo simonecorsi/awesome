@@ -238,7 +238,7 @@
 *   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 *   [morungos/node-word-extractor](https://github.com/morungos/node-word-extractor) - Read data from a Word document using node.js
 *   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (February 2021)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (March 2021)
 *   [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 *   [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 *   [tj/dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
@@ -304,7 +304,7 @@
 *   [async-library/react-webworker](https://github.com/async-library/react-webworker) - ⚙️ Communicate with a Web Worker from React
 *   [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [jakubpawlowicz/clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
-*   [svg/svgo](https://github.com/svg/svgo) - :tiger: Node.js tool for optimizing SVG files
+*   [svg/svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
 *   [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides <🏄/>
 *   [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 *   [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
@@ -484,7 +484,7 @@
 *   [mahnunchik/gulp-responsive](https://github.com/mahnunchik/gulp-responsive) - gulp-responsive generates images at different sizes
 *   [emotion-js/emotion](https://github.com/emotion-js/emotion) - 👩‍🎤 CSS-in-JS library designed for high performance style composition
 *   [nodesecurity/nsp](https://github.com/nodesecurity/nsp) - node security platform command-line tool
-*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - Javascript syntax highlighter
+*   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection.
 *   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 *   [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 *   [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
