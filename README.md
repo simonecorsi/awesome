@@ -305,7 +305,7 @@
 *   [async-library/react-webworker](https://github.com/async-library/react-webworker) - ⚙️ Communicate with a Web Worker from React
 *   [immerjs/immer](https://github.com/immerjs/immer) - Create the next immutable state by mutating the current one
 *   [jakubpawlowicz/clean-css](https://github.com/jakubpawlowicz/clean-css) - Fast and efficient CSS optimizer for node.js and the Web
-*   [svg/svgo](https://github.com/svg/svgo) - :gear: Node.js tool for optimizing SVG files
+*   [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 *   [pomber/code-surfer](https://github.com/pomber/code-surfer) - Rad code slides <🏄/>
 *   [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 *   [antvis/F2](https://github.com/antvis/F2) - 📱📈An elegant, interactive and flexible charting library for mobile.
