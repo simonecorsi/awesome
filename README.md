@@ -459,7 +459,6 @@
 *   [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing
 *   [thelounge/thelounge](https://github.com/thelounge/thelounge) - 💬 Modern, responsive, cross-platform, self-hosted web IRC client
 *   [jxnblk/system-components](https://github.com/jxnblk/system-components) - https://github.com/jxnblk/styled-system/tree/master/system-components
-*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 *   [adam-p/markdown-here](https://github.com/adam-p/markdown-here) - Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.
 *   [ssbc/patchwork](https://github.com/ssbc/patchwork) - A decentralized messaging and sharing app built on top of Secure Scuttlebutt (SSB).
 *   [britecharts/britecharts](https://github.com/britecharts/britecharts) - Client-side reusable Charting Library based on D3.js v5 that allows easy and intuitive use of charts and components that can be composed together creating amazing visualizations.
@@ -956,6 +955,7 @@
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
 *   [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 *   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
+*   [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
