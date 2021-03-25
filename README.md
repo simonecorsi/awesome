@@ -400,7 +400,7 @@
 *   [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 *   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - ARTILLERY - modern load and smoke testing for SREs
+*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - Cloud-native performance & reliability testing for developers and SREs
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 *   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically. Looking for maintainers!
 *   [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
@@ -749,7 +749,6 @@
 *   [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.
 *   [flyacts/ngAnalytics](https://github.com/flyacts/ngAnalytics) - Discontinued. AngularJS Directive for Google Analytics Embed API
 *   [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
-*   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 *   [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
 *   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
 *   [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
@@ -1580,6 +1579,7 @@
 *   [pazdera/gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repositories
 *   [orktes/atom-react](https://github.com/orktes/atom-react) - ReactJS Support for atom (syntax, snippets)
 *   [georgebrindeiro/scroll-sync](https://github.com/georgebrindeiro/scroll-sync) - Atom editor package: Synchronize scrolling of two editor panes by content.
+*   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
 *   [passy/angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry.
 *   [adamalbrecht/ngModal](https://github.com/adamalbrecht/ngModal) - Very basic modal dialog directive for Angular.js
 *   [caiogondim/js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - :mortar_board: JavaScript Patterns snippets for Sublime Text
