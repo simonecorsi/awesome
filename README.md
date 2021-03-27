@@ -833,7 +833,7 @@
 *   [LiskHQ/lisk-sdk](https://github.com/LiskHQ/lisk-sdk) - 🔩 Lisk software development kit
 *   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 *   [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a toolkit for building visual editing into your site. With Tina, developers can give their teams a contextual and intuitive editing experience without sacrificing code quality.
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - Tina is a open source editor to help building visual editing into React websites. Tina empowers developers to give their teams a contextual and intuitive editing experience without sacrificing code quality.
 *   [FoalTS/foal](https://github.com/FoalTS/foal) - Elegant and all-inclusive Node.Js web framework based on TypeScript. :rocket:.
 *   [talentlessguy/tinyhttp](https://github.com/talentlessguy/tinyhttp) - 🦄 0-legacy, tiny & fast web framework as a replacement of Express
 *   [gcanti/io-ts](https://github.com/gcanti/io-ts) - Runtime type system for IO decoding/encoding
