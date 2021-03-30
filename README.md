@@ -1496,7 +1496,7 @@
 
 ## Vue
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 180k+ developers. https://hoppscotch.io
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
 
 ## SCSS
 
