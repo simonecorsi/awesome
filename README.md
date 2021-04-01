@@ -49,6 +49,9 @@
 
 ## JavaScript
 
+*   [sindresorhus/p-map](https://github.com/sindresorhus/p-map) - Map over promises concurrently
+*   [clinicjs/notare](https://github.com/clinicjs/notare) -
+*   [mcollina/split2](https://github.com/mcollina/split2) - Split Streams3 style
 *   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 *   [thlorenz/proxyquire](https://github.com/thlorenz/proxyquire) - 🔮 Proxies nodejs require in order to allow overriding dependencies during testing.
 *   [mcollina/thread-stream](https://github.com/mcollina/thread-stream) - A streaming way to send data to a Node.js Worker Thread
@@ -821,8 +824,6 @@
 *   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - Apache Cordova plugin whitelist
 *   [afklm/ng-lazy-image](https://github.com/afklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
 *   [pocesar/angular-onfinish](https://github.com/pocesar/angular-onfinish) - Directives that execute a function or an expression when ng-repeat is done with looping. No need for events.
-*   [rossmartin/angular-hashtagify](https://github.com/rossmartin/angular-hashtagify) - Angular directive that enables hashtag support for your app.
-*   [leotrieu/Code4Startup.Ninja](https://github.com/leotrieu/Code4Startup.Ninja) -
 
 ## TypeScript
 
@@ -1338,7 +1339,6 @@
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 *   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
-*   [zachfitz/Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Material Design style and animations for Ionic
 
 ## C
 
@@ -1496,7 +1496,7 @@
 
 ## Vue
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem used by 200k+ developers. https://hoppscotch.io
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
 
 ## SCSS
 
