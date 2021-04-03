@@ -277,7 +277,7 @@
 *   [Popmotion/popmotion](https://github.com/Popmotion/popmotion) - Simple animation libraries for delightful user interfaces
 *   [vercel/next-plugins](https://github.com/vercel/next-plugins) - Official Next.js plugins
 *   [avajs/ava](https://github.com/avajs/ava) - Node.js test runner that lets you develop with confidence 🚀
-*   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript linter with great defaults
+*   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 *   [dozoisch/react-google-recaptcha](https://github.com/dozoisch/react-google-recaptcha) - Component wrapper for Google reCAPTCHA
 *   [appleboy/react-recaptcha](https://github.com/appleboy/react-recaptcha) - A react.js reCAPTCHA for Google
 *   [jamiebuilds/create-react-context](https://github.com/jamiebuilds/create-react-context) - Polyfill for the proposed React context API
