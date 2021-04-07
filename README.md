@@ -14,6 +14,7 @@
 *   [PHP](#php)
 *   [Shell](#shell)
 *   [CSS](#css)
+*   [Less](#less)
 *   [C](#c)
 *   [Makefile](#makefile)
 *   [C++](#c-1)
@@ -55,7 +56,7 @@
 *   [mcollina/split2](https://github.com/mcollina/split2) - Split Streams3 style
 *   [EmailThis/extension-boilerplate](https://github.com/EmailThis/extension-boilerplate) - ⚡️ A template for building cross browser extensions for Chrome, Opera & Firefox.
 *   [thlorenz/proxyquire](https://github.com/thlorenz/proxyquire) - 🔮 Proxies nodejs require in order to allow overriding dependencies during testing.
-*   [mcollina/thread-stream](https://github.com/mcollina/thread-stream) - A streaming way to send data to a Node.js Worker Thread
+*   [pinojs/thread-stream](https://github.com/pinojs/thread-stream) - A streaming way to send data to a Node.js Worker Thread
 *   [charliegerard/whereami.js](https://github.com/charliegerard/whereami.js) - Node.js module to predict indoor location using machine learning and WiFi information 📶
 *   [watson/is-ci](https://github.com/watson/is-ci) - Detect if the current environment is a CI server
 *   [graphql/dataloader](https://github.com/graphql/dataloader) - DataLoader is a generic utility to be used as part of your application's data fetching layer to provide a consistent API over various backends and reduce requests to those backends via batching and caching.
@@ -80,7 +81,6 @@
 *   [lukechilds/keyv](https://github.com/lukechilds/keyv) - Simple key-value storage with support for multiple backends
 *   [hashicorp/next-mdx-remote](https://github.com/hashicorp/next-mdx-remote) - Load mdx content from anywhere through getStaticProps in next.js
 *   [sindresorhus/del-cli](https://github.com/sindresorhus/del-cli) - Delete files and directories
-*   [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, Elasticsearch, MongoDB, Node.js and React (KEMNR).
 *   [Rich-Harris/degit](https://github.com/Rich-Harris/degit) - Straightforward project scaffolding
 *   [mysticatea/eslint-plugin-node](https://github.com/mysticatea/eslint-plugin-node) - Additional ESLint's rules for Node.js
 *   [hemerajs/hemera](https://github.com/hemerajs/hemera) - 🔬 Writing reliable & fault-tolerant microservices in Node.js https://hemerajs.github.io/hemera/
@@ -749,7 +749,7 @@
 *   [clarkduvall/jsterm](https://github.com/clarkduvall/jsterm) - JavaScript terminal using a JSON pseudo-filesystem.
 *   [finseth/bash](https://github.com/finseth/bash) - A lightweight terminal emulator written in CSS3 and Javascript.
 *   [stvwhtly/jquery-teletype-plugin](https://github.com/stvwhtly/jquery-teletype-plugin) - Teletype is a jQuery plugin that types out text, and then optionally deletes it, replicating human interaction.
-*   [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - library for creating web based terminals with custom commands
+*   [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web based terminals with custom commands
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 *   [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.
 *   [flyacts/ngAnalytics](https://github.com/flyacts/ngAnalytics) - Discontinued. AngularJS Directive for Google Analytics Embed API
@@ -1339,6 +1339,10 @@
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 *   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
+
+## Less
+
+*   [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, Elasticsearch, MongoDB, Node.js and React (KEMNR).
 
 ## C
 
