@@ -51,6 +51,7 @@
 
 ## JavaScript
 
+*   [fastify/fastify-caching](https://github.com/fastify/fastify-caching) - A Fastify plugin to facilitate working with cache headers
 *   [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload) - Require all plugins in a directory
 *   [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -999,7 +1000,6 @@
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
-*   [angular/angular](https://github.com/angular/angular) - One framework. Mobile & desktop.
 
 ## Go
 
@@ -1500,7 +1500,7 @@
 
 ## Vue
 
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem. https://hoppscotch.io
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 
 ## SCSS
 
