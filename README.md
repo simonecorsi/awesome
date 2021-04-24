@@ -51,6 +51,8 @@
 
 ## JavaScript
 
+*   [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
+*   [nodesecurity/eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
 *   [filecoin-project/slate](https://github.com/filecoin-project/slate) - WIP - We're building the place you go to discover, share, and sell files on the web.
 *   [transitive-bullshit/react-before-after-slider](https://github.com/transitive-bullshit/react-before-after-slider) - A sexy image comparison slider for React.
 *   [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders. 🖥️ 📱
@@ -824,7 +826,6 @@
 *   [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 *   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 *   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
-*   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 
 ## C
 
@@ -1058,7 +1059,6 @@
 *   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
 ## Rust
 
