@@ -177,7 +177,6 @@
 *   [statsd/statsd](https://github.com/statsd/statsd) - Daemon for easy but powerful stats aggregation
 *   [tomas/needle](https://github.com/tomas/needle) - Nimble, streamable HTTP client for Node.js. With proxy, iconv, cookie, deflate & multipart support.
 *   [sindresorhus/ky-universal](https://github.com/sindresorhus/ky-universal) - Use Ky in both Node.js and browsers
-*   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 *   [matthew-andrews/isomorphic-fetch](https://github.com/matthew-andrews/isomorphic-fetch) - Isomorphic WHATWG Fetch API, for Node & Browserify
 *   [sindresorhus/np](https://github.com/sindresorhus/np) - A better `npm publish`
 *   [CVarisco/create-component-app](https://github.com/CVarisco/create-component-app) - Tool to generate different types of React components from the terminal. 💻
@@ -885,6 +884,7 @@
 *   [jsynowiec/node-typescript-boilerplate](https://github.com/jsynowiec/node-typescript-boilerplate) - Minimalistic project template to jump start a Node.js back-end application in TypeScript. ESLint, Jest and type definitions included.
 *   [ds300/patch-package](https://github.com/ds300/patch-package) - Fix broken node modules instantly  🏃🏽‍♀️💨
 *   [renovatebot/renovate](https://github.com/renovatebot/renovate) - Universal dependency update tool that fits into your workflows.
+*   [sindresorhus/ky](https://github.com/sindresorhus/ky) - 🌳 Tiny & elegant JavaScript HTTP client based on the browser Fetch API
 *   [torokmark/design_patterns_in_typescript](https://github.com/torokmark/design_patterns_in_typescript) - :triangular_ruler: Design pattern implementations in TypeScript
 *   [ajv-validator/ajv](https://github.com/ajv-validator/ajv) - The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)
 *   [w3tecch/express-typescript-boilerplate](https://github.com/w3tecch/express-typescript-boilerplate) - A delightful way to building a RESTful API with NodeJs & TypeScript by @w3tecch
@@ -1121,7 +1121,7 @@
 *   [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 *   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [micro/micro](https://github.com/micro/micro) - Micro is a cloud native development platform
+*   [micro/micro](https://github.com/micro/micro) - Distributed OS built for the Cloud
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 *   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
