@@ -51,6 +51,7 @@
 
 ## JavaScript
 
+*   [vittominacori/erc20-generator](https://github.com/vittominacori/erc20-generator) - Create an ERC20 Token for FREE in less than a minute with the most used Smart Contract Generator for ERC20 Token. No login. No setup. No coding required.
 *   [pinojs/pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - 🌲 load pino logs into Elasticsearch
 *   [xiaody/react-touch-carousel](https://github.com/xiaody/react-touch-carousel) - Ultra-customizable carousel framework for React.JS
 *   [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
@@ -157,7 +158,6 @@
 *   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 *   [WebReflection/ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
 *   [WebReflection/ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
-*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 *   [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown
 *   [GoogleChrome/web-vitals](https://github.com/GoogleChrome/web-vitals) - Essential metrics for a healthy site.
 *   [young-steveo/bottlejs](https://github.com/young-steveo/bottlejs) - A powerful dependency injection micro container for JavaScript applications
@@ -1078,6 +1078,7 @@
 *   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
 *   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library!
 *   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 *   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 *   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
 *   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
@@ -1109,7 +1110,6 @@
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 *   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
-*   [artpolikarpov/fotorama](https://github.com/artpolikarpov/fotorama) - A simple, stunning, powerful jQuery gallery.
 
 ## Go
 
