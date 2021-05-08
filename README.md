@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Java](#java)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -25,7 +26,6 @@
 *   [C#](#c-2)
 *   [Common Lisp](#common-lisp)
 *   [Swift](#swift)
-*   [Java](#java)
 *   [Vue](#vue)
 *   [SCSS](#scss)
 *   [Ruby](#ruby)
@@ -48,6 +48,17 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## Java
+
+*   [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
+*   [ggsava/block-this](https://github.com/ggsava/block-this) - Block This - FREE DNS based Ad Blocker for Android
+*   [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
+*   [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+*   [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
+*   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
+*   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
+*   [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
 
 ## JavaScript
 
@@ -762,7 +773,6 @@
 *   [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web based terminals with custom commands
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 *   [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.
-*   [flyacts/ngAnalytics](https://github.com/flyacts/ngAnalytics) - Discontinued. AngularJS Directive for Google Analytics Embed API
 *   [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
 *   [pc035860/angular-easyfb](https://github.com/pc035860/angular-easyfb) - Super easy AngularJS + Facebook JavaScript SDK.
 *   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
@@ -1516,16 +1526,6 @@
 *   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
 *   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 *   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
-
-## Java
-
-*   [ggsava/block-this](https://github.com/ggsava/block-this) - Block This - FREE DNS based Ad Blocker for Android
-*   [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
-*   [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-*   [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
-*   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
-*   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
-*   [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
 
 ## Vue
 
