@@ -1074,7 +1074,7 @@
 *   [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
 *   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 *   [dpup/node-flags](https://github.com/dpup/node-flags) - Flag handling library for node.js.
-*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open source codebase and curriculum. Learn to code for free.
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 *   [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 *   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 *   [DBRAINDESIGN/dbrain.js](https://github.com/DBRAINDESIGN/dbrain.js) -
