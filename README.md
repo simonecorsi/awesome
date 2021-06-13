@@ -956,7 +956,7 @@
 *   [clarkduvall/jsterm](https://github.com/clarkduvall/jsterm) - JavaScript terminal using a JSON pseudo-filesystem.
 *   [finseth/bash](https://github.com/finseth/bash) - A lightweight terminal emulator written in CSS3 and Javascript.
 *   [stvwhtly/jquery-teletype-plugin](https://github.com/stvwhtly/jquery-teletype-plugin) - Teletype is a jQuery plugin that types out text, and then optionally deletes it, replicating human interaction.
-*   [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web based terminals with custom commands
+*   [jcubic/jquery.terminal](https://github.com/jcubic/jquery.terminal) - jQuery Terminal Emulator - JavaScript library for creating web-based terminals with custom commands
 *   [pugjs/pug](https://github.com/pugjs/pug) - Pug – robust, elegant, feature rich template engine for Node.js
 *   [cferdinandi/smooth-scroll](https://github.com/cferdinandi/smooth-scroll) - A lightweight script to animate scrolling to anchor links.
 *   [marmelab/ng-admin](https://github.com/marmelab/ng-admin) - Add an AngularJS admin GUI to any RESTful API
