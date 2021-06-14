@@ -632,7 +632,7 @@
 *   [google/palette.js](https://github.com/google/palette.js) - Script for generating colour palettes for use with graphs, charts and cartography.
 *   [GoogleChromeLabs/clooney](https://github.com/GoogleChromeLabs/clooney) - Clooney is an actor library for the web. Use workers without thinking about workers.
 *   [yujiosaka/headless-chrome-crawler](https://github.com/yujiosaka/headless-chrome-crawler) - Distributed crawler powered by Headless Chrome
-*   [sghall/react-move](https://github.com/sghall/react-move) - :black_medium_small_square:React Move | Beautiful, data-driven animations for React
+*   [sghall/react-move](https://github.com/sghall/react-move) - React Move | Beautiful, data-driven animations for React
 *   [souporserious/react-motion-ui-pack](https://github.com/souporserious/react-motion-ui-pack) - Wrapper component around React Motion for easier UI transitions
 *   [developit/microbundle](https://github.com/developit/microbundle) - 📦 Zero-configuration bundler for tiny modules.
 *   [babel/babel-upgrade](https://github.com/babel/babel-upgrade) - ⬆️ A tool for upgrading Babel versions (to v7): `npx babel-upgrade`
