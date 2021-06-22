@@ -51,7 +51,7 @@
 
 ## generic
 
-*   [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers for learning and day-to-day practice of engineering management & leadership.
+*   [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 *   [italia/covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini) - Open Data su consegna e somministrazione dei vaccini anti COVID-19 in Italia - Commissario straordinario per l'emergenza Covid-19
 *   [a8m/golang-cheat-sheet](https://github.com/a8m/golang-cheat-sheet) - An overview of Go syntax and features.
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Uptime monitor and status page powered by GitHub Actions, Issues, and Pages
