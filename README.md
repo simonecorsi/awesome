@@ -51,6 +51,7 @@
 
 ## JavaScript
 
+*   [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
 *   [simonecorsi/fine](https://github.com/simonecorsi/fine) - Gracefully handle exit() of a Node.js process while being portable and out-of-the-box
 *   [dnlup/fastify-traps](https://github.com/dnlup/fastify-traps) - A fastify plugin to close the server gracefully on SIGINT and SIGTERM signals
 *   [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
@@ -1187,7 +1188,6 @@
 *   [mousavian/sublime-snippets-for-laravel-blade](https://github.com/mousavian/sublime-snippets-for-laravel-blade) - Sublime 3 snippets for Laravel 4 blade files
 *   [DBRAINDESIGN/letsink.com](https://github.com/DBRAINDESIGN/letsink.com) -
 *   [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
-*   [TheBestMovieIsYourImagination/Free-cookie-law-tools](https://github.com/TheBestMovieIsYourImagination/Free-cookie-law-tools) - Features, pros and cons of the free cookie law tools
 
 ## Python
 
