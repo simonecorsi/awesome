@@ -1120,7 +1120,7 @@
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 *   [asim/go-micro](https://github.com/asim/go-micro) - Go Micro is a framework for distributed systems development
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [k6io/k6](https://github.com/k6io/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 *   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
 *   [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
 *   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
