@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [CSS](#css)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
@@ -20,7 +21,6 @@
 *   [Nim](#nim)
 *   [PHP](#php)
 *   [Shell](#shell)
-*   [CSS](#css)
 *   [Makefile](#makefile)
 *   [Haskell](#haskell)
 *   [Assembly](#assembly)
@@ -48,6 +48,39 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## CSS
+
+*   [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
+*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
+*   [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
+*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
+*   [touchstonejs/touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React
+*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
+*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
+*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
+*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
+*   [callmenick/five-star-rating](https://github.com/callmenick/five-star-rating) - Five star rating component
+*   [nauxliu/five-star-rating](https://github.com/nauxliu/five-star-rating) - Five star rating component
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [mikolajdobrucki/material-foundation](https://github.com/mikolajdobrucki/material-foundation) - Material Design version of Foudation for Sites by Zurb
+*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
+*   [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
+*   [colindresj/saffron](https://github.com/colindresj/saffron) - A simple Sass mixin library for animations and transitions
+*   [zellwk/typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy
+*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
+*   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+*   [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
+*   [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
+*   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
+*   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
+*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 
 ## JavaScript
 
@@ -1439,7 +1472,6 @@
 *   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
 *   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
 *   [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
-*   [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
 
 ## Shell
 
@@ -1482,38 +1514,6 @@
 *   [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 *   [tj/n](https://github.com/tj/n) - Node version management
 *   [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X
-
-## CSS
-
-*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
-*   [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-*   [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-*   [touchstonejs/touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React
-*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
-*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
-*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
-*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
-*   [callmenick/five-star-rating](https://github.com/callmenick/five-star-rating) - Five star rating component
-*   [nauxliu/five-star-rating](https://github.com/nauxliu/five-star-rating) - Five star rating component
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [mikolajdobrucki/material-foundation](https://github.com/mikolajdobrucki/material-foundation) - Material Design version of Foudation for Sites by Zurb
-*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
-*   [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
-*   [colindresj/saffron](https://github.com/colindresj/saffron) - A simple Sass mixin library for animations and transitions
-*   [zellwk/typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy
-*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
-*   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-*   [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
-*   [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
-*   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
-*   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
-*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 
 ## Makefile
 
