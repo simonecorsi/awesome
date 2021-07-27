@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Java](#java)
 *   [CSS](#css)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Go](#go)
@@ -49,54 +49,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Java
-
-*   [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
-*   [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
-*   [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
-*   [ggsava/block-this](https://github.com/ggsava/block-this) - Block This - FREE DNS based Ad Blocker for Android
-*   [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
-*   [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-*   [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
-*   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
-*   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
-*   [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
-
-## CSS
-
-*   [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
-*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
-*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
-*   [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
-*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
-*   [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
-*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
-*   [touchstonejs/touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React
-*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
-*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
-*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
-*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
-*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
-*   [callmenick/five-star-rating](https://github.com/callmenick/five-star-rating) - Five star rating component
-*   [nauxliu/five-star-rating](https://github.com/nauxliu/five-star-rating) - Five star rating component
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-*   [mikolajdobrucki/material-foundation](https://github.com/mikolajdobrucki/material-foundation) - Material Design version of Foudation for Sites by Zurb
-*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
-*   [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
-*   [colindresj/saffron](https://github.com/colindresj/saffron) - A simple Sass mixin library for animations and transitions
-*   [zellwk/typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy
-*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
-*   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
-*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
-*   [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
-*   [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
-*   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
-*   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
-*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
-
 ## JavaScript
 
+*   [ES-Community/nsecure](https://github.com/ES-Community/nsecure) - Node.js security CLI / API that allow you to deeply analyze the dependency tree of a given package / directory
 *   [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) - JSON.parse() drop-in replacement with prototype poisoning protection
 *   [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
 *   [go-semantic-release/action](https://github.com/go-semantic-release/action) - :octocat: semantic-release GitHub Action
@@ -884,6 +839,52 @@
 *   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 *   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 
+## Java
+
+*   [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
+*   [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
+*   [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
+*   [ggsava/block-this](https://github.com/ggsava/block-this) - Block This - FREE DNS based Ad Blocker for Android
+*   [WhatsApp/stickers](https://github.com/WhatsApp/stickers) - This repository contains the iOS and Android sample apps and API for creating  third party sticker packs for WhatsApp.
+*   [facebook/buck](https://github.com/facebook/buck) - A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
+*   [google/rejoiner](https://github.com/google/rejoiner) - Generates a unified GraphQL schema from gRPC microservices and other Protobuf sources
+*   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
+*   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
+*   [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
+
+## CSS
+
+*   [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
+*   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
+*   [luizdepra/hugo-coder](https://github.com/luizdepra/hugo-coder) - A minimalist blog theme for hugo.
+*   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
+*   [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
+*   [CodeByZach/pace](https://github.com/CodeByZach/pace) - Automatically add a progress bar to your site.
+*   [touchstonejs/touchstonejs](https://github.com/touchstonejs/touchstonejs) - Mobile App Framework powered by React
+*   [oxalorg/sakura](https://github.com/oxalorg/sakura) - :cherry_blossom: a minimal css framework/theme.
+*   [cognitom/paper-css](https://github.com/cognitom/paper-css) - Paper CSS for happy printing
+*   [matejlatin/Gutenberg](https://github.com/matejlatin/Gutenberg) - A meaningful web typography starter kit.
+*   [webkul/micron](https://github.com/webkul/micron) - a \[μ] microInteraction library built with CSS Animations and controlled by JavaScript Power
+*   [lokesh-coder/pretty-checkbox](https://github.com/lokesh-coder/pretty-checkbox) - A pure CSS library to beautify checkbox and radio buttons.
+*   [callmenick/five-star-rating](https://github.com/callmenick/five-star-rating) - Five star rating component
+*   [nauxliu/five-star-rating](https://github.com/nauxliu/five-star-rating) - Five star rating component
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [mikolajdobrucki/material-foundation](https://github.com/mikolajdobrucki/material-foundation) - Material Design version of Foudation for Sites by Zurb
+*   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
+*   [modularscale/modularscale-sass](https://github.com/modularscale/modularscale-sass) - Modular scale calculator built into your Sass
+*   [colindresj/saffron](https://github.com/colindresj/saffron) - A simple Sass mixin library for animations and transitions
+*   [zellwk/typi](https://github.com/zellwk/typi) - A sass mixin to make responsive typography easy
+*   [miguel-perez/smoothState.js](https://github.com/miguel-perez/smoothState.js) - Unobtrusive page transitions with jQuery.
+*   [marcelodolza/iziModal](https://github.com/marcelodolza/iziModal) - Elegant, responsive, flexible and lightweight modal plugin with jQuery.
+*   [marcelodolza/iziToast](https://github.com/marcelodolza/iziToast) - Elegant, responsive, flexible and lightweight notification plugin with no dependencies.
+*   [HubSpot/vex](https://github.com/HubSpot/vex) - A modern dialog library which is highly configurable and easy to style. #hubspot-open-source
+*   [editor-bootstrap/vim-bootstrap](https://github.com/editor-bootstrap/vim-bootstrap) - Vim Bootstrap is a generator that provides a simple method of generating a configuration for vim / neovim.
+*   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
+*   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
+*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
+
 ## TypeScript
 
 *   [ShogunPanda/cronometro](https://github.com/ShogunPanda/cronometro) - Simple benchmarking suite powered by HDR histograms.
@@ -1425,7 +1426,6 @@
 *   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
 ## Nim
 
