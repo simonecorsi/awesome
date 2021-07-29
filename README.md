@@ -135,7 +135,7 @@
 *   [ScreepsMods/screepsmod-mongo](https://github.com/ScreepsMods/screepsmod-mongo) - Replace LokiJS with MongoDB and Redis
 *   [screeps/screeps](https://github.com/screeps/screeps) - A standalone server for programming game Screeps
 *   [sindresorhus/hyper-snazzy](https://github.com/sindresorhus/hyper-snazzy) - Elegant Hyper theme with bright colors
-*   [nodeshift/kube-probe](https://github.com/nodeshift/kube-probe) - Simple liveness and readiness check middleware for openshift/kubernetes
+*   [nodeshift-archived/kube-probe](https://github.com/nodeshift-archived/kube-probe) - Simple liveness and readiness check middleware for openshift/kubernetes
 *   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
 *   [jfromaniello/selfsigned](https://github.com/jfromaniello/selfsigned) - Generate self-signed certificates from node.js
 *   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.
