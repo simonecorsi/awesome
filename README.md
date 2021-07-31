@@ -1459,7 +1459,7 @@
 *   [WP-API/WP-API](https://github.com/WP-API/WP-API) - The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).
 *   [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
 *   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure
-*   [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It makes developers life easier. It is just like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+*   [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It is like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 *   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
 *   [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
 *   [flowjs/flow-php-server](https://github.com/flowjs/flow-php-server) - flow.js php server library, validates uploaded chunks and safely merges all chunks to a single file
