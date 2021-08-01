@@ -13,10 +13,10 @@
 *   [Go](#go)
 *   [Vue](#vue)
 *   [Rust](#rust)
-*   [C#](#c)
-*   [C++](#c-1)
+*   [C](#c)
+*   [C#](#c-1)
+*   [C++](#c-2)
 *   [Less](#less)
-*   [C](#c-2)
 *   [HTML](#html)
 *   [Nim](#nim)
 *   [PHP](#php)
@@ -1211,7 +1211,6 @@
 *   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 *   [eywu/goodbots](https://github.com/eywu/goodbots) - Verify IP addresses of respectful crawlers like Googlebot by reverse dns and forward dns lookups
 *   [microsoft/clock](https://github.com/microsoft/clock) - :clock4: Time utility with lovely mocking support
-*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 *   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 *   [Azure/go-asynctask](https://github.com/Azure/go-asynctask) - Simple mimic of async/await for those come from C# world, now you can Cancel(), Wait() on a go routine.
 *   [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
@@ -1320,6 +1319,28 @@
 *   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
 *   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 
+## C
+
+*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+*   [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
+*   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+*   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
+*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
+*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
+*   [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
+*   [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
+*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
+*   [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
+*   [charliegerard/Epoc.js](https://github.com/charliegerard/Epoc.js) - Node.js addon for the Emotiv C++ SDK
+*   [gholker/led-backlight-cmstorm](https://github.com/gholker/led-backlight-cmstorm) - Mac app to turn on the backlight of your CM Storm Devastator keyboard
+*   [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) -
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+*   [galkahana/HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
+*   [mtoyoda/sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
+*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
+*   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
+
 ## C#
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
@@ -1368,27 +1389,6 @@
 
 *   [kenangundogan/fontisto](https://github.com/kenangundogan/fontisto) - The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.
 *   [bedrockio/bedrock-core](https://github.com/bedrockio/bedrock-core) - Bedrock is a battle-tested template of micro services, components and patterns that tie together Kubernetes, Elasticsearch, MongoDB, Node.js and React (KEMNR).
-
-## C
-
-*   [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
-*   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-*   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
-*   [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
-*   [curl/curl](https://github.com/curl/curl) - A command line tool and library for transferring data with URL syntax, supporting DICT, FILE, FTP, FTPS, GOPHER, GOPHERS, HTTP, HTTPS, IMAP, IMAPS, LDAP, LDAPS, MQTT, POP3, POP3S, RTMP, RTMPS, RTSP, SCP, SFTP, SMB, SMBS, SMTP, SMTPS, TELNET and TFTP. libcurl offers a myriad of powerful features
-*   [lastpass/lastpass-cli](https://github.com/lastpass/lastpass-cli) - LastPass command line interface tool
-*   [Motion-Project/motion](https://github.com/Motion-Project/motion) - Motion, a software motion detector.     Home page:  https://motion-project.github.io/
-*   [andlabs/libui](https://github.com/andlabs/libui) - Simple and portable (but not inflexible) GUI library in C that uses the native GUI technologies of each platform it supports.
-*   [sudo-project/sudo](https://github.com/sudo-project/sudo) - Utility to execute a command as another user
-*   [charliegerard/Epoc.js](https://github.com/charliegerard/Epoc.js) - Node.js addon for the Emotiv C++ SDK
-*   [gholker/led-backlight-cmstorm](https://github.com/gholker/led-backlight-cmstorm) - Mac app to turn on the backlight of your CM Storm Devastator keyboard
-*   [vanhoefm/krackattacks-scripts](https://github.com/vanhoefm/krackattacks-scripts) -
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-*   [galkahana/HummusJS](https://github.com/galkahana/HummusJS) - Node.js module for high performance creation, modification and parsing of PDF files and streams
-*   [mtoyoda/sl](https://github.com/mtoyoda/sl) - SL(1): Cure your bad habit of mistyping
-*   [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-*   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
-*   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## HTML
 
