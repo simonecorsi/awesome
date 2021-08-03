@@ -51,6 +51,7 @@
 
 ## JavaScript
 
+*   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda
 *   [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org\[Node]
 *   [ES-Community/nsecure](https://github.com/ES-Community/nsecure) - Node.js security CLI / API that allow you to deeply analyze the dependency tree of a given package / directory
 *   [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) - JSON.parse() drop-in replacement with prototype poisoning protection
@@ -836,7 +837,6 @@
 *   [negativo/jquery.mediaquerieswatcher.js](https://github.com/negativo/jquery.mediaquerieswatcher.js) - jquery plugin to show a little box with informations about the responsive framework in use
 *   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
 *   [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
-*   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 
 ## generic
 
