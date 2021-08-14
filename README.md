@@ -88,7 +88,7 @@
 *   [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 *   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 *   [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
-*   [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - A simple baseline for one-shot multi-object tracking
+*   [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - \[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking
 *   [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 *   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
 *   [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
@@ -943,7 +943,7 @@
 *   [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 *   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 *   [paulmillr/es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JS engines
-*   [ReactTraining/react-router](https://github.com/ReactTraining/react-router) - Declarative routing for React
+*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 *   [crypto-utils/keygrip](https://github.com/crypto-utils/keygrip) - Key signing and verification for rotated credentials
 *   [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 *   [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
