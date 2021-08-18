@@ -30,7 +30,6 @@
 *   [SCSS](#scss)
 *   [Ruby](#ruby)
 *   [Dart](#dart)
-*   [Dockerfile](#dockerfile)
 *   [OCaml](#ocaml)
 *   [Clojure](#clojure)
 *   [Julia](#julia)
@@ -42,6 +41,7 @@
 *   [OpenEdge ABL](#openedge-abl)
 *   [CoffeeScript](#coffeescript)
 *   [Scheme](#scheme)
+*   [Dockerfile](#dockerfile)
 *   [Perl](#perl)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
@@ -1490,6 +1490,7 @@
 *   [pi-hole/pi-hole](https://github.com/pi-hole/pi-hole) - A black hole for Internet advertisements
 *   [mattermost/mattermost-docker](https://github.com/mattermost/mattermost-docker) - Dockerfile for mattermost in production
 *   [nvm-sh/nvm](https://github.com/nvm-sh/nvm) - Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions
+*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
 *   [spotify/docker-gc](https://github.com/spotify/docker-gc) - INACTIVE: Docker garbage collection of containers and images
 *   [mafredri/zsh-async](https://github.com/mafredri/zsh-async) - Because your terminal should be able to perform tasks asynchronously without external tools!
 *   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
@@ -1592,12 +1593,6 @@
 
 *   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
 
-## Dockerfile
-
-*   [docker-library/php](https://github.com/docker-library/php) - Docker Official Image packaging for PHP
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-
 ## OCaml
 
 *   [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
@@ -1656,6 +1651,11 @@
 ## Scheme
 
 *   [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
+
+## Dockerfile
+
+*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
 ## Perl
 
