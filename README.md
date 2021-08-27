@@ -365,7 +365,7 @@
 *   [simonecorsi/fine](https://github.com/simonecorsi/fine) - Graceful shutdown Node.js application, this module helps handling process exit signals and closing pending jobs
 *   [dnlup/fastify-traps](https://github.com/dnlup/fastify-traps) - A fastify plugin to close the server gracefully on SIGINT and SIGTERM signals
 *   [bookshelf/bookshelf](https://github.com/bookshelf/bookshelf) - A simple Node.js ORM for PostgreSQL, MySQL and SQLite3 built on top of Knex.js
-*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - 👻 The #1 headless Node.js CMS for professional publishing
+*   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 *   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 *   [folder/readdir](https://github.com/folder/readdir) - Recursively read a directory, blazing fast.
