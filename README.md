@@ -300,6 +300,7 @@
 *   [diegoddox/react-redux-toastr](https://github.com/diegoddox/react-redux-toastr) - react-redux-toastr is a toastr message implemented with Redux
 *   [bbc/r-audio](https://github.com/bbc/r-audio) -   A library of React components for building Web Audio graphs.
 *   [i18next/i18next-node-fs-backend](https://github.com/i18next/i18next-node-fs-backend) - \[deprecated] can be replaced with i18next-fs-backend
+*   [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 *   [hanford/next-offline](https://github.com/hanford/next-offline) - make your Next.js application work offline using service workers via Google's workbox
 *   [iamakulov/moment-locales-webpack-plugin](https://github.com/iamakulov/moment-locales-webpack-plugin) - Easily remove unused Moment.js locales with webpack
 *   [lodash/babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
@@ -1607,7 +1608,6 @@
 
 *   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
 *   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-*   [aws/aws-sdk-js](https://github.com/aws/aws-sdk-js) - AWS SDK for JavaScript in the browser and Node.js
 *   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
 *   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 *   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
