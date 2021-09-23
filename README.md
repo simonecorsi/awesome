@@ -283,7 +283,7 @@
 *   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 *   [morungos/node-word-extractor](https://github.com/morungos/node-word-extractor) - Read data from a Word document using node.js
 *   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (August 2021)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (September 2021)
 *   [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 *   [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 *   [tj/dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
@@ -925,7 +925,6 @@
 *   [bitjson/typescript-starter](https://github.com/bitjson/typescript-starter) - Quickly create and configure a new library or Node.js project
 *   [pillarjs/path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
 *   [philipnilsson/bueno](https://github.com/philipnilsson/bueno) - Composable validators for forms, API:s in TypeScript
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 *   [uditalias/injex](https://github.com/uditalias/injex) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 *   [brpapa/recursion-tree-visualizer](https://github.com/brpapa/recursion-tree-visualizer) - 🌳  Input the source code of any recursive function in javascript or python and visualize your recursion tree
 *   [nikersify/pico](https://github.com/nikersify/pico) - Take browser screenshots in Javascript  📸
@@ -1181,6 +1180,7 @@
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 *   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 *   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 *   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
@@ -1326,7 +1326,7 @@
 *   [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
 *   [encoredev/encore](https://github.com/encoredev/encore) - The Cloud Native Development Platform built for Go
 *   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
-*   [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - 🔥  Continuous Profiling Platform 🔥  Debug performance issues down to a single line of code
+*   [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
 *   [profclems/glab](https://github.com/profclems/glab) - An open-source GitLab command line tool bringing GitLab's cool features to your command line
 *   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 *   [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges
