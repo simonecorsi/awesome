@@ -317,7 +317,6 @@
 *   [felipefialho/kratos-boilerplate](https://github.com/felipefialho/kratos-boilerplate) - :fire: A simple boilerplate for creating statics PWA using Webpack, Pug, PostCSS and CSS Modules
 *   [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
 *   [ashiguruma/patternomaly](https://github.com/ashiguruma/patternomaly) - Easily generate patterns for use in data graphics
-*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 *   [auth0/express-jwt](https://github.com/auth0/express-jwt) - connect/express middleware that validates a JsonWebToken (JWT) and set the req.user with the attributes
 *   [donmccurdy/hex2dec](https://github.com/donmccurdy/hex2dec) - Arbitrary precision decimal↔️hexadecimal converter.
 *   [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
@@ -1013,6 +1012,7 @@
 *   [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 *   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
 *   [auchenberg/vscode-browser-preview](https://github.com/auchenberg/vscode-browser-preview) - A real browser preview inside your editor that you can debug.
+*   [electron-react-boilerplate/electron-react-boilerplate](https://github.com/electron-react-boilerplate/electron-react-boilerplate) - A Foundation for Scalable Cross-Platform Apps
 *   [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 *   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
 *   [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
