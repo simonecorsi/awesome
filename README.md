@@ -50,6 +50,7 @@
 
 ## TypeScript
 
+*   [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 *   [micheleriva/krabs](https://github.com/micheleriva/krabs) - 🦀   Express.js/Fastify middleware and virtual host for multi-tenant Next.js applications
 *   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
 *   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
@@ -252,7 +253,6 @@
 *   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
-*   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
 
 ## generic
 
@@ -963,7 +963,7 @@
 *   [sequelize/cli](https://github.com/sequelize/cli) - The Sequelize CLI
 *   [preactjs/preact](https://github.com/preactjs/preact) - ⚛️ Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 *   [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
-*   [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system or start with Material Design.
+*   [mui-org/material-ui](https://github.com/mui-org/material-ui) - MUI (formerly Material-UI) is the React UI library you always wanted. Follow your own design system, or start with Material Design.
 *   [googlearchive/observe-js](https://github.com/googlearchive/observe-js) - A library for observing Arrays, Objects and PathValues
 *   [node-facebook/facebook-node-sdk](https://github.com/node-facebook/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
 *   [queckezz/koa-views](https://github.com/queckezz/koa-views) - Template rendering middleware for koa (hbs, swig, pug, anything! :sparkles:)
