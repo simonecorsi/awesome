@@ -1075,8 +1075,8 @@
 
 ## Swift
 
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 📡 HTTP Client for Swift Ages - URLSession + Combine + Decodable + Generics
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature flagging framework in Swift sauce
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 📡 Lightweight yet powerful HTTP Client for Swift ages - Declarative + Combine + Decodable + Generics. Based upon URLSession, no dependencies!
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
 *   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 *   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 *   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
