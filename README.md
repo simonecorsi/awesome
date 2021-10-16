@@ -50,6 +50,8 @@
 
 ## JavaScript
 
+*   [lukeed/trouter](https://github.com/lukeed/trouter) - :fish: A fast, small-but-mighty, familiar fish...errr, router\*
+*   [lukeed/polka](https://github.com/lukeed/polka) - A micro web server so fast, it'll make you dance! :dancers:
 *   [davidmarkclements/atomic-sleep](https://github.com/davidmarkclements/atomic-sleep) - ⏱️Zero CPU overhead, zero dependency, true event-loop blocking sleep ⏱️
 *   [pinojs/sonic-boom](https://github.com/pinojs/sonic-boom) - Extremely fast utf8 only stream implementation
 *   [pinojs/pino-syslog](https://github.com/pinojs/pino-syslog) - 🌲 A transport for reformatting pino logs into standard syslog format
@@ -560,7 +562,6 @@
 *   [frontend-collective/react-sortable-tree-theme-full-node-drag](https://github.com/frontend-collective/react-sortable-tree-theme-full-node-drag) - Full node drag theme for react-sortable-tree
 *   [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder \[DEPRECATED]
 *   [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
-*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
 *   [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
 *   [jshttp/mime-types](https://github.com/jshttp/mime-types) - The ultimate javascript content-type utility.
 *   [puranjayjain/react-materialui-notifications](https://github.com/puranjayjain/react-materialui-notifications) - Spec compliant notifications for react and material ui users
@@ -678,7 +679,6 @@
 *   [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
 *   [caolan/async](https://github.com/caolan/async) - Async utilities for node and the browser
 *   [paulmillr/es6-shim](https://github.com/paulmillr/es6-shim) - ECMAScript 6 compatibility shims for legacy JS engines
-*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 *   [crypto-utils/keygrip](https://github.com/crypto-utils/keygrip) - Key signing and verification for rotated credentials
 *   [infernojs/inferno](https://github.com/infernojs/inferno) - :fire: An extremely fast, React-like JavaScript library for building modern user interfaces
 *   [balderdashy/waterline](https://github.com/balderdashy/waterline) - An adapter-based ORM for Node.js  with support for mysql, mongo, postgres, mssql (SQL Server), and more
@@ -1121,6 +1121,7 @@
 *   [speks7/flowmaker](https://github.com/speks7/flowmaker) - flowmaker: JS to SVG flowchart generation extension for Vscode in realtime written in typescript and also download the SVG through local node server. Extension:
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 *   [storybookjs/storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
+*   [reactchartjs/react-chartjs-2](https://github.com/reactchartjs/react-chartjs-2) - React wrapper for Chart.js 2.0 and 3.0, the most popular charting library 📊
 *   [johnagan/clean-webpack-plugin](https://github.com/johnagan/clean-webpack-plugin) - A webpack plugin to remove your build folder(s) before building
 *   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 *   [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
@@ -1143,6 +1144,7 @@
 *   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
 *   [AFASSoftware/maquette](https://github.com/AFASSoftware/maquette) - Pure and simple virtual DOM library
 *   [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+*   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 *   [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 *   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transition between your website's pages.
@@ -1156,7 +1158,6 @@
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
-*   [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
 ## Rust
 
@@ -1432,7 +1433,6 @@
 *   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
-*   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 
 ## Vue
 
