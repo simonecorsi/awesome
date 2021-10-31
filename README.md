@@ -145,7 +145,7 @@
 *   [lmammino/tall](https://github.com/lmammino/tall) - Promise-based, No-dependency URL unshortner (expander) module for Node.js
 *   [simonecorsi/declarative-markdown](https://github.com/simonecorsi/declarative-markdown) - Zero dependencies javascript declarative markdown generator!
 *   [immobiliare/atomic-state](https://github.com/immobiliare/atomic-state) - A decentralized state management library for React
-*   [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The ultimate library for managing multi-channel notifications with a single API.
+*   [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 The open-source notification infrastructure for products.
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 *   [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 *   [micheleriva/krabs](https://github.com/micheleriva/krabs) - 🦀   Express.js/Fastify middleware and virtual host for multi-tenant Next.js applications
