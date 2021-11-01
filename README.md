@@ -31,6 +31,7 @@
 *   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
+*   [Nunjucks](#nunjucks)
 *   [Clojure](#clojure)
 *   [Julia](#julia)
 *   [Objective-C](#objective-c)
@@ -1502,7 +1503,6 @@
 *   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 *   [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
 *   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
-*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 *   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 *   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
 *   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
@@ -1656,6 +1656,10 @@
 ## OCaml
 
 *   [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
+
+## Nunjucks
+
+*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 
 ## Clojure
 
