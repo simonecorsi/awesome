@@ -312,6 +312,7 @@
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 *   [skevy/wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
+*   [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 *   [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) - Redux wrapper for Next.js
 *   [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
 *   [telegraf/telegraf](https://github.com/telegraf/telegraf) - Modern Telegram Bot Framework for Node.js
@@ -886,7 +887,6 @@
 *   [developit/stockroom](https://github.com/developit/stockroom) - 🗃 Offload your store management to a worker easily.
 *   [webpack-contrib/worker-loader](https://github.com/webpack-contrib/worker-loader) - A webpack loader that registers a script as a Web Worker
 *   [developit/unistore](https://github.com/developit/unistore) - 🌶 350b / 650b state container with component actions for Preact & React
-*   [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 *   [pahen/madge](https://github.com/pahen/madge) - Create graphs from your CommonJS, AMD or ES6 module dependencies
 *   [gatsbyjs/gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
 *   [nitin42/react-imgpro](https://github.com/nitin42/react-imgpro) - 📷  Image Processing Component for React
@@ -940,7 +940,6 @@
 *   [ramiel/mongoose-sequence](https://github.com/ramiel/mongoose-sequence) - Sequence and autoincrement handling for mongoose
 *   [kartik-v/bootstrap-star-rating](https://github.com/kartik-v/bootstrap-star-rating) - A simple yet powerful JQuery star rating plugin with fractional rating support.
 *   [vercel/async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy and async
-*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 *   [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 *   [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
 *   [gulpjs/vinyl](https://github.com/gulpjs/vinyl) - Virtual file format.
@@ -1700,6 +1699,7 @@
 *   [c0bra/color-scheme-js](https://github.com/c0bra/color-scheme-js) - Generate pleasant color schemes in JavaScript
 *   [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
 *   [pazdera/gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repositories
+*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 *   [orktes/atom-react](https://github.com/orktes/atom-react) - ReactJS Support for atom (syntax, snippets)
 *   [georgebrindeiro/scroll-sync](https://github.com/georgebrindeiro/scroll-sync) - Atom editor package: Synchronize scrolling of two editor panes by content.
 *   [mojs/mojs](https://github.com/mojs/mojs) - The motion graphics toolbelt for the web
