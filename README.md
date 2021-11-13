@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
@@ -28,7 +29,6 @@
 *   [Haskell](#haskell)
 *   [Vim script](#vim-script)
 *   [Common Lisp](#common-lisp)
-*   [Ruby](#ruby)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
 *   [Nunjucks](#nunjucks)
@@ -48,6 +48,22 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## Ruby
+
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
+*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
+*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
+*   [iridakos/table_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
+*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## JavaScript
 
@@ -1365,7 +1381,6 @@
 *   [mousavian/sublime-snippets-for-laravel-blade](https://github.com/mousavian/sublime-snippets-for-laravel-blade) - Sublime 3 snippets for Laravel 4 blade files
 *   [DBRAINDESIGN/letsink.com](https://github.com/DBRAINDESIGN/letsink.com) -
 *   [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
-*   [TheBestMovieIsYourImagination/Free-cookie-law-tools](https://github.com/TheBestMovieIsYourImagination/Free-cookie-law-tools) - Features, pros and cons of the free cookie law tools
 
 ## C
 
@@ -1420,7 +1435,7 @@
 *   [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 *   [justadudewhohacks/opencv4nodejs](https://github.com/justadudewhohacks/opencv4nodejs) - Nodejs bindings to OpenCV 3 and OpenCV 4
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.40966, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 9.1.5.41031, 3.3.5 = 3.3.5a.12340)
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 *   [v8/v8](https://github.com/v8/v8) - The official mirror of the V8 Git repository
 *   [charto/nbind](https://github.com/charto/nbind) - :sparkles: Magical headers that make your C++ library accessible from JavaScript :rocket:
@@ -1662,21 +1677,6 @@
 ## Common Lisp
 
 *   [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
-
-## Ruby
-
-*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
-*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
-*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
-*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
-*   [iridakos/table_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
-*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## Dart
 
