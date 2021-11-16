@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
-*   [Ruby](#ruby)
 *   [JavaScript](#javascript)
-*   [Rust](#rust)
 *   [TypeScript](#typescript)
+*   [Ruby](#ruby)
+*   [Rust](#rust)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
 *   [Go](#go)
@@ -49,24 +49,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Ruby
-
-*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
-*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
-*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
-*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
-*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
-*   [iridakos/table_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
-*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
-
 ## JavaScript
 
+*   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 *   [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 *   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
 *   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
@@ -476,7 +461,7 @@
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 *   [artilleryio/artillery](https://github.com/artilleryio/artillery) - 🚀Cloud-native performance & reliability testing for developers and SREs
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
-*   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically. Looking for maintainers!
+*   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically.
 *   [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
 *   [franciscop/superdom](https://github.com/franciscop/superdom) - :flags: Better and simpler ES6 DOM manipulation
 *   [niftylettuce/frisbee](https://github.com/niftylettuce/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.
@@ -876,46 +861,10 @@
 *   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 *   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-*   [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) - Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
-
-## Rust
-
-*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
-*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
-*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
-*   [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
-*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
-*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
-*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
-*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
-*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
-*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
-*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 
 ## TypeScript
 
+*   [ptkdev/aboutmeinfo-telegram-bot](https://github.com/ptkdev/aboutmeinfo-telegram-bot) - About Me Info Bot: Share your social media and links on Telegram
 *   [ptkdev/quizquickanswer-telegram-game-bot](https://github.com/ptkdev/quizquickanswer-telegram-game-bot) - 🎮 Funny quiz game, play with friends on your telegram group!
 *   [connor4312/blake3](https://github.com/connor4312/blake3) - BLAKE3 hashing for JavaScript: native Node bindings (where available) and WebAssembly
 *   [immobiliare/dats](https://github.com/immobiliare/dats) - 📈 Minimalistic zero-dependencies statsd client for Node.js
@@ -1101,7 +1050,7 @@
 *   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 *   [expo/create-react-native-app](https://github.com/expo/create-react-native-app) - Create React Native apps that run on iOS, Android, and web
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
-*   [redis/node-redis](https://github.com/redis/node-redis) - A high performance Node.js Redis client.
+*   [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
 *   [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - A QueryBuilder component for React
 *   [springload/react-accessible-accordion](https://github.com/springload/react-accessible-accordion) - Accessible Accordion component for React
 *   [styled-components/styled-components](https://github.com/styled-components/styled-components) - Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅
@@ -1133,6 +1082,58 @@
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
+
+## Ruby
+
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot
+*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
+*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
+*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
+*   [iridakos/table_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
+*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
+
+## Rust
+
+*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
+*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
+*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+*   [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
+*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
+*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
+*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
+*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
+*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 
 ## SCSS
 
@@ -1308,7 +1309,6 @@
 *   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 *   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 *   [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-*   [equinusocio/material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
 
 ## generic
 
