@@ -4,9 +4,9 @@
 
 ## Table of Contents
 
+*   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Python](#python)
-*   [Rust](#rust)
 *   [C++](#c)
 *   [JavaScript](#javascript)
 *   [generic](#generic)
@@ -48,6 +48,45 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## Rust
+
+*   [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
+*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
+*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
+*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+*   [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
+*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
+*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
+*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
+*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
+*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
 ## TypeScript
 
@@ -311,7 +350,7 @@
 *   [celery/billiard](https://github.com/celery/billiard) - Multiprocessing Pool Extensions
 *   [danielcardeenas/whatsapp-framework](https://github.com/danielcardeenas/whatsapp-framework) - ⚗️Whatsapp python api
 *   [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
-*   [timgrossmann/InstaPy](https://github.com/timgrossmann/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
+*   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 *   [Tkd-Alex/Telegram-InstaPy-Scheduling](https://github.com/Tkd-Alex/Telegram-InstaPy-Scheduling) - A Telegram bot for scheduling InstaPy
 *   [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 *   [timgrossmann/instagram-profilecrawl](https://github.com/timgrossmann/instagram-profilecrawl) - 📝 quickly crawl the information (e.g. followers, tags etc...) of an instagram profile.
@@ -331,43 +370,6 @@
 *   [drduh/macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide) - Guide to securing and improving privacy on macOS
 *   [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 *   [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
-
-## Rust
-
-*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
-*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
-*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
-*   [napi-rs/package-template](https://github.com/napi-rs/package-template) - Template project for using napi-rs to build native package
-*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A minimal library for building compiled Node.js add-ons in Rust via Node-API
-*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
-*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
-*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
-*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
-*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
-*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
 
 ## C++
 
@@ -667,7 +669,7 @@
 *   [mwilliamson/mammoth.js](https://github.com/mwilliamson/mammoth.js) - Convert Word documents (.docx files) to HTML
 *   [morungos/node-word-extractor](https://github.com/morungos/node-word-extractor) - Read data from a Word document using node.js
 *   [bee-queue/bee-queue](https://github.com/bee-queue/bee-queue) - A simple, fast, robust job/task queue for Node.js, backed by Redis.
-*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (October 2021)
+*   [goldbergyoni/nodebestpractices](https://github.com/goldbergyoni/nodebestpractices) - :white_check_mark:  The Node.js best practices list (November 2021)
 *   [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 *   [webpack-contrib/closure-webpack-plugin](https://github.com/webpack-contrib/closure-webpack-plugin) - Webpack Google Closure Compiler and Closure Library plugin -
 *   [tj/dox](https://github.com/tj/dox) - JavaScript documentation generator for node using markdown and jsdoc
@@ -924,7 +926,6 @@
 *   [mde/ejs](https://github.com/mde/ejs) - Embedded JavaScript templates -- http://ejs.co
 *   [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
 *   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 *   [poberwong/react-native-switch-pro](https://github.com/poberwong/react-native-switch-pro) - a universal switch for android and iOS
 *   [asteridux/paradux](https://github.com/asteridux/paradux) - Paradux - a Redux reducer wrapper that adds a little bit of fun uncertainty
 *   [natefaubion/sparkler](https://github.com/natefaubion/sparkler) - Native pattern matching for JavaScript
@@ -1215,7 +1216,6 @@
 *   [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript \<span> injector for radical Web Typography
 *   [negativo/jquery.mediaquerieswatcher.js](https://github.com/negativo/jquery.mediaquerieswatcher.js) - jquery plugin to show a little box with informations about the responsive framework in use
 *   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-*   [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
 
 ## generic
 
