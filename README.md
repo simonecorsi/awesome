@@ -51,6 +51,8 @@
 
 ## TypeScript
 
+*   [remix-run/remix](https://github.com/remix-run/remix) - Build better websites
+*   [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 *   [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for smart contract development using Typescript
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 *   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
@@ -74,7 +76,7 @@
 *   [nonara/extract-changelog-release](https://github.com/nonara/extract-changelog-release) - Extract release notes from latest entry in standard-version changelog
 *   [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 *   [ShogunPanda/cronometro](https://github.com/ShogunPanda/cronometro) - Simple benchmarking suite powered by HDR histograms.
-*   [snowpackjs/astro](https://github.com/snowpackjs/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+*   [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
 *   [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 *   [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
@@ -471,7 +473,7 @@
 *   [mziccard/node-timsort](https://github.com/mziccard/node-timsort) - Tim Sort implementation for Node.js
 *   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
 *   [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Node.js rate limit requests by key with atomic increments in single process or distributed environment.
-*   [snowpackjs/snowpack](https://github.com/snowpackjs/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
+*   [withastro/snowpack](https://github.com/withastro/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 *   [tmont/nginx-conf](https://github.com/tmont/nginx-conf) - NodeJS module for interacting programmatically with an nginx configuration file
 *   [jaywcjlove/hotkeys](https://github.com/jaywcjlove/hotkeys) - ➷ A robust Javascript library for capturing keyboard input. It has no dependencies.
 *   [ExpressGateway/express-gateway](https://github.com/ExpressGateway/express-gateway) - A microservices API Gateway built on top of Express.js
@@ -1096,8 +1098,6 @@
 *   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - \[DEPRECATED] Apache Cordova - Whitelist Plugin
 *   [afklm/ng-lazy-image](https://github.com/afklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
 *   [pocesar/angular-onfinish](https://github.com/pocesar/angular-onfinish) - Directives that execute a function or an expression when ng-repeat is done with looping. No need for events.
-*   [rossmartin/angular-hashtagify](https://github.com/rossmartin/angular-hashtagify) - Angular directive that enables hashtag support for your app.
-*   [leotrieu/Code4Startup.Ninja](https://github.com/leotrieu/Code4Startup.Ninja) -
 
 ## Go
 
