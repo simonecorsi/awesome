@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [WebAssembly](#webassembly)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [generic](#generic)
@@ -49,8 +50,16 @@
 *   [q](#q)
 *   [Pug](#pug)
 
+## WebAssembly
+
+*   [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Compiler infrastructure and toolchain library for WebAssembly
+*   [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
 ## JavaScript
 
+*   [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
+*   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
+*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 *   [berstend/node-safe](https://github.com/berstend/node-safe) - 🤠 Make using Node.js safe again with Deno-like permissions
 *   [immobiliare/fastify-metrics](https://github.com/immobiliare/fastify-metrics) - 📊 Fastify plugin that integrates metrics collection and dispatch to statsd
 *   [panva/jose](https://github.com/panva/jose) - "JSON Web Almost Everything" - JWA, JWS, JWE, JWT, JWK, JWKS with no dependencies using runtime's native crypto in Node.js, Browser, Cloudflare Workers, Electron, and Deno.
@@ -417,7 +426,6 @@
 *   [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) - Custom module resolver plugin for Babel
 *   [blacksmithstudio/blockbase](https://github.com/blacksmithstudio/blockbase) - Lightweight MVC Framework for Node.js
 *   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
-*   [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
 *   [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
 *   [olistic/warriorjs](https://github.com/olistic/warriorjs) - 🏰 An exciting game of programming and Artificial Intelligence
 *   [SpectivOfficial/live-tour-lab](https://github.com/SpectivOfficial/live-tour-lab) - :heart::heart::heart: Framework for creating Live Tours. Add React VR components. :heart::heart::heart:
@@ -867,7 +875,6 @@
 *   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 *   [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) - Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
 *   [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
-*   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 
 ## TypeScript
 
@@ -1098,7 +1105,6 @@
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
-*   [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
 ## generic
 
@@ -1528,7 +1534,6 @@
 *   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
-*   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
 
 ## Vue
 
@@ -1585,7 +1590,6 @@
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
 
 ## Nim
 
