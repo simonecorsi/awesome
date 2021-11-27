@@ -520,7 +520,7 @@
 *   [speakeasyjs/speakeasy](https://github.com/speakeasyjs/speakeasy) - **NOT MAINTAINED** Two-factor authentication for Node.js. One-time passcode generator (HOTP/TOTP) with support for Google Authenticator.
 *   [elementalui/elemental](https://github.com/elementalui/elemental) - A flexible and beautiful UI framework for React.js
 *   [typicode/hotel](https://github.com/typicode/hotel) - 🏩 A simple process manager for developers. Start apps from your browser and access them using local domains
-*   [visionmedia/debug](https://github.com/visionmedia/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
+*   [debug-js/debug](https://github.com/debug-js/debug) - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers
 *   [postcss/postcss-scss](https://github.com/postcss/postcss-scss) - SCSS parser for PostCSS.
 *   [jaredreich/notie](https://github.com/jaredreich/notie) - 🔔 a clean and simple notification, input, and selection suite for javascript, with no dependencies
 *   [needim/noty](https://github.com/needim/noty) - ⛔️ DEPRECATED - Dependency-free notification library that makes it easy to create alert - success - error - warning - information - confirmation messages as an alternative the standard alert dialog.
