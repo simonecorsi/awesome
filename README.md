@@ -960,7 +960,7 @@
 *   [nonara/extract-changelog-release](https://github.com/nonara/extract-changelog-release) - Extract release notes from latest entry in standard-version changelog
 *   [szmarczak/http-timer](https://github.com/szmarczak/http-timer) - 🕐 Performance timings for HTTP requests
 *   [ShogunPanda/cronometro](https://github.com/ShogunPanda/cronometro) - Simple benchmarking suite powered by HDR histograms.
-*   [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts!
+*   [withastro/astro](https://github.com/withastro/astro) - 🚀🧑‍🚀 Keep your eyes to the skies, astronauts
 *   [bcherny/json-schema-to-typescript](https://github.com/bcherny/json-schema-to-typescript) - Compile JSONSchema to TypeScript type declarations
 *   [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 *   [directus/directus](https://github.com/directus/directus) - Open-Source Data Platform 🐰  — Directus wraps any SQL database with a real-time GraphQL+REST API and an intuitive app for non-technical users.
