@@ -52,6 +52,7 @@
 
 ## JavaScript
 
+*   [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 *   [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
 *   [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 *   [Netflix/pollyjs](https://github.com/Netflix/pollyjs) - Record, Replay, and Stub HTTP Interactions.
@@ -119,7 +120,6 @@
 *   [rjyo/multee](https://github.com/rjyo/multee) - A unified API for node's child_process and worker_threads
 *   [pinojs/pino-elasticsearch](https://github.com/pinojs/pino-elasticsearch) - 🌲 load pino logs into Elasticsearch
 *   [xiaody/react-touch-carousel](https://github.com/xiaody/react-touch-carousel) - Ultra-customizable carousel framework for React.JS
-*   [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 *   [akiran/react-slick](https://github.com/akiran/react-slick) - React carousel component
 *   [nodesecurity/eslint-plugin-security](https://github.com/nodesecurity/eslint-plugin-security) - ESLint rules for Node Security
 *   [filecoin-project/slate](https://github.com/filecoin-project/slate) - WIP - We're building the place you go to discover, share, and sell files on the web.
