@@ -886,6 +886,7 @@
 *   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 *   [eywu/goodbots](https://github.com/eywu/goodbots) - Verify IP addresses of respectful crawlers like Googlebot by reverse dns and forward dns lookups
 *   [microsoft/clock](https://github.com/microsoft/clock) - :clock4: Time utility with lovely mocking support
+*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 *   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
 *   [Azure/go-asynctask](https://github.com/Azure/go-asynctask) - Simple mimic of async/await for those come from C# world, now you can Cancel(), Wait() on a go routine.
 *   [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
@@ -1480,7 +1481,6 @@
 *   [microsoft/mimalloc](https://github.com/microsoft/mimalloc) - mimalloc is a compact general purpose allocator with excellent performance.
 *   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 *   [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source LZ77/LZSS/LZMA compressors
-*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 *   [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 *   [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
 *   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
