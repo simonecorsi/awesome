@@ -153,7 +153,7 @@
 *   [patorjk/figlet.js](https://github.com/patorjk/figlet.js) - A FIG Driver written in JavaScript which aims to fully implement the FIGfont spec.
 *   [sindresorhus/ora](https://github.com/sindresorhus/ora) - Elegant terminal spinner
 *   [ahmadawais/create-node-cli](https://github.com/ahmadawais/create-node-cli) - 📟 CLI to create new Node.js CLI applications in minutes not hours.
-*   [dfahlander/Dexie.js](https://github.com/dfahlander/Dexie.js) - A Minimalistic Wrapper for IndexedDB
+*   [dexie/Dexie.js](https://github.com/dexie/Dexie.js) - A Minimalistic Wrapper for IndexedDB
 *   [auth0/express-openid-connect](https://github.com/auth0/express-openid-connect) - An Express.js middleware to protect OpenID Connect web applications.
 *   [sindresorhus/quick-lru](https://github.com/sindresorhus/quick-lru) - Simple “Least Recently Used” (LRU) cache
 *   [jaredwray/keyv](https://github.com/jaredwray/keyv) - Simple key-value storage with support for multiple backends
@@ -468,7 +468,7 @@
 *   [hugomd/parrot.live](https://github.com/hugomd/parrot.live) - 🐦  Bringing animated parrots to terminals everywhere
 *   [BobNisco/Spotlistr](https://github.com/BobNisco/Spotlistr) - 🎧 Convert Anything to a Spotify Playlist!
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
-*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Cloud-native performance & reliability testing for developers and SREs
+*   [artilleryio/artillery](https://github.com/artilleryio/artillery) - ↯ Planet-scale performance testing for DevOps & SRE
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 *   [mongoosastic/mongoosastic](https://github.com/mongoosastic/mongoosastic) - Index Mongoose models into elasticsearch automatically.
 *   [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
@@ -763,7 +763,7 @@
 *   [GoogleChrome/lighthouse](https://github.com/GoogleChrome/lighthouse) - Automated auditing, performance metrics, and best practices for the web.
 *   [dylang/npm-check](https://github.com/dylang/npm-check) - Check for outdated, incorrect, and unused dependencies.
 *   [CharlGottschalk/approvejs](https://github.com/CharlGottschalk/approvejs) - A simple JavaScript validation library that doesn't interfere
-*   [popperjs/popper-core](https://github.com/popperjs/popper-core) - 🍿Positioning tooltips and popovers is difficult. Popper is here to help!
+*   [floating-ui/floating-ui](https://github.com/floating-ui/floating-ui) - 🍿 JavaScript positioning library for tooltips, popovers, dropdowns, and more
 *   [callmecavs/jump.js](https://github.com/callmecavs/jump.js) - A modern smooth scrolling library.
 *   [julianshapiro/velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation.
 *   [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
