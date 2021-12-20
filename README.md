@@ -547,7 +547,7 @@
 *   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Turn your audience into a business. Publishing, memberships, subscriptions and newsletters.
 *   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript (& TypeScript).
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
-*   [folder/readdir](https://github.com/folder/readdir) - Recursively read a directory, blazing fast.
+*   [folder/readdir](https://github.com/folder/readdir) - Recursively read a directory, blazing fast. Use with picomatch or micromatch to match globs.
 *   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 *   [nexdrew/next-build-id](https://github.com/nexdrew/next-build-id) - Easily set your `next build` BUILD_ID to the latest git commit hash
 *   [useaurora/aurora](https://github.com/useaurora/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
