@@ -1561,7 +1561,7 @@
 ## Vue
 
 *   [nocodb/nocodb](https://github.com/nocodb/nocodb) - :fire: :fire: :fire: Open Source Airtable Alternative
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 🛸 Open source API development ecosystem https://hoppscotch.io
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem https://hoppscotch.io
 
 ## C#
 
