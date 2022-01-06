@@ -14,6 +14,7 @@
 *   [CoffeeScript](#coffeescript)
 *   [WebAssembly](#webassembly)
 *   [C++](#c)
+*   [HTML](#html)
 *   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
@@ -24,7 +25,6 @@
 *   [Vue](#vue)
 *   [C#](#c-2)
 *   [Less](#less)
-*   [HTML](#html)
 *   [Nim](#nim)
 *   [PHP](#php)
 *   [Shell](#shell)
@@ -1309,7 +1309,6 @@
 
 *   [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template) - An awesome README template to jumpstart your projects!
 *   [gayanvoice/top-github-users](https://github.com/gayanvoice/top-github-users) - Check your ranking in GitHub! Don't forget to star ⭐ this repository.
-*   [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
 *   [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 *   [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
 *   [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
@@ -1439,6 +1438,45 @@
 *   [ladislav-zezula/CascLib](https://github.com/ladislav-zezula/CascLib) - An open-source implementation of library for reading CASC storages from Blizzard games since 2014
 *   [fatih/subvim](https://github.com/fatih/subvim) - Vim customized to be like SublimeText
 *   [node-inspector/v8-profiler](https://github.com/node-inspector/v8-profiler) - node bindings for the v8 profiler
+
+## HTML
+
+*   [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
+*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+*   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
+*   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
+*   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
+*   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
+*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+*   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
+*   [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
+*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
+*   [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
+*   [tc39/proposal-numeric-separator](https://github.com/tc39/proposal-numeric-separator) - A proposal to add numeric literal separators in JavaScript.
+*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+*   [tc39/proposal-slice-notation](https://github.com/tc39/proposal-slice-notation) -
+*   [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
+*   [tc39/proposal-async-iteration](https://github.com/tc39/proposal-async-iteration) - Asynchronous iteration for JavaScript
+*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+*   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
+*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
+*   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
+*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
+*   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
+*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
+*   [blivesta/drawer](https://github.com/blivesta/drawer) - Flexible drawer menu using jQuery, iScroll and CSS.
+*   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
+*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+*   [dirtycow/dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
+*   [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+*   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
+*   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
+*   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 
 ## Ruby
 
@@ -1574,44 +1612,6 @@
 ## Less
 
 *   [kenangundogan/fontisto](https://github.com/kenangundogan/fontisto) - The iconic font and CSS toolkit. Fontisto gives you scalable vector icons that can instantly be customized: size, color, drop shadow and anything that can be done with the power of CSS.
-
-## HTML
-
-*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-*   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
-*   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
-*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-*   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
-*   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
-*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
-*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-*   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
-*   [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
-*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
-*   [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
-*   [tc39/proposal-numeric-separator](https://github.com/tc39/proposal-numeric-separator) - A proposal to add numeric literal separators in JavaScript.
-*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-*   [tc39/proposal-slice-notation](https://github.com/tc39/proposal-slice-notation) -
-*   [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
-*   [tc39/proposal-async-iteration](https://github.com/tc39/proposal-async-iteration) - Asynchronous iteration for JavaScript
-*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-*   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
-*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
-*   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
-*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
-*   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
-*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
-*   [blivesta/drawer](https://github.com/blivesta/drawer) - Flexible drawer menu using jQuery, iScroll and CSS.
-*   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
-*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-*   [dirtycow/dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
-*   [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-*   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
-*   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
-*   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 
 ## Nim
 
