@@ -4,10 +4,10 @@
 
 ## Table of Contents
 
+*   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [HTML](#html)
 *   [Go](#go)
-*   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Python](#python)
 *   [Clojure](#clojure)
@@ -51,191 +51,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Rust
-
-*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
-*   [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for https://github.com/dgraph-io/ristretto. A high performance memory-bound Rust cache.
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
-*   [wooorm/levenshtein-rs](https://github.com/wooorm/levenshtein-rs) - Levenshtein algorithm in Rust
-*   [viz-rs/path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
-*   [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
-*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
-*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
-*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
-*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
-*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
-*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
-*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
-*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
-*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
-*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
-*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
-*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
-*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
-*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
-*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
-*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
-*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
-*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
-*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
-*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
-*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
-*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
-*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
-*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
-*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
-*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
-*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
-
-## HTML
-
-*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
-*   [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
-*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
-*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
-*   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
-*   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
-*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
-*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
-*   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
-*   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
-*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
-*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
-*   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
-*   [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
-*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
-*   [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
-*   [tc39/proposal-numeric-separator](https://github.com/tc39/proposal-numeric-separator) - A proposal to add numeric literal separators in JavaScript.
-*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
-*   [tc39/proposal-slice-notation](https://github.com/tc39/proposal-slice-notation) -
-*   [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
-*   [tc39/proposal-async-iteration](https://github.com/tc39/proposal-async-iteration) - Asynchronous iteration for JavaScript
-*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
-*   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
-*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
-*   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
-*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
-*   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
-*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
-*   [blivesta/drawer](https://github.com/blivesta/drawer) - Flexible drawer menu using jQuery, iScroll and CSS.
-*   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
-*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
-*   [dirtycow/dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
-*   [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
-*   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
-*   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
-*   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
-
-## Go
-
-*   [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
-*   [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
-*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
-*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
-*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
-*   [immobiliare/peephole](https://github.com/immobiliare/peephole) - SaltStack transactions tracker
-*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
-*   [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in go
-*   [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
-*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
-*   [anshumanbh/git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
-*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
-*   [eywu/goodbots](https://github.com/eywu/goodbots) - Verify IP addresses of respectful crawlers like Googlebot by reverse dns and forward dns lookups
-*   [microsoft/clock](https://github.com/microsoft/clock) - :clock4: Time utility with lovely mocking support
-*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
-*   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
-*   [Azure/go-asynctask](https://github.com/Azure/go-asynctask) - Simple mimic of async/await for those come from C# world, now you can Cancel(), Wait() on a go routine.
-*   [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
-*   [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
-*   [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
-*   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
-*   [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
-*   [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
-*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
-*   [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges
-*   [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
-*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
-*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
-*   [Netflix/bettertls](https://github.com/Netflix/bettertls) - BetterTLS:  A Name Constraints test suite for HTTPS clients.
-*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
-*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-*   [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
-*   [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
-*   [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
-*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
-*   [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
-*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
-*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-*   [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
-*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
-*   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
-*   [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
-*   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
-*   [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
-*   [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
-*   [roma-glushko/tango](https://github.com/roma-glushko/tango) - Tango is a command-line tool for analyzing access logs 💃
-*   [maxcnunes/gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes
-*   [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
-*   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
-*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
-*   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
-*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
-*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
-*   [google/go-jsonnet](https://github.com/google/go-jsonnet) -
-*   [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
-*   [tj/node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
-*   [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
-*   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
-*   [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
-*   [mattermost/mattermost-plugin-zoom](https://github.com/mattermost/mattermost-plugin-zoom) - Zoom plugin for Mattermost :electric_plug:
-*   [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
-*   [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
-*   [cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) - Simple Sentiment Analysis in Golang
-*   [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
-*   [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
-*   [golang/tour](https://github.com/golang/tour) - \[mirror] A Tour of Go
-*   [golang/go](https://github.com/golang/go) - The Go programming language
-*   [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
-*   [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
-*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
-*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
-*   [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
-*   [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
-*   [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
-*   [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
-*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
-*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-*   [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
-*   [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
-*   [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
-*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
-*   [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
-*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
-*   [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
-*   [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
-*   [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
-*   [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
-*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
-*   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
-*   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
-
 ## JavaScript
 
+*   [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
 *   [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 *   [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 *   [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
@@ -1056,7 +874,189 @@
 *   [afklm/ng-lazy-image](https://github.com/afklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
 *   [pocesar/angular-onfinish](https://github.com/pocesar/angular-onfinish) - Directives that execute a function or an expression when ng-repeat is done with looping. No need for events.
 *   [rossmartin/angular-hashtagify](https://github.com/rossmartin/angular-hashtagify) - Angular directive that enables hashtag support for your app.
-*   [leotrieu/Code4Startup.Ninja](https://github.com/leotrieu/Code4Startup.Ninja) -
+
+## Rust
+
+*   [tokio-rs/tokio](https://github.com/tokio-rs/tokio) - A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ...
+*   [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for https://github.com/dgraph-io/ristretto. A high performance memory-bound Rust cache.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Elegant React-like library for building user interfaces for desktop, web, mobile, SSR, liveview, and more.
+*   [wooorm/levenshtein-rs](https://github.com/wooorm/levenshtein-rs) - Levenshtein algorithm in Rust
+*   [viz-rs/path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
+*   [brson/stdx](https://github.com/brson/stdx) - The missing batteries of Rust
+*   [rustwasm/wasm-pack](https://github.com/rustwasm/wasm-pack) - 📦✨ your favorite rust -> wasm workflow tool!
+*   [mgattozzi/whorl](https://github.com/mgattozzi/whorl) -  single file, std only, async Rust executor
+*   [Brooooooklyn/blake-hash](https://github.com/Brooooooklyn/blake-hash) - Rust Blake hash bindings for Node.js.
+*   [napi-rs/node-rs](https://github.com/napi-rs/node-rs) - Node.js bindings ❤️ Rust crates
+*   [BurntSushi/rust-snappy](https://github.com/BurntSushi/rust-snappy) - Snappy compression implemented in Rust (including the Snappy frame format).
+*   [napi-rs/napi-rs](https://github.com/napi-rs/napi-rs) - A framework for building compiled Node.js add-ons in Rust via Node-API
+*   [solana-labs/solana](https://github.com/solana-labs/solana) - Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.
+*   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
+*   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
+*   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
+*   [ellie/atuin](https://github.com/ellie/atuin) - 🐢 Magical shell history
+*   [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+*   [rust-lang/rustlings](https://github.com/rust-lang/rustlings) - :crab: Small exercises to get you used to reading and writing Rust code!
+*   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
+*   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+*   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
+*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+*   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
+*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+*   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
+*   [cjbassi/ytop](https://github.com/cjbassi/ytop) - A TUI system monitor written in Rust
+*   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
+*   [cube-js/cube.js](https://github.com/cube-js/cube.js) - 📊  Cube — Open-Source Analytics API for Building Data Apps
+*   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+*   [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript.
+*   [Schniz/fnm](https://github.com/Schniz/fnm) - 🚀 Fast and simple Node.js version manager, built in Rust
+*   [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
+*   [copy/v86](https://github.com/copy/v86) - x86 virtualization in your browser, recompiling x86 to wasm on the fly
+*   [harababurel/gcsf](https://github.com/harababurel/gcsf) - a FUSE file system based on Google Drive
+*   [atom-archive/xray](https://github.com/atom-archive/xray) - An experimental next-generation Electron-based text editor
+*   [xi-editor/xi-editor](https://github.com/xi-editor/xi-editor) - A modern editor with a backend written in Rust.
+*   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
+
+## HTML
+
+*   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
+*   [alshdavid/BorrowScript](https://github.com/alshdavid/BorrowScript) - TypeScript with a Borrow Checker. Multi-threaded, Tiny binaries. No GC. Easy to write.
+*   [kristoferjoseph/flexboxgrid](https://github.com/kristoferjoseph/flexboxgrid) - Grid based on CSS3 flexbox
+*   [DeviaVir/zenbot](https://github.com/DeviaVir/zenbot) - Zenbot is a command-line cryptocurrency trading bot using Node.js and MongoDB.
+*   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
+*   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+*   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
+*   [tc39/proposal-class-fields](https://github.com/tc39/proposal-class-fields) - Orthogonally-informed combination of public and private fields proposals
+*   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
+*   [wowchemy/wowchemy-hugo-themes](https://github.com/wowchemy/wowchemy-hugo-themes) - 🔥 Hugo website builder, Hugo themes & Hugo CMS. No code, build with widgets! 创建在线课程，学术简历或初创网站。
+*   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
+*   [dixonandmoe/rellax](https://github.com/dixonandmoe/rellax) - Lightweight, vanilla javascript parallax library
+*   [entone/Humongolus](https://github.com/entone/Humongolus) - Persistence and Widget Framework for Python and MongoDB
+*   [tc39/proposal-pattern-matching](https://github.com/tc39/proposal-pattern-matching) - Pattern matching syntax for ECMAScript
+*   [w3c/webauthn](https://github.com/w3c/webauthn) - Web Authentication: An API for accessing Public Key Credentials
+*   [tc39/proposal-numeric-separator](https://github.com/tc39/proposal-numeric-separator) - A proposal to add numeric literal separators in JavaScript.
+*   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
+*   [tc39/proposal-slice-notation](https://github.com/tc39/proposal-slice-notation) -
+*   [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
+*   [tc39/proposal-async-iteration](https://github.com/tc39/proposal-async-iteration) - Asynchronous iteration for JavaScript
+*   [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code) - A neural network that transforms a design mock-up into a static website.
+*   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
+*   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
+*   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
+*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
+*   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
+*   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
+*   [blivesta/drawer](https://github.com/blivesta/drawer) - Flexible drawer menu using jQuery, iScroll and CSS.
+*   [metafizzy/isotope](https://github.com/metafizzy/isotope) - :revolving_hearts: Filter & sort magical layouts
+*   [StartBootstrap/startbootstrap-sb-admin-2](https://github.com/StartBootstrap/startbootstrap-sb-admin-2) - A free, open source, Bootstrap admin theme created by Start Bootstrap
+*   [dirtycow/dirtycow.github.io](https://github.com/dirtycow/dirtycow.github.io) - Dirty COW
+*   [foundation/foundation-sites](https://github.com/foundation/foundation-sites) - The most advanced responsive front-end framework in the world. Quickly create prototypes and production code for sites that work on any kind of device.
+*   [dwyl/repo-badges](https://github.com/dwyl/repo-badges) - :star: Use repo badges (build passing, coverage, etc) in your readme/markdown file to signal code quality in a project.
+*   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
+*   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
+
+## Go
+
+*   [dutchcoders/transfer.sh](https://github.com/dutchcoders/transfer.sh) - Easy and fast file sharing from the command-line.
+*   [vercel/turborepo](https://github.com/vercel/turborepo) - The High-performance Build System for JavaScript & TypeScript Codebases
+*   [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast, multi-platform web server with automatic HTTPS
+*   [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
+*   [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
+*   [immobiliare/peephole](https://github.com/immobiliare/peephole) - SaltStack transactions tracker
+*   [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
+*   [go-semantic-release/semantic-release](https://github.com/go-semantic-release/semantic-release) - 📦🚀 semantic-release written in go
+*   [mattermost/mattermost-server](https://github.com/mattermost/mattermost-server) - Mattermost is an open source platform for secure collaboration across the entire software development lifecycle.
+*   [friendsofgo/killgrave](https://github.com/friendsofgo/killgrave) - Simple way to generate mock servers written in Go
+*   [anshumanbh/git-all-secrets](https://github.com/anshumanbh/git-all-secrets) - A tool to capture all the git secrets by leveraging multiple open source git searching tools
+*   [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
+*   [eywu/goodbots](https://github.com/eywu/goodbots) - Verify IP addresses of respectful crawlers like Googlebot by reverse dns and forward dns lookups
+*   [microsoft/clock](https://github.com/microsoft/clock) - :clock4: Time utility with lovely mocking support
+*   [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
+*   [golang/protobuf](https://github.com/golang/protobuf) - Go support for Google's protocol buffers
+*   [Azure/go-asynctask](https://github.com/Azure/go-asynctask) - Simple mimic of async/await for those come from C# world, now you can Cancel(), Wait() on a go routine.
+*   [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+*   [thejerf/suture](https://github.com/thejerf/suture) - Supervisor trees for Go.
+*   [encoredev/encore](https://github.com/encoredev/encore) - The Backend Development Engine built for Go
+*   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Go from Docker Compose to Kubernetes
+*   [pyroscope-io/pyroscope](https://github.com/pyroscope-io/pyroscope) - Continuous Profiling Platform!  Debug performance issues down to a single line of code
+*   [profclems/glab](https://github.com/profclems/glab) - A GitLab CLI tool bringing GitLab to your command line
+*   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
+*   [saniales/golang-crypto-trading-bot](https://github.com/saniales/golang-crypto-trading-bot) - A golang implementation of a console-based trading bot for cryptocurrency exchanges
+*   [hashicorp/waypoint](https://github.com/hashicorp/waypoint) - A tool to build, deploy, and release any application on any platform.
+*   [containers/podman](https://github.com/containers/podman) - Podman: A tool for managing OCI containers and pods.
+*   [hashicorp/consul](https://github.com/hashicorp/consul) - Consul is a distributed, highly available, and data center aware solution to connect and configure applications across dynamic, distributed infrastructure.
+*   [Netflix/bettertls](https://github.com/Netflix/bettertls) - BetterTLS:  A Name Constraints test suite for HTTPS clients.
+*   [go-gorm/gorm](https://github.com/go-gorm/gorm) - The fantastic ORM library for Golang, aims to be developer friendly
+*   [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
+*   [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+*   [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
+*   [maxence-charriere/go-app](https://github.com/maxence-charriere/go-app) - A package to build progressive web apps with Go programming language and WebAssembly.
+*   [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
+*   [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
+*   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
+*   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
+*   [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+*   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
+*   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
+*   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
+*   [go-mgo/mgo](https://github.com/go-mgo/mgo) - The MongoDB driver for Go. UNMAINTAINED - SEE BELOW
+*   [golang/dep](https://github.com/golang/dep) - Go dependency management tool experiment (deprecated)
+*   [sagikazarmark/modern-go-application](https://github.com/sagikazarmark/modern-go-application) - Modern Go Application example
+*   [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+*   [roma-glushko/tango](https://github.com/roma-glushko/tango) - Tango is a command-line tool for analyzing access logs 💃
+*   [maxcnunes/gaper](https://github.com/maxcnunes/gaper) - Builds and restarts a Go project when it crashes or some watched file changes
+*   [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
+*   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
+*   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
+*   [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+*   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
+*   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
+*   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
+*   [google/go-jsonnet](https://github.com/google/go-jsonnet) -
+*   [google/wire](https://github.com/google/wire) - Compile-time Dependency Injection for Go
+*   [tj/node-prune](https://github.com/tj/node-prune) - Remove unnecessary files from node_modules (.md, .ts, ...)
+*   [GoogleContainerTools/skaffold](https://github.com/GoogleContainerTools/skaffold) - Easy and Repeatable Kubernetes Development
+*   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
+*   [docker/docker-ce](https://github.com/docker/docker-ce) - :warning: This repository is deprecated and will be archived (Docker CE itself is NOT deprecated) see the https://github.com/docker/docker-ce/blob/master/README.md :warning:
+*   [mattermost/mattermost-plugin-zoom](https://github.com/mattermost/mattermost-plugin-zoom) - Zoom plugin for Mattermost :electric_plug:
+*   [dshearer/jobber](https://github.com/dshearer/jobber) - An alternative to cron, with sophisticated status-reporting and error-handling
+*   [mcuadros/ofelia](https://github.com/mcuadros/ofelia) - A docker job scheduler (aka. crontab for docker)
+*   [cdipaolo/sentiment](https://github.com/cdipaolo/sentiment) - Simple Sentiment Analysis in Golang
+*   [uber-go/dig](https://github.com/uber-go/dig) - A reflection based dependency injection toolkit for Go.
+*   [uber-go/fx](https://github.com/uber-go/fx) - A dependency injection based application framework for Go.
+*   [golang/tour](https://github.com/golang/tour) - \[mirror] A Tour of Go
+*   [golang/go](https://github.com/golang/go) - The Go programming language
+*   [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
+*   [gorilla/mux](https://github.com/gorilla/mux) - A powerful HTTP router and URL matcher for building Go web servers with 🦍
+*   [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
+*   [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+*   [mingrammer/go-web-framework-stars](https://github.com/mingrammer/go-web-framework-stars) - :star: Web frameworks for Go, most starred on GitHub
+*   [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
+*   [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
+*   [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+*   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
+*   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+*   [tus/tusd](https://github.com/tus/tusd) - Reference server implementation in Go of tus: the open protocol for resumable file uploads
+*   [digitalocean/doctl](https://github.com/digitalocean/doctl) - The official command line interface for the DigitalOcean API.
+*   [tomnomnom/gron](https://github.com/tomnomnom/gron) - Make JSON greppable!
+*   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
+*   [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+*   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
+*   [fiorix/freegeoip](https://github.com/fiorix/freegeoip) - IP geolocation web server
+*   [apex/up](https://github.com/apex/up) - Deploy infinitely scalable serverless apps, apis, and sites in seconds to AWS.
+*   [esimov/caire](https://github.com/esimov/caire) - Content aware image resize library
+*   [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
+*   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
+*   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+*   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
 ## TypeScript
 
