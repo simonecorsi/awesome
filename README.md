@@ -150,7 +150,7 @@
 *   [getndazn/pensieve](https://github.com/getndazn/pensieve) - "The Pensieve is a magical object used to review memories"
 *   [sindresorhus/got](https://github.com/sindresorhus/got) - 🌐 Human-friendly and powerful HTTP request library for Node.js
 *   [seek-oss/treat](https://github.com/seek-oss/treat) - :candy: Themeable, statically extracted CSS‑in‑JS with near‑zero runtime.
-*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for data fetching
+*   [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 *   [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 *   [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
 *   [andrico1234/beautiful-skill-tree](https://github.com/andrico1234/beautiful-skill-tree) - 🌲🌲🌲Create beautiful skill trees for your web apps
