@@ -1144,7 +1144,7 @@
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 *   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
-*   [swc-project/swc](https://github.com/swc-project/swc) - swc is a super-fast compiler written in rust; producing widely-supported javascript from modern standards and typescript.
+*   [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 *   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
 *   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
