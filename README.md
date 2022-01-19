@@ -93,7 +93,7 @@
 *   [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 *   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
 *   [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
-*   [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for Preact, React, Typescript
+*   [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - A Out of the Box 🎁 Browser Extension Template with support for React, Typescript, Preact
 *   [typicode/steno](https://github.com/typicode/steno) - Specialized fast async file writer
 *   [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
 *   [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from) - fastify plugin to forward the current http request to another server
