@@ -302,7 +302,7 @@
 
 ## JavaScript
 
-*   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Graceful shutdown Node.js application, this module helps handling process exit signals and closing pending jobs
+*   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Gracefully shutdown Node.js application: help you handle exit signals and cleanup
 *   [immobiliare/fastify-metrics](https://github.com/immobiliare/fastify-metrics) - 📊 Fastify plugin that integrates metrics collection and dispatch to statsd
 *   [thefrontside/ctrlc-windows](https://github.com/thefrontside/ctrlc-windows) - Send a CTRL-C event to a Windows console application
 *   [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
