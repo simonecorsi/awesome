@@ -53,7 +53,8 @@
 
 ## JavaScript
 
-*   [immobiliare/fastify-sentry](https://github.com/immobiliare/fastify-sentry) - 🚧  Sentry errors handler for fastify that just work! Plug, add your DNS and you're good to go!
+*   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
+*   [immobiliare/fastify-sentry](https://github.com/immobiliare/fastify-sentry) - 🚧  Sentry errors handler for fastify that just work! Plug, add your DSN and you're good to go!
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 *   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Gracefully shutdown Node.js application: help you handle exit signals and cleanup
 *   [immobiliare/fastify-metrics](https://github.com/immobiliare/fastify-metrics) - 📊 Fastify plugin that integrates metrics collection and dispatch to statsd
@@ -866,7 +867,6 @@
 *   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
 *   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok_hand: Drag and drop so simple it hurts
 *   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
-*   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
 
 ## Go
 
