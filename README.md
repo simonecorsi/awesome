@@ -170,7 +170,7 @@
 *   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 *   [pierrec/node-lz4](https://github.com/pierrec/node-lz4) - LZ4 fast compression algorithm for NodeJS
 *   [kesla/node-snappy](https://github.com/kesla/node-snappy) - DEPRECATED - please use https://github.com/Brooooooklyn/snappy. Nodejs bindings to Google's Snappy compression library
-*   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda
+*   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 *   [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org\[Node]
 *   [ES-Community/nsecure](https://github.com/ES-Community/nsecure) - Node.js security CLI / API that allow you to deeply analyze the dependency tree of a given package / directory
 *   [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) - JSON.parse() drop-in replacement with prototype poisoning protection
