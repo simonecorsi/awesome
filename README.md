@@ -1656,7 +1656,7 @@
 
 ## Swift
 
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Lightweight yet powerful http library for Swift with native async/await support
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Swift Web API client & Stubber built with async/await
 *   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
 *   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 *   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
