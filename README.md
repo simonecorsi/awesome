@@ -1656,8 +1656,8 @@
 
 ## Swift
 
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Swift Web API client & Stubber built with async/await
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - ❇️ Feature Flagging framework in Swift sauce (support dynamic data providers, like FirebaseRemoteConfig)
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Web API client & Stubber built with async/await for Swift
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🧪 Feature Flagging made easy, for Swift
 *   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 *   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
 *   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
