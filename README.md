@@ -440,7 +440,7 @@
 *   [kesla/node-snappy](https://github.com/kesla/node-snappy) - DEPRECATED - please use https://github.com/Brooooooklyn/snappy. Nodejs bindings to Google's Snappy compression library
 *   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 *   [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org\[Node]
-*   [ES-Community/nsecure](https://github.com/ES-Community/nsecure) - Node.js security CLI / API that allow you to deeply analyze the dependency tree of a given package / directory
+*   [NodeSecure/cli](https://github.com/NodeSecure/cli) - Node.js security CLI that allow you to deeply analyze the dependency tree of a given package / directory
 *   [fastify/secure-json-parse](https://github.com/fastify/secure-json-parse) - JSON.parse() drop-in replacement with prototype poisoning protection
 *   [fastify/fastify-helmet](https://github.com/fastify/fastify-helmet) - Important security headers for Fastify
 *   [dnlup/fastify-traps](https://github.com/dnlup/fastify-traps) - A fastify plugin to close the server gracefully on SIGINT and SIGTERM signals
