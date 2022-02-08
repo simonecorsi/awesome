@@ -1593,7 +1593,7 @@
 
 ## Ruby
 
-*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation, and the public issue tracker for all things Dependabot Updates
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 The core logic behind Dependabot's update PR creation. For product feedback see: https://github.com/github/feedback/discussions/categories/dependabot-feedback
 *   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - Heroku buildpack for handling static sites and single page web apps
 *   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 *   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
