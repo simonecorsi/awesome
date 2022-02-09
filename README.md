@@ -746,7 +746,7 @@
 *   [hapijs/boom](https://github.com/hapijs/boom) - HTTP-friendly error objects
 *   [facebook/regenerator](https://github.com/facebook/regenerator) - Source transformer enabling ECMAScript 6 generator functions in JavaScript-of-today.
 *   [zachleat/fontfaceonload](https://github.com/zachleat/fontfaceonload) - A simple utility to execute a callback when a webfont loads.
-*   [nk-o/jarallax](https://github.com/nk-o/jarallax) - NO dependencies JavaScript parallax scrolling
+*   [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
 *   [imgix/drift](https://github.com/imgix/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 *   [orliesaurus/nodemailer-mailgun-transport](https://github.com/orliesaurus/nodemailer-mailgun-transport) - nodemailer is an amazing node module to send emails within any of your nodejs apps. This is the transport plugin that goes with nodemailer to send email using Mailgun 🔫
