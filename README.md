@@ -58,7 +58,7 @@
 *   [tschaub/es-main](https://github.com/tschaub/es-main) - Test if an ES module is run directly (require.main replacement)
 *   [nearform/heap-profiler](https://github.com/nearform/heap-profiler) - Heap dump and sample profiler generator for Node.
 *   [fastify/light-my-request](https://github.com/fastify/light-my-request) - Fake HTTP injection library
-*   [immobiliare/fastify-sentry](https://github.com/immobiliare/fastify-sentry) - 🚧  Sentry errors handler for fastify that just work! Plug, add your DSN and you're good to go!
+*   [immobiliare/fastify-sentry](https://github.com/immobiliare/fastify-sentry) - 🚧  Sentry errors handler for fastify that just works! Install, add your DSN and you're good to go!
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 *   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Gracefully shutdown Node.js application: help you handle exit signals and cleanup
 *   [immobiliare/fastify-metrics](https://github.com/immobiliare/fastify-metrics) - 📊 Fastify plugin that integrates metrics collection and dispatch to statsd
