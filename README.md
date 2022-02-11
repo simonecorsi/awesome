@@ -979,7 +979,7 @@
 *   [nbubna/HTML](https://github.com/nbubna/HTML) - A simple, extensible way to work directly with the DOM.
 *   [Vincit/objection.js](https://github.com/Vincit/objection.js) - An SQL-friendly ORM for Node.js
 *   [atom/github](https://github.com/atom/github) - :octocat: Git and GitHub integration for Atom
-*   [facebook/prepack](https://github.com/facebook/prepack) - A JavaScript bundle optimizer.
+*   [facebookarchive/prepack](https://github.com/facebookarchive/prepack) - A JavaScript bundle optimizer.
 *   [totaljs/framework](https://github.com/totaljs/framework) - Node.js framework
 *   [sindresorhus/make-dir](https://github.com/sindresorhus/make-dir) - Make a directory and its parents if needed - Think `mkdir -p`
 *   [chaijs/chai-http](https://github.com/chaijs/chai-http) - HTTP Response assertions for the Chai Assertion Library.
