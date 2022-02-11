@@ -783,7 +783,7 @@
 *   [atom/atom](https://github.com/atom/atom) - :atom: The hackable text editor
 *   [koajs/mount](https://github.com/koajs/mount) - Mount other Koa applications or middleware to a given pathname
 *   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
-*   [lorenwest/node-config](https://github.com/lorenwest/node-config) - Node.js Application Configuration
+*   [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
 *   [koajs/bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
 *   [allouis/minivents](https://github.com/allouis/minivents) - ✨JavaScript events in 355 Bytes✨
 *   [Olical/EventEmitter](https://github.com/Olical/EventEmitter) - Evented JavaScript for the browser
