@@ -1461,7 +1461,7 @@
 *   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 *   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
 *   [remoblaser/lazy-artisan](https://github.com/remoblaser/lazy-artisan) - Lazy Artisan automatically adds and manages your Service Providers and Facades in your app config
-*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8
+*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
 *   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 *   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
 *   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
