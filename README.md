@@ -990,7 +990,7 @@
 *   [rancher-sandbox/rancher-desktop](https://github.com/rancher-sandbox/rancher-desktop) - Kubernetes and container management to the desktop
 *   [hotwired/turbo](https://github.com/hotwired/turbo) - The speed of a single-page web application without having to write any JavaScript
 *   [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-*   [Aslemammad/tinypool](https://github.com/Aslemammad/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation, a fork of piscina, with fewer features and smaller size (38KB)
+*   [tinylibs/tinypool](https://github.com/tinylibs/tinypool) - 🧵 A minimal and tiny Node.js Worker Thread Pool implementation, a fork of piscina, with fewer features and smaller size (38KB)
 *   [rotemdan/lzutf8.js](https://github.com/rotemdan/lzutf8.js) - A high-performance Javascript string compression library
 *   [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
 *   [ngneat/falso](https://github.com/ngneat/falso) - All the Fake Data for All Your Real Needs 🙂
