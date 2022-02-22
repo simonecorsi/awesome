@@ -1385,7 +1385,7 @@
 *   [CryptoSignal/Crypto-Signal](https://github.com/CryptoSignal/Crypto-Signal) - Github.com/CryptoSignal - #1 Quant Trading & Technical Analysis Bot - 3,100+ stars, 900+ forks
 *   [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
 *   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
-*   [ubuntu/microk8s](https://github.com/ubuntu/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+*   [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
 *   [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - \[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking
 *   [pallets/jinja](https://github.com/pallets/jinja) - A very fast and expressive template engine.
 *   [nicolargo/glances](https://github.com/nicolargo/glances) - Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems.
