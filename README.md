@@ -53,6 +53,7 @@
 
 ## JavaScript
 
+*   [npm/cli](https://github.com/npm/cli) - the package manager for JavaScript
 *   [fastify/restartable](https://github.com/fastify/restartable) - Restart Fastify without losing a request
 *   [cristianbote/goober](https://github.com/cristianbote/goober) - 🥜 goober, a less than 1KB 🎉  css-in-js alternative with a familiar API
 *   [cookpete/auto-changelog](https://github.com/cookpete/auto-changelog) - Command line tool for generating a changelog from git tags and commit history
@@ -1090,7 +1091,6 @@
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 *   [skevy/wobble](https://github.com/skevy/wobble) - A tiny (~1.7 KB gzipped) spring physics micro-library that models a damped harmonic oscillator.
-*   [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 *   [jaredpalmer/after.js](https://github.com/jaredpalmer/after.js) - Next.js-like framework for server-rendered React apps built with React Router
 *   [kirill-konshin/next-redux-wrapper](https://github.com/kirill-konshin/next-redux-wrapper) - Redux wrapper for Next.js
 *   [wix/react-native-calendars](https://github.com/wix/react-native-calendars) - React Native Calendar Components 🗓️ 📆
