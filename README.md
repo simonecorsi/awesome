@@ -1184,7 +1184,7 @@
 *   [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 *   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-*   [asim/go-micro](https://github.com/asim/go-micro) - A framework for distributed systems development
+*   [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 *   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
@@ -1198,7 +1198,7 @@
 *   [oxequa/realize](https://github.com/oxequa/realize) - Realize is the #1 Golang Task Runner which enhance your workflow by automating the most common tasks and using the best performing Golang live reloading.
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 *   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
-*   [micro/micro](https://github.com/micro/micro) - A distributed cloud operating system
+*   [micro/micro](https://github.com/micro/micro) - A distributed cloud platform
 *   [nymiun/nlp](https://github.com/nymiun/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 *   [valyala/fasthttp](https://github.com/valyala/fasthttp) - Fast HTTP package for Go. Tuned for high performance. Zero memory allocations in hot paths. Up to 10x faster than net/http
