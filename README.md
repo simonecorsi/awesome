@@ -1260,7 +1260,7 @@
 *   [getgauge/gauge](https://github.com/getgauge/gauge) - Light weight cross-platform test automation
 *   [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
-*   [asim/go-micro](https://github.com/asim/go-micro) - A distributed systems framework
+*   [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 *   [grafana/k6](https://github.com/grafana/k6) - A modern load testing tool, using Go and JavaScript - https://k6.io
 *   [monitoror/monitoror](https://github.com/monitoror/monitoror) - Unified monitoring wallboard — Light, ergonomic and reliable monitoring for anything.
