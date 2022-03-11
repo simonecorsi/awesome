@@ -511,7 +511,7 @@
 *   [WP-API/node-wpapi](https://github.com/WP-API/node-wpapi) - An isomorphic JavaScript client for the WordPress REST API
 *   [outlandishideas/kasia](https://github.com/outlandishideas/kasia) - :tophat: A React Redux toolset for the WordPress API
 *   [shortlist-digital/tapestry-wp](https://github.com/shortlist-digital/tapestry-wp) - Universal JavaScript Application for rendering React front-ends via the Wordpress API
-*   [typicode/pkg-ok](https://github.com/typicode/pkg-ok) - 👌 Checks paths and scripts defined in package.json before you publish
+*   [abraham/pkg-ok](https://github.com/abraham/pkg-ok) - 👌 Checks paths and scripts defined in package.json before you publish
 *   [SOHU-Co/kafka-node](https://github.com/SOHU-Co/kafka-node) - Node.js client for Apache Kafka 0.8 and later.
 *   [nikhilk/node-tensorflow](https://github.com/nikhilk/node-tensorflow) - Node.js + TensorFlow
 *   [GoogleChromeLabs/sw-precache](https://github.com/GoogleChromeLabs/sw-precache) - \[Deprecated] A node module to generate service worker code that will precache specific resources so they work offline.
