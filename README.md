@@ -639,7 +639,7 @@
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 *   [stojanovic/scottyjs](https://github.com/stojanovic/scottyjs) - Deploy static websites and single page apps to AWS S3 and CloudFront with a single command
 *   [franciscop/superdom](https://github.com/franciscop/superdom) - :flags: Better and simpler ES6 DOM manipulation
-*   [niftylettuce/frisbee](https://github.com/niftylettuce/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.
+*   [ladjs/frisbee](https://github.com/ladjs/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.
 *   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
 *   [gregchamberlain/react-chips](https://github.com/gregchamberlain/react-chips) - A chips input field build in React
 *   [tsironis/lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
