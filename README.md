@@ -4,8 +4,9 @@
 
 ## Table of Contents
 
-*   [Perl](#perl)
 *   [JavaScript](#javascript)
+*   [V](#v)
+*   [Perl](#perl)
 *   [Rust](#rust)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -51,13 +52,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Perl
-
-*   [ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals) - Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)
-*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-
 ## JavaScript
 
+*   [shuding/nextra](https://github.com/shuding/nextra) - The Next.js Static Site Generator
 *   [mcollina/loopbench](https://github.com/mcollina/loopbench) - Benchmark your event loop
 *   [jonschlinkert/gray-matter](https://github.com/jonschlinkert/gray-matter) - Smarter YAML front matter parser, used by metalsmith, Gatsby, Netlify, Assemble, mapbox-gl, phenomic, vuejs vitepress, TinaCMS, Shopify Polaris, Ant Design, Astro,  hashicorp, garden, slidev, saber, sourcegraph, and many others. Simple to use, and battle tested. Parses YAML by default but can also parse JSON Front Matter, Coffee Front Matter, TOML Front Matter, and has support for custom parsers. Please follow gray-matter's author: https://github.com/jonschlinkert
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
@@ -891,6 +888,15 @@
 *   [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
 *   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 
+## V
+
+*   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. https://vlang.io
+
+## Perl
+
+*   [ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals) - Secure Software Development Fundamentals EdX course (from the OpenSSF Best Practices WG)
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
 ## Rust
 
 *   [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
@@ -1210,7 +1216,6 @@
 *   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
-*   [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
 
 ## Go
 
@@ -1626,7 +1631,6 @@
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
 
 ## Clojure
 
