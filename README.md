@@ -1108,7 +1108,7 @@
 *   [quasilyte/gopherkon](https://github.com/quasilyte/gopherkon) - Go mascot image constructor. Create your cute own gopher.
 *   [lmammino/tall](https://github.com/lmammino/tall) - Promise-based, No-dependency URL unshortner (expander) module for Node.js
 *   [immobiliare/atomic-state](https://github.com/immobiliare/atomic-state) - A decentralized state management library for React
-*   [notifirehq/notifire](https://github.com/notifirehq/notifire) - 🚀 Open-source notification infrastructure for products
+*   [novu-co/novu](https://github.com/novu-co/novu) - 🚀 Open-source notification infrastructure for products
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 *   [khaosdoctor/gotql](https://github.com/khaosdoctor/gotql) - GraphQL query utility for serverside apps
 *   [micheleriva/krabs](https://github.com/micheleriva/krabs) - 🦀   Express.js/Fastify middleware and virtual host for multi-tenant Next.js applications
