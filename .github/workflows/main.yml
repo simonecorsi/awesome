@@ -9,9 +9,9 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v1
+      - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: simonecorsi/mawesome
+        uses: simonecorsi/mawesome@v1.1.0-next.1
         with:
           api-token: ${{ secrets.API_TOKEN }}
           github-token: ${{ secrets.GITHUB_TOKEN }}
