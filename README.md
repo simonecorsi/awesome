@@ -431,7 +431,7 @@
 *   [folder/readdir](https://github.com/folder/readdir) - Recursively read a directory, blazing fast. Use with picomatch or micromatch to match globs.
 *   [typicode/husky](https://github.com/typicode/husky) - Git hooks made easy 🐶 woof!
 *   [nexdrew/next-build-id](https://github.com/nexdrew/next-build-id) - Easily set your `next build` BUILD_ID to the latest git commit hash
-*   [useaurora/aurora](https://github.com/useaurora/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
+*   [itsrennyman/aurora](https://github.com/itsrennyman/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
 *   [matthewmueller/date](https://github.com/matthewmueller/date) - Date() for humans
 *   [breejs/bree](https://github.com/breejs/bree) - :traffic_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
 *   [next-boost/multee](https://github.com/next-boost/multee) - A unified API for node's child_process and worker_threads
