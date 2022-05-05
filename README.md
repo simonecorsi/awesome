@@ -55,6 +55,7 @@
 
 ## JavaScript
 
+*   [lukeed/uvu](https://github.com/lukeed/uvu) - uvu is an extremely fast and lightweight test runner for Node.js and the browser
 *   [jaydenseric/fake-tag](https://github.com/jaydenseric/fake-tag) - A fake template literal tag to trick syntax highlighters, linters and formatters into action.
 *   [fastify/fastify-redis](https://github.com/fastify/fastify-redis) - Plugin to share a common Redis connection across Fastify.
 *   [ehmicky/wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 🤠 Object property paths with wildcards and regexps 🌵
@@ -710,6 +711,7 @@
 *   [evanyeung/terminal-slack](https://github.com/evanyeung/terminal-slack) - Terminal client for slack
 *   [Prestaul/jsend](https://github.com/Prestaul/jsend) - Node utilities and middleware to assist with sending and handling jsend responses
 *   [SeyZ/jsonapi-serializer](https://github.com/SeyZ/jsonapi-serializer) - A Node.js framework agnostic library for (de)serializing your data to JSON API
+*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
 *   [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 *   [howardabrams/node-mocks-http](https://github.com/howardabrams/node-mocks-http) - Mock 'http' objects for testing Express routing functions
 *   [ctrlplusb/react-universally](https://github.com/ctrlplusb/react-universally) - A starter kit for universal react applications.
@@ -895,11 +897,10 @@
 *   [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) - Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
 *   [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
 *   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
-*   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - \[DEPRECATED] Apache Cordova - Whitelist Plugin
-*   [afklm/ng-lazy-image](https://github.com/afklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
 
 ## TypeScript
 
+*   [streamich/memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
 *   [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - Translate your TypeScript errors into plain English
 *   [antfu/case-police](https://github.com/antfu/case-police) - 🚨 Make the case correct, PLEASE!
 *   [scopsy/await-to-js](https://github.com/scopsy/await-to-js) - Async await wrapper for easy error handling without try-catch
@@ -1652,7 +1653,6 @@
 *   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
 *   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
 *   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
-*   [italia/developers.italia.it](https://github.com/italia/developers.italia.it) - The developer community designing and developing public digital services in Italy
 *   [WebReflection/hyperHTML](https://github.com/WebReflection/hyperHTML) - A Fast & Light Virtual DOM Alternative
 *   [digicorp/propeller](https://github.com/digicorp/propeller) - Propeller - Develop more, Code less. Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.
 *   [blivesta/drawer](https://github.com/blivesta/drawer) - Flexible drawer menu using jQuery, iScroll and CSS.
