@@ -5,13 +5,13 @@ on:
   schedule:
     - cron: '0 0 * * *'
 
-jobs:
+jobs:q
   build:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       - name: Awesome generator
-        uses: simonecorsi/mawesome@next
+        uses: simonecorsi/mawesome@a8b657735b9879636cc039d79fddcdca33ccf38e
         with:
-          api-token: ${{ secrets.API_TOKEN }}
-          github-token: ${{ secrets.GITHUB_TOKEN }}
+          api-token: ${{ secrets.API_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
