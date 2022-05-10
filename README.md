@@ -439,7 +439,7 @@
 *   [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 *   [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A wonderful alternative to expressjs. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. A true successor of expressjs and laravel | 谢谢 https://github.com/kataras/iris/issues/1329 |
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you/谢谢 https://github.com/kataras/iris/issues/1329 |
 *   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
 ## JavaScript
