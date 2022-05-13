@@ -3001,7 +3001,7 @@
 
 *   [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
-*   [EQ-Alpha/KeyDB](https://github.com/EQ-Alpha/KeyDB) - A Multithreaded Fork of Redis
+*   [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis
 
 *   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 
