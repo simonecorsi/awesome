@@ -1775,7 +1775,7 @@
 
 *   [urfave/cli](https://github.com/urfave/cli) - A simple, fast, and fun package for building command line apps in Go
 
-*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues
+*   [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues and hard-coded secrets
 
 *   [go-martini/martini](https://github.com/go-martini/martini) - Classy web framework for Go
 
