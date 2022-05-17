@@ -167,7 +167,7 @@
 
 *   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
 
-*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin to serve Vite SSR applications with universal API, data fetching and hydration utilities.
+*   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.
 
 *   [lirantal/eslint-plugin-anti-trojan-source](https://github.com/lirantal/eslint-plugin-anti-trojan-source) - ESLint plugin to detect and stop Trojan Source attacks
 
