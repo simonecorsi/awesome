@@ -55,6 +55,10 @@
 
 ## JavaScript
 
+*   [vadimdemedes/switch-branch-cli](https://github.com/vadimdemedes/switch-branch-cli) - Switch git branches by their pull request title
+
+*   [piuccio/git-promise](https://github.com/piuccio/git-promise) - Simple wrapper to run any git command and process it's output using promises.
+
 *   [sindresorhus/del](https://github.com/sindresorhus/del) - Delete files and directories
 
 *   [Surnet/swagger-jsdoc](https://github.com/Surnet/swagger-jsdoc) - Generates swagger/openapi specification based on jsDoc comments and YAML files.
@@ -1691,8 +1695,6 @@
 
 *   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
-*   [DBRAINDESIGN/dbrain.js](https://github.com/DBRAINDESIGN/dbrain.js) -
-
 ## TypeScript
 
 *   [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
@@ -2664,8 +2666,6 @@
 *   [grvcoelho/css-styleguide](https://github.com/grvcoelho/css-styleguide) - :book: Opinionated CSS styleguide for scalable applications
 
 *   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
-
-*   [mousavian/sublime-snippets-for-laravel-blade](https://github.com/mousavian/sublime-snippets-for-laravel-blade) - Sublime 3 snippets for Laravel 4 blade files
 
 ## Rust
 
