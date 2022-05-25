@@ -55,6 +55,8 @@
 
 ## JavaScript
 
+*   [lukechilds/this](https://github.com/lukechilds/this) - Traverses up the directory tree and returns the first module found
+
 *   [vadimdemedes/switch-branch-cli](https://github.com/vadimdemedes/switch-branch-cli) - Switch git branches by their pull request title
 
 *   [piuccio/git-promise](https://github.com/piuccio/git-promise) - Simple wrapper to run any git command and process it's output using promises.
@@ -3142,8 +3144,6 @@
 *   [remoblaser/lazy-artisan](https://github.com/remoblaser/lazy-artisan) - Lazy Artisan automatically adds and manages your Service Providers and Facades in your app config
 
 *   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
-
-*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 
 ## HTML
 
