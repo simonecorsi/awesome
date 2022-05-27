@@ -319,7 +319,7 @@
 
 *   [kornelski/http-cache-semantics](https://github.com/kornelski/http-cache-semantics) - RFC 7234 in JavaScript. Parses HTTP headers to correctly compute cacheability of responses, even in complex cases
 
-*   [mbalabash/estimo](https://github.com/mbalabash/estimo) - Evaluates how long the browser will execute your javascript code
+*   [mbalabash/estimo](https://github.com/mbalabash/estimo) - Evaluates how long a browser will execute your javascript code
 
 *   [jaredwray/cacheable-request](https://github.com/jaredwray/cacheable-request) - Wrap native HTTP requests with RFC compliant cache support
 
