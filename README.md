@@ -2443,7 +2443,7 @@
 
 *   [hyperledger/fabric](https://github.com/hyperledger/fabric) - Hyperledger Fabric is an enterprise-grade permissioned distributed ledger framework for developing solutions and applications. Its modular and versatile design satisfies a broad range of industry use cases. It offers a unique approach to consensus that enables performance at scale while preserving privacy.
 
-*   [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Scan git repos (or files) for secrets using regex and entropy 🔑
+*   [zricethezav/gitleaks](https://github.com/zricethezav/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 
 *   [kubernetes/kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
 
@@ -2587,7 +2587,7 @@
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - Building the homepage every developer deserves 👩🏽‍💻 👨‍💻
+*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
 
 *   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
 
