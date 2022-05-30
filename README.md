@@ -93,8 +93,6 @@
 
 *   [galvez/typejuice](https://github.com/galvez/typejuice) - Documentation generator for TypeScript Declaration Files inspired by godoc.
 
-*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
-
 *   [nanoexpress/nanoexpress](https://github.com/nanoexpress/nanoexpress) - Professional backend framework for Node.js
 
 *   [kartikk221/hyper-express](https://github.com/kartikk221/hyper-express) - High performance Node.js webserver with a simple-to-use API powered by uWebsockets.js under the hood.
@@ -1720,6 +1718,8 @@
 *   [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and open fair-code licensed node based Workflow Automation Tool. Easily automate tasks across different services.
 
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
+
+*   [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 
 *   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
