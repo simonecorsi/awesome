@@ -55,6 +55,8 @@
 
 ## JavaScript
 
+*   [fastify/process-warning](https://github.com/fastify/process-warning) - A small utility for creating warnings and emitting them.
+
 *   [mcollina/on-exit-leak-free](https://github.com/mcollina/on-exit-leak-free) - Execute a function on exit without leaking memory, allowing all objects to be garbage collected
 
 *   [virgafox/checker-bot](https://github.com/virgafox/checker-bot) -
@@ -2381,7 +2383,7 @@
 
 *   [micro/micro](https://github.com/micro/micro) - An API first development platform
 
-*   [nymiun/nlp](https://github.com/nymiun/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
+*   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
@@ -2602,8 +2604,6 @@
 *   [fntneves/jquery-labelauty](https://github.com/fntneves/jquery-labelauty) - A lightweight and beautiful jQuery plugin for radio and checkbox inputs.
 
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
-
-*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 
 ## miscellaneous
 
