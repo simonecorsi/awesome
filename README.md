@@ -2461,7 +2461,7 @@
 
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more. Thank you / 谢谢 https://github.com/kataras/iris/issues/1329
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. A true successor of expressjs and laravel. Supports AWS Lambda, gRPC, MVC, Unique Router, Websockets, Sessions, Test suite, Dependency Injection and more | 谢谢 https://github.com/kataras/iris/issues/1329
 
 *   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
