@@ -55,6 +55,8 @@
 
 ## JavaScript
 
+*   [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - Apply semantic-release's automatic publishing to a monorepo.
+
 *   [fastify/process-warning](https://github.com/fastify/process-warning) - A small utility for creating warnings and emitting them.
 
 *   [mcollina/on-exit-leak-free](https://github.com/mcollina/on-exit-leak-free) - Execute a function on exit without leaking memory, allowing all objects to be garbage collected
@@ -1691,11 +1693,9 @@
 
 *   [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
 
-*   [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
-
-*   [vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org) - Italian translation for vuejs.org :it:
-
 ## TypeScript
+
+*   [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 
 *   [intuit/auto](https://github.com/intuit/auto) - Generate releases based on semantic version labels on pull requests.
 
