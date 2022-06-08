@@ -1945,7 +1945,7 @@
 
 *   [dottorblaster/stocazzo](https://github.com/dottorblaster/stocazzo) - Stocazzo As A Service
 
-*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB (Preview)
+*   [prisma/prisma](https://github.com/prisma/prisma) - Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB
 
 *   [irandeno/espresso](https://github.com/irandeno/espresso) - Minimal web framework for Deno
 
