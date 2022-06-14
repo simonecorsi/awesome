@@ -167,7 +167,7 @@
 
 *   [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for https://github.com/dgraph-io/ristretto. A high performance memory-bound Rust cache.
 
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like crossplatform app development for desktop, web, mobile, and more.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
 
 *   [wooorm/levenshtein-rs](https://github.com/wooorm/levenshtein-rs) - Levenshtein algorithm in Rust
 
