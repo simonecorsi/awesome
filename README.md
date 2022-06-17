@@ -1923,7 +1923,7 @@
 
 *   [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 💥🦁✨
+*   [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! ✨🦁🚀✨
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
@@ -2617,7 +2617,7 @@
 
 *   [prometheus/node\_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 
-*   [erroneousboat/slack-term](https://github.com/erroneousboat/slack-term) - Slack client for your terminal
+*   [jpbruinsslot/slack-term](https://github.com/jpbruinsslot/slack-term) - Slack client for your terminal
 
 *   [traefik/traefik](https://github.com/traefik/traefik) - The Cloud Native Application Proxy
 
