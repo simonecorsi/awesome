@@ -1833,7 +1833,7 @@
 
 *   [9bitStudios/flexisel](https://github.com/9bitStudios/flexisel) - Responsive carousel jQuery plugin...
 
-*   [leonuh/ui-router.redirect](https://github.com/leonuh/ui-router.redirect) - A helper module for AngularUI Router, which allows you to handle redirect chains
+*   [gergelyhegykozi/ui-router.redirect](https://github.com/gergelyhegykozi/ui-router.redirect) - A helper module for AngularUI Router, which allows you to handle redirect chains
 
 *   [Victa/scrolly](https://github.com/Victa/scrolly) - PROJECT IS NOT MAINTAINED - Super simple and easy to use parallax plugin for jQuery
 
