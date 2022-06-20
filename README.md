@@ -435,8 +435,6 @@
 
 *   [75lb/renamer](https://github.com/75lb/renamer) - Rename files in bulk.
 
-*   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
-
 *   [pierrec/node-lz4](https://github.com/pierrec/node-lz4) - LZ4 fast compression algorithm for NodeJS
 
 *   [kesla/node-snappy](https://github.com/kesla/node-snappy) - DEPRECATED - please use https://github.com/Brooooooklyn/snappy. Nodejs bindings to Google's Snappy compression library
@@ -2808,6 +2806,8 @@
 *   [appwrite/awesome-appwrite](https://github.com/appwrite/awesome-appwrite) - Carefully curated list of awesome Appwrite resources 💪
 
 *   [adonisjs-community/awesome-adonisjs](https://github.com/adonisjs-community/awesome-adonisjs) - A curated list of awesome bookmarks, packages, tutorials, videos and other cool resources from the AdonisJS ecosystem.
+
+*   [lirantal/awesome-nodejs-security](https://github.com/lirantal/awesome-nodejs-security) - Awesome Node.js Security resources
 
 *   [msgpack/msgpack](https://github.com/msgpack/msgpack) - MessagePack is an extremely efficient object serialization library. It's like JSON, but very fast and small.
 
