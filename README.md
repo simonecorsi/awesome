@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Starlark](#starlark)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [Go](#go)
@@ -53,6 +54,10 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## Starlark
+
+*   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
 ## JavaScript
 
@@ -2245,8 +2250,6 @@
 *   [socketio/socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
 
 *   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
-
-*   [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 
 ## Go
 
