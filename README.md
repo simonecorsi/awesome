@@ -3141,7 +3141,7 @@
 
 *   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer, easier configuration, and an improved folder structure
 
-*   [wordplate/wordplate](https://github.com/wordplate/wordplate) - WordPlate is a wrapper around WordPress. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
+*   [vinkla/wordplate](https://github.com/vinkla/wordplate) - WordPlate is a boilerplate. It's like building any other WordPress website with themes and plugins. Just with sprinkles on top.
 
 *   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
 
