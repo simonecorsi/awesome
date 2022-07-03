@@ -1883,7 +1883,7 @@
 
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Minimum resources, high-end performance :leaves:  | 谢谢 |
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
 
 *   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
