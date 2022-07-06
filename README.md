@@ -57,6 +57,8 @@
 
 ## JavaScript
 
+*   [levelgraph/levelgraph](https://github.com/levelgraph/levelgraph) - Graph database JS style for Node.js and the Browser. Built upon LevelUp and LevelDB.
+
 *   [fastify/fastify-cli](https://github.com/fastify/fastify-cli) - Run a Fastify application with one command!
 
 *   [immobiliare/fastify-sentry](https://github.com/immobiliare/fastify-sentry) - 🚧  Sentry errors handler for fastify that just works! Install, add your DSN and you're good to go!
@@ -1671,8 +1673,6 @@
 
 *   [Jam3/devtool](https://github.com/Jam3/devtool) - \[OBSOLETE] runs Node.js programs through Chromium DevTools
 
-*   [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
-
 ## Go
 
 *   [cloudwego/hertz](https://github.com/cloudwego/hertz) - A high-performance and strong-extensibility Go HTTP framework that helps developers build microservices.
@@ -1805,7 +1805,7 @@
 
 *   [micro/micro](https://github.com/micro/micro) - API first development platform
 
-*   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
+*   [nymiun/nlp](https://github.com/nymiun/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
 *   [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software
 
