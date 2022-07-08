@@ -481,8 +481,6 @@
 
 *   [mcollina/reusify](https://github.com/mcollina/reusify) - Reuse objects and functions with style
 
-*   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
-
 *   [WebReflection/ucdn](https://github.com/WebReflection/ucdn) - A µcompress based CDN utility, compatible with both Express and native http module
 
 *   [WebReflection/ucompress](https://github.com/WebReflection/ucompress) - A micro, all-in-one, compressor for common Web files.
@@ -2284,6 +2282,8 @@
 *   [piscinajs/piscina](https://github.com/piscinajs/piscina) - A fast, efficient Node.js Worker Thread Pool implementation
 
 *   [typestack/typedi](https://github.com/typestack/typedi) - Simple yet powerful dependency injection tool for JavaScript and TypeScript.
+
+*   [blitz-js/blitz](https://github.com/blitz-js/blitz) - ⚡️The Fullstack React Framework — built on Next.js
 
 *   [andrico1234/beautiful-skill-tree](https://github.com/andrico1234/beautiful-skill-tree) - 🌲🌲🌲Create beautiful skill trees for your web apps
 
