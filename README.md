@@ -18,6 +18,7 @@
 *   [Zig](#zig)
 *   [V](#v)
 *   [Perl](#perl)
+*   [Dockerfile](#dockerfile)
 *   [PHP](#php)
 *   [HTML](#html)
 *   [Clojure](#clojure)
@@ -48,7 +49,6 @@
 *   [Markdown](#markdown)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Scheme](#scheme)
-*   [Dockerfile](#dockerfile)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
 *   [VimL](#viml)
@@ -2721,8 +2721,6 @@
 
 *   [edgedb/imdbench](https://github.com/edgedb/imdbench) - IMDBench — Realistic ORM benchmarking
 
-*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
-
 *   [edgedb/edgedb](https://github.com/edgedb/edgedb) - A next-generation graph-relational database.
 
 *   [cdk8s-team/cdk8s](https://github.com/cdk8s-team/cdk8s) - Define Kubernetes native apps and abstractions using object-oriented programming
@@ -3088,6 +3086,14 @@
 *   [ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals) - Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)
 
 *   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
+## Dockerfile
+
+*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 49 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+
+*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
 ## PHP
 
@@ -3528,12 +3534,6 @@
 ## Scheme
 
 *   [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
-
-## Dockerfile
-
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
 ## Jupyter Notebook
 
