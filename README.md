@@ -57,6 +57,10 @@
 
 ## JavaScript
 
+*   [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI for Engineers
+
+*   [jonschlinkert/randomatic](https://github.com/jonschlinkert/randomatic) - Easily generate random strings like passwords, with simple options for specifying a length and for using patterns of numeric, alpha-numeric, alphabetical, special or custom characters. (the original "generate-password")
+
 *   [shaozi/ldap-authentication](https://github.com/shaozi/ldap-authentication) - 🔐🔐🔐 A simple Nodejs Async LDAP authentication library
 
 *   [fastify/fastify-hotwire](https://github.com/fastify/fastify-hotwire) - Use the Hotwire pattern with Fastify
@@ -1666,8 +1670,6 @@
 *   [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 
 *   [google/traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
-
-*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 
 ## miscellaneous
 
@@ -3334,8 +3336,6 @@
 *   [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
-
-*   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C
 
