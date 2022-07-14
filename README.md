@@ -199,8 +199,6 @@
 
 *   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 
-*   [apify/apify-js](https://github.com/apify/apify-js) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
-
 *   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
 
 *   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - This plugin lets you load a Vite client application and set it up for Server-Side Rendering (SSR) with Fastify.
@@ -2262,6 +2260,8 @@
 *   [microsoft/codetour](https://github.com/microsoft/codetour) - VS Code extension that allows you to record and play back guided tours of codebases, directly within the editor.
 
 *   [ptkdev/aboutmeinfo-telegram-bot](https://github.com/ptkdev/aboutmeinfo-telegram-bot) - ℹ️ About Me Info Bot: Share your social media and links on Telegram
+
+*   [apify/crawlee](https://github.com/apify/crawlee) - Apify SDK — The scalable web scraping and crawling library for JavaScript/Node.js. Enables development of data extraction and web automation jobs (not only) with headless Chrome and Puppeteer.
 
 *   [ptkdev/quizquickanswer-telegram-game-bot](https://github.com/ptkdev/quizquickanswer-telegram-game-bot) - 🎮 Funny quiz game for telegram, play with friends on your group!
 
