@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [Go](#go)
 *   [JavaScript](#javascript)
 *   [miscellaneous](#miscellaneous)
@@ -28,7 +29,6 @@
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
 *   [C](#c-1)
-*   [Swift](#swift)
 *   [Java](#java)
 *   [C#](#c-2)
 *   [Less](#less)
@@ -54,6 +54,24 @@
 *   [VimL](#viml)
 *   [q](#q)
 *   [Pug](#pug)
+
+## Swift
+
+*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
+
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Web API client & Stubber built with async/await for Swift
+
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🧪 Feature Flagging made easy, for Swift
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+
+*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
+
+*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+
+*   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## Go
 
@@ -1889,6 +1907,120 @@
 
 *   [google/traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
 
+*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
+
+*   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
+
+*   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
+
+*   [Jam3/devtool](https://github.com/Jam3/devtool) - \[OBSOLETE] runs Node.js programs through Chromium DevTools
+
+*   [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
+
+*   [MonkDev/tinyvision](https://github.com/MonkDev/tinyvision) - A visual file selector for TinyMCE v4.
+
+*   [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
+
+*   [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the \<html> noise.
+
+*   [trailsjs/trails](https://github.com/trailsjs/trails) - :evergreen\_tree: Modern Web Application Framework for Node.js.
+
+*   [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
+
+*   [dhg/Redditate](https://github.com/dhg/Redditate) - A simple, minimal viewer for Reddit
+
+*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+
+*   [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
+
+*   [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
+
+*   [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
+
+*   [vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org) - Italian translation for vuejs.org :it:
+
+*   [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
+
+*   [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
+
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
+
+*   [dpup/node-flags](https://github.com/dpup/node-flags) - Flag handling library for node.js.
+
+*   [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+
+*   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
+
+*   [DBRAINDESIGN/dbrain.js](https://github.com/DBRAINDESIGN/dbrain.js) -
+
+*   [tasuki/masonry-ordered](https://github.com/tasuki/masonry-ordered) - Alternative layout strategy for jQuery Masonry. Tries to preserve ordering of the Masonry bricks.
+
+*   [markdalgleish/stellar.js](https://github.com/markdalgleish/stellar.js) - Stellar.js - Parallax scrolling made easy
+
+*   [hpneo/gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps
+
+*   [desandro/draggabilly](https://github.com/desandro/draggabilly) - :point\_down: Make that shiz draggable
+
+*   [andyvr/picEdit](https://github.com/andyvr/picEdit) - An attempt to create a simple front-end image editor jQuery plugin that would replace a file-upload input box in a HTML form.
+
+*   [VincentGarreau/particles.js](https://github.com/VincentGarreau/particles.js) - A lightweight JavaScript library for creating particles
+
+*   [relax/relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
+
+*   [negativo/geocodeAnyone.js](https://github.com/negativo/geocodeAnyone.js) - Geocode ... ? ... Anyone? geocodeAnyone!  WHAT???  A deadly simple JavaScript library to deal with the geocode API.
+
+*   [webrexstudio/center.js](https://github.com/webrexstudio/center.js) - Center.js is jQuery library to make element center as compared to his outside element. It's also work in responsive.
+
+*   [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
+
+*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+
+*   [facebook/react](https://github.com/facebook/react) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
+
+*   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
+
+*   [gloomyson/StarCraft](https://github.com/gloomyson/StarCraft) - HTML5 version of StarCraft game
+
+*   [chevtek/mongoose-simpledb](https://github.com/chevtek/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
+
+*   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
+
+*   [davatron5000/Lettering.js](https://github.com/davatron5000/Lettering.js) - A lightweight, easy to use Javascript \<span> injector for radical Web Typography
+
+*   [negativo/jquery.mediaquerieswatcher.js](https://github.com/negativo/jquery.mediaquerieswatcher.js) - jquery plugin to show a little box with informations about the responsive framework in use
+
+*   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+
+*   [brenden/node-webshot](https://github.com/brenden/node-webshot) - Easy website screenshots in Node.js
+
+*   [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
+
+*   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok\_hand: Drag and drop so simple it hurts
+
+*   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
+
+*   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
+
+*   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
+
+*   [pixelcog/parallax.js](https://github.com/pixelcog/parallax.js) - Simple parallax scrolling effect inspired by Spotify.com implemented as a jQuery plugin
+
+*   [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
+
+*   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
+
+*   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - \[DEPRECATED] Apache Cordova - Whitelist Plugin
+
+*   [afklm/ng-lazy-image](https://github.com/afklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
+
+*   [pocesar/angular-onfinish](https://github.com/pocesar/angular-onfinish) - Directives that execute a function or an expression when ng-repeat is done with looping. No need for events.
+
+*   [rossmartin/angular-hashtagify](https://github.com/rossmartin/angular-hashtagify) - Angular directive that enables hashtag support for your app.
+
+*   [leotrieu/Code4Startup.Ninja](https://github.com/leotrieu/Code4Startup.Ninja) -
+
+*   [grevory/angular-local-storage](https://github.com/grevory/angular-local-storage) - An AngularJS module that gives you access to the browsers local storage with cookie fallback
+
 ## miscellaneous
 
 *   [BlackFan/client-side-prototype-pollution](https://github.com/BlackFan/client-side-prototype-pollution) - Prototype Pollution and useful Script Gadgets
@@ -2032,6 +2164,20 @@
 *   [steeve/angular-seo](https://github.com/steeve/angular-seo) - SEO for AngularJS apps made easy.
 
 *   [rse/typopro](https://github.com/rse/typopro) - Fonts for Professional Typography
+
+*   [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
+
+*   [grvcoelho/css-styleguide](https://github.com/grvcoelho/css-styleguide) - :book: Opinionated CSS styleguide for scalable applications
+
+*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
+
+*   [mousavian/sublime-snippets-for-laravel-blade](https://github.com/mousavian/sublime-snippets-for-laravel-blade) - Sublime 3 snippets for Laravel 4 blade files
+
+*   [DBRAINDESIGN/letsink.com](https://github.com/DBRAINDESIGN/letsink.com) -
+
+*   [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
+
+*   [TheBestMovieIsYourImagination/Free-cookie-law-tools](https://github.com/TheBestMovieIsYourImagination/Free-cookie-law-tools) - Features, pros and cons of the free cookie law tools
 
 ## Rust
 
@@ -2719,6 +2865,24 @@
 
 *   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
+*   [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
+
+*   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
+
+*   [vuejs/vue](https://github.com/vuejs/vue) - 🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.
+
+*   [leongersen/noUiSlider](https://github.com/leongersen/noUiSlider) - noUiSlider is a lightweight, ARIA-accessible JavaScript range slider with multi-touch and keyboard support. It is fully GPU animated: no reflows, so it is fast; even on older devices. It also fits wonderfully in responsive designs and has no dependencies.
+
+*   [t4t5/sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+
+*   [NarrativeScience/log.io](https://github.com/NarrativeScience/log.io) - Real-time log monitoring in your browser
+
+*   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
+
+*   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
+
+*   [angular/angular](https://github.com/angular/angular) - The modern web developer’s platform
+
 ## Python
 
 *   [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
@@ -2851,6 +3015,8 @@
 
 *   [httpie/http-prompt](https://github.com/httpie/http-prompt) - An interactive command-line HTTP and API testing client built on top of HTTPie featuring autocomplete, syntax highlighting, and more. https://twitter.com/httpie
 
+*   [equinusocio/material-theme](https://github.com/equinusocio/material-theme) - Material Theme, the most epic theme for Sublime Text 3 by Mattia Astorino
+
 ## Nix
 
 *   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection
@@ -2940,6 +3106,8 @@
 *   [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 
 *   [tj/n](https://github.com/tj/n) - Node version management
+
+*   [tinalatif/flat.icns](https://github.com/tinalatif/flat.icns) - A flat icon set for OS X
 
 ## C++
 
@@ -3079,6 +3247,12 @@
 
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 
+*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
+
+*   [pixelsign/html5-device-mockups](https://github.com/pixelsign/html5-device-mockups) - HTML5 mockups of popular devices, to showcase your portfolio and spice up your website.
+
+*   [zachfitz/Ionic-Material](https://github.com/zachfitz/Ionic-Material) - Material Design style and animations for Ionic
+
 ## Zig
 
 *   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
@@ -3165,6 +3339,26 @@
 
 *   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
 
+*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
+
+*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
+
+*   [remoblaser/lazy-artisan](https://github.com/remoblaser/lazy-artisan) - Lazy Artisan automatically adds and manages your Service Providers and Facades in your app config
+
+*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
+
+*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
+
+*   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
+
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+
+*   [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
+
+*   [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
+
+*   [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
+
 ## HTML
 
 *   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
@@ -3237,6 +3431,12 @@
 
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 
+*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
+
+*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
+
+*   [artpolikarpov/fotorama](https://github.com/artpolikarpov/fotorama) - A simple, stunning, powerful jQuery gallery.
+
 ## Clojure
 
 *   [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Desktop app download link: https://github.com/logseq/logseq/releases, roadmap: https://trello.com/b/8txSM12G/roadmap
@@ -3266,6 +3466,10 @@
 *   [passy/angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry.
 
 *   [adamalbrecht/ngModal](https://github.com/adamalbrecht/ngModal) - Very basic modal dialog directive for Angular.js
+
+*   [caiogondim/js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - :mortar\_board: JavaScript Patterns snippets for Sublime Text
+
+*   [boennemann/badges](https://github.com/boennemann/badges) - :flower\_playing\_cards: Readme Badges – Gotta catch 'em all
 
 ## WebAssembly
 
@@ -3329,6 +3533,8 @@
 
 *   [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
 
+*   [TimPietrusky/KudosPlease](https://github.com/TimPietrusky/KudosPlease) - A simple Kudos widget with no dependencies. And it's free.
+
 ## Assembly
 
 *   [BLAKE3-team/BLAKE3](https://github.com/BLAKE3-team/BLAKE3) - the official Rust and C implementations of the BLAKE3 cryptographic hash function
@@ -3336,6 +3542,8 @@
 *   [RandalLinden/DOOM-FX](https://github.com/RandalLinden/DOOM-FX) - Doom/FX for Super Nintendo with SuperFX GSU2A
 
 *   [microsoft/MS-DOS](https://github.com/microsoft/MS-DOS) - The original sources of MS-DOS 1.25 and 2.0, for reference purposes
+
+*   [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11) - Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.
 
 ## C
 
@@ -3381,22 +3589,6 @@
 
 *   [netdata/netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
-## Swift
-
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Web API client & Stubber built with async/await for Swift
-
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🧪 Feature Flagging made easy, for Swift
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-
-*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
-
-*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
-
-*   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
-
 ## Java
 
 *   [jeremylong/DependencyCheck](https://github.com/jeremylong/DependencyCheck) - OWASP dependency-check is a software composition analysis utility that detects publicly disclosed vulnerabilities in application dependencies.
@@ -3417,6 +3609,8 @@
 
 *   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
 
+*   [pockethub/PocketHub](https://github.com/pockethub/PocketHub) - PocketHub Android App
+
 ## C\#
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
@@ -3424,6 +3618,10 @@
 *   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 *   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
+
+*   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
+
+*   [HearthstoneTracker/HearthstoneTracker](https://github.com/HearthstoneTracker/HearthstoneTracker) - Automatically track and generate statistics for all your HearthStone games.
 
 ## Less
 
@@ -3514,6 +3712,8 @@
 ## Lua
 
 *   [oratory/wago.io](https://github.com/oratory/wago.io) - Code for website wago.io
+
+*   [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 
 ## Reason
 
