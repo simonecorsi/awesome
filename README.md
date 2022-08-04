@@ -407,6 +407,8 @@
 
 *   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 
+*   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
+
 *   [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org\[Node]
 
 *   [NodeSecure/cli](https://github.com/NodeSecure/cli) - JavaScript security CLI that allow you to deeply analyze the dependency tree of a given package or local Node.js project.
@@ -1026,8 +1028,6 @@
 *   [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) - Custom module resolver plugin for Babel
 
 *   [blacksmithstudio/blockbase](https://github.com/blacksmithstudio/blockbase) - Lightweight MVC Framework for Node.js
-
-*   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 
 *   [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
 
@@ -1915,8 +1915,6 @@
 
 *   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 
-*   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - \[DEPRECATED] Apache Cordova - Whitelist Plugin
-
 ## TypeScript
 
 *   [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators
@@ -2348,6 +2346,8 @@
 *   [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - The best JavaScript/TypeScript job processing framework on the planet.
 
 *   [hinok/react-router-last-location](https://github.com/hinok/react-router-last-location) - Provides access to the last location in react + react-router (v4.x, v5.x) applications. ❤️ Using hooks? useLastLocation | 💉 Using HOC? withLastLocation
+
+*   [vercel/micro](https://github.com/vercel/micro) - Asynchronous HTTP microservices
 
 *   [express-validator/express-validator](https://github.com/express-validator/express-validator) - An express.js middleware for validator.js.
 
