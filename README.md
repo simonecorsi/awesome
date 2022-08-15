@@ -2993,7 +2993,7 @@
 
 *   [rust-lang/rustup](https://github.com/rust-lang/rustup) - The Rust toolchain installer
 
-*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust.
+*   [reacherhq/check-if-email-exists](https://github.com/reacherhq/check-if-email-exists) - Check if an email address exists without sending any email, written in Rust. Comes with a ⚙️ HTTP backend.
 
 *   [pop-os/popsicle](https://github.com/pop-os/popsicle) - Multiple USB File Flasher
 
