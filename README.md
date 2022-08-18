@@ -1315,7 +1315,7 @@
 
 *   [lo-tp/material-ui-pagination](https://github.com/lo-tp/material-ui-pagination) - An easy to use and customizable pagination component for material ui.
 
-*   [sideway/joi](https://github.com/sideway/joi) - The most powerful data validation library for JS
+*   [hapijs/joi](https://github.com/hapijs/joi) - The most powerful data validation library for JS
 
 *   [nicinabox/superslides](https://github.com/nicinabox/superslides) - A fullscreen, hardware accelerated slider for jQuery.
 
@@ -1975,7 +1975,7 @@
 
 *   [nusu/avvvatars](https://github.com/nusu/avvvatars) - Beautifully crafted unique avatar placeholder for your next react project
 
-*   [Bytebase/star-history](https://github.com/Bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
+*   [bytebase/star-history](https://github.com/bytebase/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 
 *   [aidenybai/million](https://github.com/aidenybai/million) - Virtual DOM into the future! 🔟🔼6️⃣
 
