@@ -81,7 +81,7 @@
 
 *   [immobiliare/fastify-metrics](https://github.com/immobiliare/fastify-metrics) - 📊 Fastify plugin that integrates metrics collection and dispatch to statsd
 
-*   [codfish/semantic-release-action](https://github.com/codfish/semantic-release-action) - GitHub Action for running semantic-release. Respects any .releaserc.js configuration file in your repo. Sets output and environment variables for you to use in subsequent actions.
+*   [codfish/semantic-release-action](https://github.com/codfish/semantic-release-action) - The Original GitHub Action for running semantic-release. Sets output and environment variables for you to use in subsequent actions.
 
 *   [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - Apply semantic-release's automatic publishing to a monorepo.
 
