@@ -2745,9 +2745,9 @@
 
 *   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
 
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀Async/Await HTTP Client made for Swift 5+. It also includes a powerful stubber to mock request/response and simulate network conditions.
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
 
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🧪 Feature Flagging made easy, for Swift
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
 
 *   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
 
