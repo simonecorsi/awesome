@@ -1925,7 +1925,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - Free and Open-source Headless CMS and Application Framework built with TypeScript, Node.js, React and MongoDB
 
-*   [nearform/lyra](https://github.com/nearform/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+*   [LyraSearch/lyra](https://github.com/LyraSearch/lyra) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
 
 *   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 
@@ -2051,7 +2051,7 @@
 
 *   [ptkdev/aboutmeinfo-telegram-bot](https://github.com/ptkdev/aboutmeinfo-telegram-bot) - ℹ️ About Me Info Bot: Share your social media and links on Telegram
 
-*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library that helps you build reliable crawlers. Fast.
+*   [apify/crawlee](https://github.com/apify/crawlee) - Crawlee — The web scraping and browser automation library for Node.js that helps you build reliable crawlers. Fast.
 
 *   [ptkdev/quizquickanswer-telegram-game-bot](https://github.com/ptkdev/quizquickanswer-telegram-game-bot) - 🎮 Funny quiz game for telegram, play with friends on your group!
 
