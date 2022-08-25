@@ -36,6 +36,7 @@
 *   [Makefile](#makefile)
 *   [Haskell](#haskell)
 *   [Vim script](#vim-script)
+*   [Vim Script](#vim-script-1)
 *   [Common Lisp](#common-lisp)
 *   [Vue](#vue)
 *   [Dart](#dart)
@@ -3649,8 +3650,6 @@
 
 *   [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 
-*   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
-
 *   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 
 *   [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
@@ -3665,13 +3664,17 @@
 
 *   [dodie/vim-disapprove-deep-indentation](https://github.com/dodie/vim-disapprove-deep-indentation) - ಠ\_ಠ Vim plugin to disapprove deeply indented code. ಠ\_ಠ
 
-*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
-
 *   [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
 
 *   [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
 
 *   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
+
+## Vim Script
+
+*   [airblade/vim-gitgutter](https://github.com/airblade/vim-gitgutter) - A Vim plugin which shows git diff markers in the sign column and stages/previews/undoes hunks and partial hunks.
+
+*   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
 ## Common Lisp
 
