@@ -58,6 +58,8 @@
 
 ## TypeScript
 
+*   [plutotcool/release](https://github.com/plutotcool/release) - 🔖 - GitHub Action to automatically release packages using lerna or semantic-release
+
 *   [imbhargav5/rooks](https://github.com/imbhargav5/rooks) -  Essential React custom hooks ⚓ to super charge your components!
 
 *   [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators
@@ -250,7 +252,7 @@
 
 *   [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
 
-*   [cmorten/opine](https://github.com/cmorten/opine) - Fast, minimalist web framework for Deno ported from ExpressJS.
+*   [cmorten/opine](https://github.com/cmorten/opine) - Minimalist web framework for Deno ported from ExpressJS.
 
 *   [mandarineorg/mandarinets](https://github.com/mandarineorg/mandarinets) - Mandarine.TS is a typescript, decorator-driven framework that allows you to create server-side applications. Mandarine.TS provides a range of built-in solutions such as Dependency Injection, Components, ORM and more. Under its umbrella, Mandarine.TS has 4 modules: Core, Data, Security and MVC, these modules will offer you the requirements to build a Mandarine-powered application.
 
@@ -661,6 +663,8 @@
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
 
 ## JavaScript
+
+*   [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) - This action automatically approves and merges dependabot PRs.
 
 *   [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 
@@ -2386,8 +2390,6 @@
 
 *   [flatiron/prompt](https://github.com/flatiron/prompt) - a beautiful command-line prompt for node.js
 
-*   [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
-
 ## Python
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
@@ -3435,8 +3437,6 @@
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
 
 *   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
-
-*   [angular/angular.io](https://github.com/angular/angular.io) - Website for the Angular project (see github.com/angular/angular for the project repo)
 
 ## Clojure
 
