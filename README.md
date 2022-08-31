@@ -2662,7 +2662,7 @@
 
 *   [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 
-*   [micro/micro](https://github.com/micro/micro) - An API first development platform
+*   [micro/micro](https://github.com/micro/micro) - API first development platform
 
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
