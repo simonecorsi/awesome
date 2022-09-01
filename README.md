@@ -1004,7 +1004,7 @@
 
 *   [hemerajs/hemera](https://github.com/hemerajs/hemera) - 🔬 Writing reliable & fault-tolerant microservices in Node.js https://hemerajs.github.io/hemera/
 
-*   [omrilotan/isbot](https://github.com/omrilotan/isbot) - 💻 JavaScript module that detects bots/crawlers/spiders via the user agent
+*   [omrilotan/isbot](https://github.com/omrilotan/isbot) - 🤖/👨‍🦰 Detect bots/crawlers/spiders using the user agent string
 
 *   [lrlna/pino-colada](https://github.com/lrlna/pino-colada) - cute ndjson formatter for pino 🌲🍹
 
