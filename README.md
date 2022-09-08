@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Swift](#swift)
 *   [JavaScript](#javascript)
 *   [Python](#python)
 *   [Go](#go)
@@ -56,27 +56,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Swift
-
-*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
-
-*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
-
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
-
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-
-*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
-
-*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
-
-*   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
-
 ## TypeScript
+
+*   [yarnpkg/berry](https://github.com/yarnpkg/berry) - 📦🐈 Active development trunk for Yarn ⚒
 
 *   [immobiliare/backstage-plugin-ldap-auth](https://github.com/immobiliare/backstage-plugin-ldap-auth) - Backstage plugin to authenticate users to an external LDAP server
 
@@ -687,6 +669,26 @@
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
+
+## Swift
+
+*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
+
+*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
+
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀async http type-safe client for swift
+
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+
+*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
+
+*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+
+*   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## JavaScript
 
@@ -2407,8 +2409,6 @@
 *   [bevacqua/dragula](https://github.com/bevacqua/dragula) - :ok\_hand: Drag and drop so simple it hurts
 
 *   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
-
-*   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
 
 ## Python
 
