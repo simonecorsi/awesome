@@ -2760,7 +2760,7 @@
 
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 
-*   [asim/go-micro](https://github.com/asim/go-micro) - A Go microservices framework
+*   [go-micro/go-micro](https://github.com/go-micro/go-micro) - A Go microservices framework
 
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
