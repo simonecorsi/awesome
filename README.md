@@ -2208,7 +2208,7 @@
 
 *   [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
 
-*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - API server module for Node/Express
+*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
 
 *   [criso/fbgraph](https://github.com/criso/fbgraph) - NodeJs module to access the facebook graph api
 
