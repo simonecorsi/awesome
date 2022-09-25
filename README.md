@@ -2868,7 +2868,7 @@
 
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 |
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 
 *   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
