@@ -482,6 +482,8 @@
 
 *   [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 
+*   [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - React Emoji Picker
+
 *   [unjs/webpackbar](https://github.com/unjs/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5
 
 *   [CharlesStover/reactn](https://github.com/CharlesStover/reactn) - React, but with built-in global state management.
@@ -1397,8 +1399,6 @@
 *   [react-ga/react-ga](https://github.com/react-ga/react-ga) - React Google Analytics Module
 
 *   [jfilter/react-native-onboarding-swiper](https://github.com/jfilter/react-native-onboarding-swiper) - 🛳 Delightful onboarding for your React-Native app
-
-*   [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - React Emoji Picker
 
 *   [imba/imba](https://github.com/imba/imba) - 🐤 The friendly full-stack language
 
@@ -2868,7 +2868,7 @@
 
 *   [owenthereal/ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`
 
-*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. Easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
+*   [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern, easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :leaves: :rocket: | 谢谢 | #golang
 
 *   [zquestz/s](https://github.com/zquestz/s) - Open a web search in your terminal.
 
