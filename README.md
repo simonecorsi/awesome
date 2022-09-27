@@ -760,7 +760,7 @@
 
 *   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2022)
 
-*   [mcollina/fastify-isolate](https://github.com/mcollina/fastify-isolate) - load a plugin via a synchronous worker
+*   [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox) - load a plugin via a synchronous worker
 
 *   [hapijs/bourne](https://github.com/hapijs/bourne) - JSON.parse() drop-in replacement with prototype poisoning protection
 
