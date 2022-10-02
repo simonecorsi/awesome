@@ -3648,8 +3648,6 @@
 
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
 
-*   [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
-
 *   [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
@@ -3671,6 +3669,8 @@
 *   [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
 
 *   [rhysd/vim.wasm](https://github.com/rhysd/vim.wasm) - Vim editor ported to WebAssembly
+
+*   [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 
 *   [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four\_leaf\_clover: Lean & mean spacemacs-ish Vim distribution
 
