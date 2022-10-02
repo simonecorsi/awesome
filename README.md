@@ -308,7 +308,7 @@
 
 *   [immobiliare/atomic-state](https://github.com/immobiliare/atomic-state) - A decentralized state management library for React
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - 🚀 The open-source notifications infrastructure. A fully-featured microservice to send SMS, E-mail, Slack and Push notifications. Embeddable notification center for React with real-time updates, content management, and much more...
+*   [novuhq/novu](https://github.com/novuhq/novu) - ⭐ A fully functional real-time notification center for your web and react apps. The only open-source notifications infrastructure that manages multi-channel content, scheduled notifications, digest engine, user preferences, and delivers Email, SMS, Push and Chat notifications using a single API. ⚡
 
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
