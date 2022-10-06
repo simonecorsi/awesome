@@ -498,6 +498,8 @@
 
 *   [jamiebuilds/ninos](https://github.com/jamiebuilds/ninos) - Simple stubbing/spying for AVA
 
+*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
+
 *   [favoloso/conventional-changelog-emoji](https://github.com/favoloso/conventional-changelog-emoji) - Conventional Changelog with Emojis support 🎉
 
 *   [hapijs/wreck](https://github.com/hapijs/wreck) - HTTP Client Utilities
@@ -3379,8 +3381,6 @@
 *   [hmfaysal/hmfaysal-omega-theme](https://github.com/hmfaysal/hmfaysal-omega-theme) - HMFAYSAL OMEGA is a minimalist, beautiful, responsive theme for Jekyll designed for writers who want their content to take front and center.
 
 *   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - Motionia is a lightweight simplified on demand animation library! https://git.io/motionia https://motionia.netlify.app/
-
-*   [WICG/import-maps](https://github.com/WICG/import-maps) - How to control the behavior of JavaScript imports
 
 *   [NorthwoodsSoftware/GoJS](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 
