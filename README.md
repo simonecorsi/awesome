@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Dockerfile](#dockerfile)
 *   [JavaScript](#javascript)
+*   [Dockerfile](#dockerfile)
 *   [TypeScript](#typescript)
 *   [C++](#c)
 *   [Go](#go)
@@ -56,17 +56,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## Dockerfile
-
-*   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:latest image
-
-*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
-
-*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
-
-*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
-
 ## JavaScript
+
+*   [fastify/point-of-view](https://github.com/fastify/point-of-view) - Template rendering plugin for Fastify
 
 *   [jonschlinkert/whence](https://github.com/jonschlinkert/whence) - Add context awareness to your apps and frameworks by safely evaluating user-defined conditional expressions. Useful for evaluating expressions in config files, prompts, key bindings, completions, templates, and many other user cases.
 
@@ -1650,7 +1642,7 @@
 
 *   [thorning/node-mailchimp](https://github.com/thorning/node-mailchimp) - node mailchimp wrapper using v3 of the mailchimp api
 
-*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 
 *   [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth\_americas:
 
@@ -1768,7 +1760,15 @@
 
 *   [adamwdraper/Numeral-js](https://github.com/adamwdraper/Numeral-js) - A javascript library for formatting and manipulating numbers.
 
-*   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://transifex.com/wekan/wekan only.
+## Dockerfile
+
+*   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:latest image
+
+*   [oxsecurity/megalinter](https://github.com/oxsecurity/megalinter) - 🦙 Mega-Linter analyzes 50 languages, 22 formats, 21 tooling formats, excessive copy-pastes, spelling mistakes and security issues in your repository sources with a GitHub Action, other CI tools or locally.
+
+*   [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode) - The best way to write secure and reliable applications. Write nothing; deploy nowhere.
+
+*   [nodejs/docker-node](https://github.com/nodejs/docker-node) - Official Docker Image for Node.js :whale: :turtle: :rocket:
 
 ## TypeScript
 
