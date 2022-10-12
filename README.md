@@ -1828,7 +1828,7 @@
 
 *   [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
-*   [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) -
+*   [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) - Prevent React component subtrees from rendering.
 
 *   [streamich/memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
 
