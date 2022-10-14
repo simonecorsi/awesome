@@ -62,7 +62,7 @@
 
 *   [jonschlinkert/whence](https://github.com/jonschlinkert/whence) - Add context awareness to your apps and frameworks by safely evaluating user-defined conditional expressions. Useful for evaluating expressions in config files, prompts, key bindings, completions, templates, and many other user cases.
 
-*   [platformatic/platformatic](https://github.com/platformatic/platformatic) -
+*   [platformatic/platformatic](https://github.com/platformatic/platformatic) - Platformatic Open Source monorepo!
 
 *   [fastify/fastify-swagger-ui](https://github.com/fastify/fastify-swagger-ui) - Serve Swagger-UI for Fastify
 
