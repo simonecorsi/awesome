@@ -1078,7 +1078,7 @@
 
 *   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.
 
-*   [klaussinani/signale](https://github.com/klaussinani/signale) - Highly configurable logging utility
+*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 
 *   [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 
