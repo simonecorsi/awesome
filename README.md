@@ -58,6 +58,8 @@
 
 ## JavaScript
 
+*   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
+
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 *   [fastify/point-of-view](https://github.com/fastify/point-of-view) - Template rendering plugin for Fastify
@@ -1755,8 +1757,6 @@
 *   [relax/relax](https://github.com/relax/relax) - New generation CMS on top of React, Redux and GraphQL
 
 *   [negativo/geocodeAnyone.js](https://github.com/negativo/geocodeAnyone.js) - Geocode ... ? ... Anyone? geocodeAnyone!  WHAT???  A deadly simple JavaScript library to deal with the geocode API.
-
-*   [webrexstudio/center.js](https://github.com/webrexstudio/center.js) - Center.js is jQuery library to make element center as compared to his outside element. It's also work in responsive.
 
 ## TypeScript
 
