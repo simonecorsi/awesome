@@ -1768,7 +1768,7 @@
 
 *   [micro-lc/micro-lc](https://github.com/micro-lc/micro-lc) - The open source micro-frontend solution
 
-*   [pankod/refine](https://github.com/pankod/refine) - Build your React-based CRUD applications, without constraints.
+*   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
