@@ -462,8 +462,6 @@
 
 *   [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 
-*   [wix/sentry-testkit](https://github.com/wix/sentry-testkit) - A Sentry plugin to allow Sentry report interception and further inspection of the data being sent
-
 *   [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
 
 *   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
@@ -2071,6 +2069,8 @@
 *   [grayliquid/aqua](https://github.com/grayliquid/aqua) - A minimal and fast 🏃 web framework for Deno
 
 *   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for Next.js
+
+*   [wix/sentry-testkit](https://github.com/wix/sentry-testkit) - A Sentry plugin to allow Sentry report interception and further inspection of the data being sent
 
 *   [andywer/threads.js](https://github.com/andywer/threads.js) - 🧵 Make web workers & worker threads as simple as a function call.
 
