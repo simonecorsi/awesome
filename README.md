@@ -58,6 +58,8 @@
 
 ## JavaScript
 
+*   [amroessam/moldock](https://github.com/amroessam/moldock) - A CLI tool to deconstruct moleculer projects into their own dependant projects, to be able to dockerize them individually
+
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
 
 *   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -3619,8 +3621,6 @@
 *   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 
 *   [Wox-launcher/Wox](https://github.com/Wox-launcher/Wox) - Launcher for Windows, an alternative to Alfred and Launchy.
-
-*   [HearthstoneTracker/HearthstoneTracker](https://github.com/HearthstoneTracker/HearthstoneTracker) - Automatically track and generate statistics for all your HearthStone games.
 
 ## Less
 
