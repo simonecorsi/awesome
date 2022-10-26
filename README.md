@@ -1446,8 +1446,6 @@
 
 *   [mohsen1/better-console](https://github.com/mohsen1/better-console) -
 
-*   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
-
 *   [i18next/react-i18next](https://github.com/i18next/react-i18next) - Internationalization for react done right. Using the i18next i18n ecosystem.
 
 *   [ramda/ramda](https://github.com/ramda/ramda) - :ram: Practical functional Javascript
@@ -1644,7 +1642,7 @@
 
 *   [thorning/node-mailchimp](https://github.com/thorning/node-mailchimp) - node mailchimp wrapper using v3 of the mailchimp api
 
-*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Typescript and Javascript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
+*   [sequelize/sequelize](https://github.com/sequelize/sequelize) - Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB (v6), DB2 and DB2 for IBM i.
 
 *   [Nickersoft/push.js](https://github.com/Nickersoft/push.js) - The world's most versatile desktop notifications framework :earth\_americas:
 
@@ -2363,6 +2361,8 @@
 *   [AFASSoftware/maquette](https://github.com/AFASSoftware/maquette) - Pure and simple virtual DOM library
 
 *   [airbnb/react-sketchapp](https://github.com/airbnb/react-sketchapp) - render React components to Sketch ⚛️💎
+
+*   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
 
 *   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
 
