@@ -2616,7 +2616,7 @@
 
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 
-*   [micro/micro](https://github.com/micro/micro) - API first development platform
+*   [micro/micro](https://github.com/micro/micro) - An API first development runtime
 
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
@@ -2818,7 +2818,7 @@
 
 *   [wooorm/levenshtein-rs](https://github.com/wooorm/levenshtein-rs) - Levenshtein algorithm in Rust
 
-*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.
+*   [vercel/turbo](https://github.com/vercel/turbo) - Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turborepo and Turbopack.
 
 *   [viz-rs/path-tree](https://github.com/viz-rs/path-tree) - path-tree is a lightweight high performance HTTP request router for Rust
 
