@@ -2932,7 +2932,7 @@
 
 *   [kootenpv/gittyleaks](https://github.com/kootenpv/gittyleaks) - :droplet: Find sensitive information for a git repo
 
-*   [locustio/locust](https://github.com/locustio/locust) - Scalable user load testing tool written in Python
+*   [locustio/locust](https://github.com/locustio/locust) - Scalable load testing tool written in Python
 
 *   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 
