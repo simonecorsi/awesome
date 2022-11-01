@@ -2784,7 +2784,7 @@
 
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A fast and secure runtime for WebAssembly
 
-*   [spikecodes/libreddit](https://github.com/spikecodes/libreddit) - Private front-end for Reddit
+*   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
 *   [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 
