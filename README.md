@@ -1686,7 +1686,7 @@
 
 *   [simov/slugify](https://github.com/simov/slugify) - Slugifies a string
 
-*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node/Express
+*   [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
 *   [criso/fbgraph](https://github.com/criso/fbgraph) - NodeJs module to access the facebook graph api
 
@@ -1986,7 +1986,7 @@
 
 *   [redis/redis-om-node](https://github.com/redis/redis-om-node) - Object mapping, and more, for Redis and Node.js. Written in TypeScript.
 
-*   [micro-lc/micro-lc](https://github.com/micro-lc/micro-lc) - The open source micro-frontend solution
+*   [micro-lc/micro-lc](https://github.com/micro-lc/micro-lc) - An open source micro-frontend orchestrator
 
 *   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
 
@@ -2790,7 +2790,7 @@
 
 *   [Kilobyte22/config-parser](https://github.com/Kilobyte22/config-parser) - A simple config parser in rust
 
-*   [rome/tools](https://github.com/rome/tools) - The Rome Toolchain. A formatter, linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+*   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
 
 *   [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 
