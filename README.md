@@ -2966,7 +2966,7 @@
 
 *   [Supervisor/supervisor](https://github.com/Supervisor/supervisor) - Supervisor process control system for Unix (supervisord)
 
-*   [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Bridge – Admin Panel Framework for your application
+*   [jet-admin/jet-bridge](https://github.com/jet-admin/jet-bridge) - Jet Admin – No-code Business App builder
 
 *   [microsoft/cascadia-code](https://github.com/microsoft/cascadia-code) - This is a fun, new monospaced font that includes programming ligatures and is designed to enhance the modern look and feel of the Windows Terminal.
 
