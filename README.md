@@ -3074,7 +3074,7 @@
 
 *   [zenika-open-source/promote-open-source-project](https://github.com/zenika-open-source/promote-open-source-project) - 📄 How to promote my open source project?
 
-*   [ixaxaar/awesome-engineering-management](https://github.com/ixaxaar/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
+*   [engineering-management/awesome-engineering-management](https://github.com/engineering-management/awesome-engineering-management) - Pointers and tools for learning and day-to-day practice of engineering management & leadership.
 
 *   [italia/covid19-opendata-vaccini](https://github.com/italia/covid19-opendata-vaccini) - Open Data su consegna e somministrazione dei vaccini anti COVID-19 in Italia - Commissario straordinario per l'emergenza Covid-19
 
