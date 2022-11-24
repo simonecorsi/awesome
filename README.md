@@ -682,7 +682,7 @@
 
 *   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 
-*   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transition between your website's pages.
+*   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 
@@ -972,7 +972,7 @@
 
 *   [matthewmueller/date](https://github.com/matthewmueller/date) - Date() for humans
 
-*   [breejs/bree](https://github.com/breejs/bree) - :traffic\_light: The best job scheduler for Node.js and JavaScript with cron, dates, ms, later, and human-friendly support.  Works in Node v12.11.0+, uses worker threads to spawn sandboxed processes, and supports async/await, retries, throttling, concurrency, and cancelable promises (graceful shutdown).  Simple, fast, and lightweight.  Made for @ForwardEmail and @ladjs.
+*   [breejs/bree](https://github.com/breejs/bree) - Bree is a Node.js and JavaScript job task scheduler with worker threads, cron, Date, and human syntax. Built for @ladjs, @forwardemail, @spamscanner, @cabinjs.
 
 *   [next-boost/multee](https://github.com/next-boost/multee) - A unified API for node's child\_process and worker\_threads
 
@@ -1284,7 +1284,7 @@
 
 *   [kdzwinel/betwixt](https://github.com/kdzwinel/betwixt) - :zap: Web Debugging Proxy based on Chrome DevTools Network panel.
 
-*   [ladjs/lad](https://github.com/ladjs/lad) -  :boy: Lad is the best Node.js framework. Made by a former Express TC and Koa team member.
+*   [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
 *   [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp.
 
@@ -1668,7 +1668,7 @@
 
 *   [ladjs/frisbee](https://github.com/ladjs/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.
 
-*   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen\_tree: Cabin is the best JavaScript and Node.js logging service and logging npm package
+*   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen\_tree: Cabin is a Node.js and JavaScript logging tool and service.
 
 *   [gregchamberlain/react-chips](https://github.com/gregchamberlain/react-chips) - A chips input field build in React
 
