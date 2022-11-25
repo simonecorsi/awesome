@@ -1114,6 +1114,8 @@
 
 *   [luciotato/waitfor](https://github.com/luciotato/waitfor) - Sequential programming for node.js, end of callback hell / pyramid of doom
 
+*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
+
 *   [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 
 *   [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
@@ -3301,8 +3303,6 @@
 *   [scaffold-eth/scaffold-eth](https://github.com/scaffold-eth/scaffold-eth) - 🏗 forkable Ethereum dev stack focused on fast product iterations
 
 *   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2022
-
-*   [appbaseio/dejavu](https://github.com/appbaseio/dejavu) - The Missing Web UI for Elasticsearch: Import, browse and edit data with rich filters and query views, create search UIs visually.
 
 *   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
 
