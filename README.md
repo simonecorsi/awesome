@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Zig](#zig)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
 *   [miscellaneous](#miscellaneous)
@@ -18,7 +19,6 @@
 *   [Nix](#nix)
 *   [Shell](#shell)
 *   [CSS](#css)
-*   [Zig](#zig)
 *   [V](#v)
 *   [Perl](#perl)
 *   [HTML](#html)
@@ -56,7 +56,15 @@
 *   [q](#q)
 *   [Pug](#pug)
 
+## Zig
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, transpiler and package manager – all in one.
+
+*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
+
 ## JavaScript
+
+*   [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 
 *   [simonecorsi/skaffoldo](https://github.com/simonecorsi/skaffoldo) - 🏗 Universal project generator! Recursively copy provided source directory, and replace variables (if any)!
 
@@ -1750,8 +1758,6 @@
 
 *   [DBRAINDESIGN/dbrain.js](https://github.com/DBRAINDESIGN/dbrain.js) -
 
-*   [tasuki/masonry-ordered](https://github.com/tasuki/masonry-ordered) - Alternative layout strategy for jQuery Masonry. Tries to preserve ordering of the Masonry bricks.
-
 ## TypeScript
 
 *   [daniel-hauser/react-organizational-chart](https://github.com/daniel-hauser/react-organizational-chart) - Simple react hierarchy tree - any React children accepted for nodes
@@ -1944,7 +1950,7 @@
 
 *   [immobiliare/atomic-state](https://github.com/immobiliare/atomic-state) - A decentralized state management library for React
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The Open-Source Notifications Platform. Add a working notification center to your app in minutes. 🚀
+*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products
 
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
@@ -3352,10 +3358,6 @@
 
 *   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
 
-## Zig
-
-*   [ziglang/zig](https://github.com/ziglang/zig) - General-purpose programming language and toolchain for maintaining robust, optimal, and reusable software.
-
 ## V
 
 *   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
@@ -3535,8 +3537,6 @@
 *   [ianrose/typesettings](https://github.com/ianrose/typesettings) - A Sass or Stylus toolkit that sets type in Ems based on modular scale, vertical rhythm, and responsive ratio based headlines.
 
 *   [BafS/Gutenberg](https://github.com/BafS/Gutenberg) - Modern framework to print the web correctly.                                               
-
-*   [TimPietrusky/KudosPlease](https://github.com/TimPietrusky/KudosPlease) - A simple Kudos widget with no dependencies. And it's free.
 
 ## Assembly
 
