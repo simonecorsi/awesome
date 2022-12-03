@@ -2838,8 +2838,6 @@
 
 *   [parro-it/libui-node](https://github.com/parro-it/libui-node) - Node bindings for libui, an awesome native UI library for Unix, OSX and Windows
 
-*   [dimgel/cpp-linux-scripts](https://github.com/dimgel/cpp-linux-scripts) - Writing linux scripts in C++
-
 *   [nodejs/llnode](https://github.com/nodejs/llnode) - An lldb plugin for Node.js and V8, which enables inspection of JavaScript states for insights into Node.js processes and their core dumps.
 
 *   [google/libphonenumber](https://github.com/google/libphonenumber) - Google's common Java, C++ and JavaScript library for parsing, formatting, and validating international phone numbers.
@@ -2937,6 +2935,8 @@
 *   [remoblaser/lazy-artisan](https://github.com/remoblaser/lazy-artisan) - Lazy Artisan automatically adds and manages your Service Providers and Facades in your app config
 
 *   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5/6/7/8/9
+
+*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
 
 ## Rust
 
