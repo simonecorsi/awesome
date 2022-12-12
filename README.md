@@ -42,7 +42,6 @@
 *   [Vue](#vue)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
-*   [Nunjucks](#nunjucks)
 *   [Julia](#julia)
 *   [Objective-C](#objective-c)
 *   [Lua](#lua)
@@ -352,7 +351,7 @@
 
 *   [uditalias/injex](https://github.com/uditalias/injex) - Simple, Decorated, Pluggable dependency-injection framework for TypeScript applications
 
-*   [brpapa/recursion-tree-visualizer](https://github.com/brpapa/recursion-tree-visualizer) - 🌳  Input the source code of any recursive function in javascript or python and visualize your recursion tree
+*   [brpapa/recursion-tree-visualizer](https://github.com/brpapa/recursion-tree-visualizer) - 🌳  Input the source code of any recursive function in javascript, python or golang and visualize your recursion tree
 
 *   [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 
@@ -2884,6 +2883,8 @@
 
 *   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
 
+*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+
 *   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
 
 *   [vimeo/psalm](https://github.com/vimeo/psalm) - A static analysis tool for finding errors in PHP applications
@@ -3697,10 +3698,6 @@
 ## OCaml
 
 *   [reasonml/reason](https://github.com/reasonml/reason) - Simple, fast & type safe code that leverages the JavaScript & OCaml ecosystems
-
-## Nunjucks
-
-*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
 
 ## Julia
 
