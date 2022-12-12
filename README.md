@@ -57,6 +57,8 @@
 
 ## TypeScript
 
+*   [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
+
 *   [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 
 *   [immobiliare/backstage-plugin-ldap-auth](https://github.com/immobiliare/backstage-plugin-ldap-auth) - Backstage plugin to authenticate users to an external LDAP server
@@ -712,6 +714,8 @@
 *   [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn to code for free.
 
 ## JavaScript
+
+*   [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 
 *   [micromatch/picomatch](https://github.com/micromatch/picomatch) - Blazing fast and accurate glob matcher written JavaScript, with no dependencies and full support for standard and extended Bash glob features, including braces, extglobs, POSIX brackets, and regular expressions. Used by GraphQL, Jest, Astro, Snowpack, Storybook, bulma, Serverless, fdir, Netlify, AWS Amplify, Revogrid, rollup, routify, open-wc, imba, ava, docusaurus, fast-glob, globby, chokidar, anymatch, cloudflare/miniflare, pts, and more than 5 million projects! Please follow picomatch's author: https://github.com/jonschlinkert
 
@@ -2400,10 +2404,6 @@
 *   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 
 *   [dpup/node-flags](https://github.com/dpup/node-flags) - Flag handling library for node.js.
-
-*   [LeaVerou/awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
-
-*   [mochajs/mocha](https://github.com/mochajs/mocha) - ☕️ simple, flexible, fun javascript test framework for node.js & the browser
 
 ## Go
 
