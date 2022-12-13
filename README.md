@@ -231,8 +231,6 @@
 
 *   [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for smart contract development using Typescript
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
-
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 
 *   [actionsflow/actionsflow](https://github.com/actionsflow/actionsflow) - The free Zapier/IFTTT alternative for developers to automate your workflows based on Github actions
@@ -894,6 +892,8 @@
 *   [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
 
 *   [berstend/node-safe](https://github.com/berstend/node-safe) - 🤠 Make using Node.js safe again with Deno-like permissions
+
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 
 *   [fabiospampinato/is](https://github.com/fabiospampinato/is) - The definitive collection of is\* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 
@@ -3267,7 +3267,7 @@
 
 *   [meltwater/docker-cleanup](https://github.com/meltwater/docker-cleanup) - DEPRECATED Automatic Docker image, container and volume cleanup
 
-*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx (with PHP5 and PHP7)
+*   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 
 *   [nodejs/build](https://github.com/nodejs/build) - Better build and test infra for Node.
 
