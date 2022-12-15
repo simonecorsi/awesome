@@ -239,8 +239,6 @@
 
 *   [berstend/node-safe](https://github.com/berstend/node-safe) - 🤠 Make using Node.js safe again with Deno-like permissions
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
-
 *   [fabiospampinato/is](https://github.com/fabiospampinato/is) - The definitive collection of is\* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 
 *   [fastify/env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv
@@ -829,7 +827,7 @@
 
 *   [esbullington/react-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js
 
-*   [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
+*   [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
 
 *   [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 
@@ -2078,6 +2076,8 @@
 *   [manosim/gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar. Available on macOS, Windows & Linux.
 
 *   [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for smart contract development using Typescript
+
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 
