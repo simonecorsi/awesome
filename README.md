@@ -2535,7 +2535,7 @@
 
 *   [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library with the highest accuracy and stability.
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - Browser fingerprinting library
 
 *   [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 
