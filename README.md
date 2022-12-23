@@ -509,8 +509,6 @@
 
 *   [npm/promzard](https://github.com/npm/promzard) - A prompting json thingie
 
-*   [substack/node-prompter](https://github.com/substack/node-prompter) - create json files, prompting for input and evaluating expressions
-
 *   [npm/init-package-json](https://github.com/npm/init-package-json) - A node module to get your node module started
 
 *   [sindresorhus/meow](https://github.com/sindresorhus/meow) - 🐈 CLI app helper
@@ -1746,6 +1744,8 @@
 *   [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
 
 *   [Schweigi/assembler-simulator](https://github.com/Schweigi/assembler-simulator) - Simple 8-bit Assembler Simulator with Angular.js
+
+*   [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
 
 ## Go
 
