@@ -827,7 +827,7 @@
 
 *   [esbullington/react-d3](https://github.com/esbullington/react-d3) - Modular React charts made with d3.js
 
-*   [uber-archive/react-vis](https://github.com/uber-archive/react-vis) - Data Visualization Components
+*   [uber/react-vis](https://github.com/uber/react-vis) - Data Visualization Components
 
 *   [segmentio/evergreen](https://github.com/segmentio/evergreen) - 🌲 Evergreen React UI Framework by Segment
 
