@@ -359,8 +359,6 @@
 
 *   [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
 
-*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
-
 *   [fastify/fastify-caching](https://github.com/fastify/fastify-caching) - A Fastify plugin to facilitate working with cache headers
 
 *   [fastify/fastify-autoload](https://github.com/fastify/fastify-autoload) - Require all plugins in a directory
@@ -2812,6 +2810,8 @@
 *   [google/snappy](https://github.com/google/snappy) - A fast compressor/decompressor
 
 *   [apache/thrift](https://github.com/apache/thrift) - Apache Thrift
+
+*   [NerdLang/nerd](https://github.com/NerdLang/nerd) - 🔱 Javascript's God Mode. No VM. No Bytecode. No GC. Just native binaries.
 
 *   [EOSIO/eos](https://github.com/EOSIO/eos) - An open source smart contract platform
 
