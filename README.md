@@ -1619,7 +1619,7 @@
 
 *   [elgerlambert/redux-localstorage](https://github.com/elgerlambert/redux-localstorage) - Store enhancer that syncs (a subset) of your Redux store state to localstorage.
 
-*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
+*   [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
 
 *   [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 
