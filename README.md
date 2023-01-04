@@ -673,7 +673,7 @@
 
 *   [OptimalBits/redbird](https://github.com/OptimalBits/redbird) - A modern reverse proxy for node
 
-*   [bee-queue/arena](https://github.com/bee-queue/arena) - An interactive UI dashboard for Bee Queue
+*   [bee-queue/arena](https://github.com/bee-queue/arena) - An interactive UI dashboard for Bee, Bull and BullMQ packages
 
 *   [ananay/passport-apple](https://github.com/ananay/passport-apple) - Passport strategy for Sign in with Apple
 
