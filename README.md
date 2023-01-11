@@ -57,6 +57,8 @@
 
 ## JavaScript
 
+*   [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
+
 *   [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 
 *   [simonecorsi/pm2-process-events](https://github.com/simonecorsi/pm2-process-events) - Get all PM2 process events
@@ -1736,8 +1738,6 @@
 *   [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
 
 *   [jaredhanson/passport](https://github.com/jaredhanson/passport) - Simple, unobtrusive authentication for Node.js.
-
-*   [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
 
 ## TypeScript
 
