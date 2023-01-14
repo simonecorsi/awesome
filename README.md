@@ -187,7 +187,7 @@
 
 *   [lacion/cookiecutter-golang](https://github.com/lacion/cookiecutter-golang) - A Go project template
 
-*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast JavaScript and CSS bundler and minifier
+*   [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 
 *   [roma-glushko/tango](https://github.com/roma-glushko/tango) - Tango is a command-line tool for analyzing access logs 💃
 
@@ -1985,7 +1985,7 @@
 
 *   [elgerlambert/redux-localstorage](https://github.com/elgerlambert/redux-localstorage) - Store enhancer that syncs (a subset) of your Redux store state to localstorage.
 
-*   [oddoculus/scrollreveal](https://github.com/oddoculus/scrollreveal) - Animate elements as they scroll into view.
+*   [jlmakes/scrollreveal](https://github.com/jlmakes/scrollreveal) - Animate elements as they scroll into view.
 
 *   [chenglou/react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 
