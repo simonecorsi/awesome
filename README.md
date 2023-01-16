@@ -441,7 +441,7 @@
 
 *   [chjj/blessed](https://github.com/chjj/blessed) - A high-level terminal interface library for node.js.
 
-*   [simonecorsi/skaffoldo](https://github.com/simonecorsi/skaffoldo) - 🏗 Universal project generator! Recursively copy provided source directory, and replace variables (if any)!
+*   [simonecorsi/skaffoldo](https://github.com/simonecorsi/skaffoldo) - 🏗 Universal project generator! Recursively copy directory and replace variables (if any)!
 
 *   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 
