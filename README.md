@@ -2795,7 +2795,7 @@
 
 *   [danielcardeenas/whatsapp-framework](https://github.com/danielcardeenas/whatsapp-framework) - ⚗️Whatsapp python api
 
-*   [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Python driver for MongoDB
+*   [mongodb/mongo-python-driver](https://github.com/mongodb/mongo-python-driver) - PyMongo - the Official MongoDB Python driver
 
 *   [InstaPy/InstaPy](https://github.com/InstaPy/InstaPy) - 📷 Instagram Bot - Tool for automated Instagram interactions
 
