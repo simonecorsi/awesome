@@ -57,6 +57,10 @@
 
 ## TypeScript
 
+*   [actions/stale](https://github.com/actions/stale) - Marks issues and pull requests that have not had recent interaction
+
+*   [ldapts/ldapts](https://github.com/ldapts/ldapts) - LDAP client written in typescript
+
 *   [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped
 
 *   [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
@@ -2393,8 +2397,6 @@
 
 *   [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 
-*   [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the \<html> noise.
-
 ## Go
 
 *   [lauripiispanen/most-active-github-users-counter](https://github.com/lauripiispanen/most-active-github-users-counter) - CLI tool that queries the GitHub GraphQL API for users and ranks them according to number of contributions
@@ -2984,8 +2986,6 @@
 *   [braydie/HowToBeAProgrammer](https://github.com/braydie/HowToBeAProgrammer) - A guide on how to be a Programmer - originally published by Robert L Read
 
 *   [grvcoelho/css-styleguide](https://github.com/grvcoelho/css-styleguide) - :book: Opinionated CSS styleguide for scalable applications
-
-*   [loverajoel/jstips](https://github.com/loverajoel/jstips) - This is about useful JS tips!
 
 ## Zig
 
