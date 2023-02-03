@@ -565,7 +565,7 @@
 
 *   [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 
-*   [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - The best JavaScript/TypeScript job processing framework on the planet.
+*   [eropple/taskbotjs](https://github.com/eropple/taskbotjs) - My favorite JS/TS job processing framework. Maybe yours too? \[ARCHIVED]
 
 *   [hinok/react-router-last-location](https://github.com/hinok/react-router-last-location) - Provides access to the last location in react + react-router (v4.x, v5.x) applications. ❤️ Using hooks? useLastLocation | 💉 Using HOC? withLastLocation
 
