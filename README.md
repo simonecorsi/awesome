@@ -2285,7 +2285,7 @@
 
 *   [shoutem/ui](https://github.com/shoutem/ui) - Customizable set of components for React Native applications
 
-*   [oliver-moran/jimp](https://github.com/oliver-moran/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
+*   [jimp-dev/jimp](https://github.com/jimp-dev/jimp) - An image processing library written entirely in JavaScript for Node, with zero external or native dependencies.
 
 *   [coryhouse/react-slingshot](https://github.com/coryhouse/react-slingshot) - React + Redux starter kit / boilerplate with Babel, hot reloading, testing, linting and a working example app built in
 
