@@ -2068,7 +2068,7 @@
 
 *   [ladjs/frisbee](https://github.com/ladjs/frisbee) - :dog2: Modern fetch-based alternative to axios/superagent/request.  Great for React Native.
 
-*   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen\_tree: Cabin is a Node.js and JavaScript logging tool and service.
+*   [cabinjs/cabin](https://github.com/cabinjs/cabin) - :evergreen\_tree: Cabin is the best self-hosted JavaScript and Node.js logging service.  Made for @forwardemail.
 
 *   [gregchamberlain/react-chips](https://github.com/gregchamberlain/react-chips) - A chips input field build in React
 
