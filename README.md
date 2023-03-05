@@ -2072,8 +2072,6 @@
 
 *   [gregchamberlain/react-chips](https://github.com/gregchamberlain/react-chips) - A chips input field build in React
 
-*   [tsironis/lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
-
 *   [gorangajic/react-svg-morph](https://github.com/gorangajic/react-svg-morph) - :crystal\_ball: morph your svg component one into another other
 
 *   [atomiks/tippyjs](https://github.com/atomiks/tippyjs) - Tooltip, popover, dropdown, and menu library
@@ -2929,6 +2927,8 @@
 *   [rough-stuff/rough](https://github.com/rough-stuff/rough) - Create graphics with a hand-drawn, sketchy, appearance
 
 *   [tc39/proposal-slice-notation](https://github.com/tc39/proposal-slice-notation) -
+
+*   [tsironis/lockr](https://github.com/tsironis/lockr) - A minimal API wrapper for localStorage
 
 *   [KhronosGroup/glTF](https://github.com/KhronosGroup/glTF) - glTF – Runtime 3D Asset Delivery
 
