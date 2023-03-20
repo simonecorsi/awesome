@@ -2961,7 +2961,7 @@
 
 *   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
 
-*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is where developers grow together 👩🏽‍💻 👨‍💻
+*   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network where developers grow together 👩🏽‍💻 👨‍💻
 
 *   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
 
