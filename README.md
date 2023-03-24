@@ -2637,7 +2637,7 @@
 
 *   [stripe/stripe-node](https://github.com/stripe/stripe-node) - Node.js library for the Stripe API.
 
-*   [howardabrams/node-mocks-http](https://github.com/howardabrams/node-mocks-http) - Mock 'http' objects for testing Express routing functions
+*   [eugef/node-mocks-http](https://github.com/eugef/node-mocks-http) - Mock 'http' objects for testing Express routing functions
 
 *   [ctrlplusb/react-universally](https://github.com/ctrlplusb/react-universally) - A starter kit for universal react applications.
 
