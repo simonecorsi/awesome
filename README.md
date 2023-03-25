@@ -543,7 +543,7 @@
 
 *   [teambit/bit](https://github.com/teambit/bit) - A tool for composable software development.
 
-*   [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🤖 GitLab API NodeJS library with full support of all the Gitlab API services.
+*   [jdalrymple/gitbeaker](https://github.com/jdalrymple/gitbeaker) - 🦊🧪 A comprehensive Gitlab SDK for Node.js, Browsers, Deno and CLI
 
 *   [joelday/vscode-docthis](https://github.com/joelday/vscode-docthis) - JSDoc generator extension for Visual Studio Code.
 
