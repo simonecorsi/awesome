@@ -2423,8 +2423,6 @@
 
 *   [frontend-collective/react-sortable-tree-theme-full-node-drag](https://github.com/frontend-collective/react-sortable-tree-theme-full-node-drag) - Full node drag theme for react-sortable-tree
 
-*   [react-ui-builder/structor](https://github.com/react-ui-builder/structor) - Structor - React UI Builder \[DEPRECATED]
-
 *   [ballercat/walt](https://github.com/ballercat/walt) - :zap: Walt is a JavaScript-like syntax for WebAssembly text format :zap:
 
 *   [hsnaydd/moveTo](https://github.com/hsnaydd/moveTo) - A lightweight scroll animation javascript library without any dependency
@@ -2894,6 +2892,8 @@
 *   [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - AdminLTE - Free admin dashboard template based on Bootstrap 4
 
 *   [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
+
+*   [google/traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
 
 ## miscellaneous
 
