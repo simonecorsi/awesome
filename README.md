@@ -185,7 +185,7 @@
 
 *   [sindresorhus/conf](https://github.com/sindresorhus/conf) - Simple config handling for your app or module
 
-*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Low code project to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
+*   [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Framework to build admin panels, internal tools, and dashboards. Integrates with 15+ databases and any API.
 
 *   [crewdevio/Trex](https://github.com/crewdevio/Trex) - Package Manager for deno 🦕
 
@@ -304,6 +304,8 @@
 *   [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 
 *   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
+
+*   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 
 *   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
 
@@ -1500,8 +1502,6 @@
 *   [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
 
 *   [fastify/fastify-reply-from](https://github.com/fastify/fastify-reply-from) - fastify plugin to forward the current http request to another server
-
-*   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 
 *   [gribnoysup/wunderbar](https://github.com/gribnoysup/wunderbar) - Simple horizontal bar chart printer for your terminal
 
