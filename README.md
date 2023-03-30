@@ -262,7 +262,7 @@
 
 *   [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for smart contract development using Typescript
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - The open-source Shopify alternative ⚡️
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building Blocks for Digital Commerce
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to Vue, React, Solid, Angular, Svelte, and more.
 
