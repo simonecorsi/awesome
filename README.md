@@ -50,7 +50,6 @@
 *   [OpenEdge ABL](#openedge-abl)
 *   [Jinja](#jinja)
 *   [Scheme](#scheme)
-*   [MATLAB](#matlab)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
 *   [VimL](#viml)
@@ -646,6 +645,8 @@
 *   [kolodny/immutability-helper](https://github.com/kolodny/immutability-helper) - mutate a copy of data without changing the original source
 
 *   [JedWatson/react-select](https://github.com/JedWatson/react-select) - The Select Component for React.js
+
+*   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 *   [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 
@@ -3736,10 +3737,6 @@
 ## Scheme
 
 *   [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
-
-## MATLAB
-
-*   [captbaritone/webamp](https://github.com/captbaritone/webamp) - Winamp 2 reimplemented for the browser
 
 ## Jupyter Notebook
 
