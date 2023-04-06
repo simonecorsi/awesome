@@ -3676,7 +3676,7 @@
 
 ## Ruby
 
-*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's update PR creation logic. Feedback: https://github.com/orgs/community/discussions/categories/code-security
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
 
 *   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - \[DEPRECATED] Heroku buildpack for handling static sites and single page web apps
 
