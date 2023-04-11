@@ -39,7 +39,6 @@
 *   [Vim script](#vim-script)
 *   [Vim Script](#vim-script-1)
 *   [Common Lisp](#common-lisp)
-*   [Vue](#vue)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
 *   [Julia](#julia)
@@ -730,6 +729,8 @@
 
 *   [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The Official MongoDB Node.js Driver
 
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+
 *   [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 
 *   [TypeStrong/ts-node](https://github.com/TypeStrong/ts-node) - TypeScript execution and REPL for node.js
@@ -777,6 +778,8 @@
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
 *   [reactjs/it.reactjs.org](https://github.com/reactjs/it.reactjs.org) - (Work in progress) React documentation website in Italian
+
+*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 *   [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
 
@@ -2003,8 +2006,6 @@
 *   [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Facebook JS projects.
 
 *   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
-
-*   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 *   [metafloor/bwip-js](https://github.com/metafloor/bwip-js) - Barcode Writer in Pure JavaScript
 
@@ -3883,10 +3884,6 @@
 ## Common Lisp
 
 *   [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
-
-## Vue
-
-*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 
 ## Dart
 
