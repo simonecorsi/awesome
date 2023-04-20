@@ -701,7 +701,7 @@
 
 *   [GeekyAnts/NativeBase](https://github.com/GeekyAnts/NativeBase) - Mobile-first, accessible components for React Native & Web to build consistent UI across Android, iOS and Web.
 
-*   [redis/node-redis](https://github.com/redis/node-redis) - A high-performance Node.js Redis client.
+*   [redis/node-redis](https://github.com/redis/node-redis) - Redis Node.js client
 
 *   [react-querybuilder/react-querybuilder](https://github.com/react-querybuilder/react-querybuilder) - A QueryBuilder component for React
 
