@@ -749,7 +749,7 @@
 
 *   [botpress/botpress](https://github.com/botpress/botpress) - 🤖 Dev tools to reliably understand text and automate conversations. Built-in NLU.  Connect & deploy on any messaging channel (Slack, MS Teams, website, Telegram, etc).
 
-*   [facebook/jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
+*   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 
