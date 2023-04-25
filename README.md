@@ -89,6 +89,8 @@
 
 *   [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
 
+*   [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
+
 *   [shikijs/shiki](https://github.com/shikijs/shiki) - A beautiful Syntax Highlighter.
 
 *   [react-hookz/web](https://github.com/react-hookz/web) - React hooks done right, for browser and SSR.
@@ -1320,8 +1322,6 @@
 *   [codfish/semantic-release-action](https://github.com/codfish/semantic-release-action) - The Original GitHub Action for running semantic-release. Sets output and environment variables for you to use in subsequent actions.
 
 *   [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager.
-
-*   [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - TweetGPT is a chrome extension that generates tweets and replies using chatGPT
 
 *   [unifiedjs/unified](https://github.com/unifiedjs/unified) - ☔️ interface for parsing, inspecting, transforming, and serializing content through syntax trees
 
@@ -3417,7 +3417,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.48999, 3.3.5 = 3.3.5a.12340)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.0.7.49267, 3.3.5 = 3.3.5a.12340)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
