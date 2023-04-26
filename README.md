@@ -2113,7 +2113,7 @@
 
 *   [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A headless CMS for Markdown
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
 
 *   [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
@@ -3495,7 +3495,7 @@
 
 *   [marlonrichert/zsh-autocomplete](https://github.com/marlonrichert/zsh-autocomplete) - 🤖 Real-time type-ahead completion for Zsh. Asynchronous find-as-you-type autocompletion.
 
-*   [github/super-linter](https://github.com/github/super-linter) - Combination of multiple linters to install as a GitHub Action
+*   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 
 *   [syndbg/goenv](https://github.com/syndbg/goenv) - :blue\_car: Like pyenv and rbenv, but for Go.
 
