@@ -235,7 +235,7 @@
 
 *   [sindresorhus/globby](https://github.com/sindresorhus/globby) - User-friendly glob matching
 
-*   [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles.
+*   [jorgebucaran/colorette](https://github.com/jorgebucaran/colorette) - 🌈Easily set your terminal text color & styles
 
 *   [explorableexplanations/explorableexplanations.github.io](https://github.com/explorableexplanations/explorableexplanations.github.io) - The Explorable Explanations Website
 
