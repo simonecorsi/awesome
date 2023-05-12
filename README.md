@@ -1474,8 +1474,6 @@
 
 *   [mafintosh/pump](https://github.com/mafintosh/pump) - pipe streams together and close all of them if one of them closes
 
-*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
-
 *   [googlearchive/observe-js](https://github.com/googlearchive/observe-js) - A library for observing Arrays, Objects and PathValues
 
 *   [node-facebook/facebook-node-sdk](https://github.com/node-facebook/facebook-node-sdk) - Modeled from the (Facebook Javascript SDK), now with the facebook-node-sdk you can now easily write the same code and share between your server (nodejs) and the client (Facebook Javascript SDK).
@@ -2493,6 +2491,8 @@
 *   [koajs/koa-body](https://github.com/koajs/koa-body) - koa body parser middleware
 
 *   [remix-run/react-router](https://github.com/remix-run/react-router) - Declarative routing for React
+
+*   [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 
 *   [babel/babel](https://github.com/babel/babel) - 🐠 Babel is a compiler for writing next generation JavaScript.
 
