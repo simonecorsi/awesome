@@ -2174,7 +2174,7 @@
 
 *   [irandeno/espresso](https://github.com/irandeno/espresso) - Minimal web framework for Deno
 
-*   [grayliquid/aqua](https://github.com/grayliquid/aqua) - A minimal and fast 🏃 web framework for Deno
+*   [gr7d/aqua](https://github.com/gr7d/aqua) - A minimal and fast 🏃 web framework for Deno
 
 *   [nextauthjs/next-auth](https://github.com/nextauthjs/next-auth) - Authentication for the Web.
 
