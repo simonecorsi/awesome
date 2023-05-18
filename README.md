@@ -1018,7 +1018,7 @@
 
 *   [goldfire/howler.js](https://github.com/goldfire/howler.js) - Javascript audio library for the modern web.
 
-*   [artilleryio/artillery](https://github.com/artilleryio/artillery) -  🌩 Cloud-scale load testing. Fully serverless, test any stack, test at any scale.
+*   [artilleryio/artillery](https://github.com/artilleryio/artillery) -  🌩 Cloud-scale load testing, as easy as 1-2-3. Serverless & batteries-included. Any stack, any scale!
 
 *   [Charca/bootbot](https://github.com/Charca/bootbot) - Facebook Messenger Bot Framework for Node.js
 
