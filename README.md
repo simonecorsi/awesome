@@ -1160,7 +1160,7 @@
 
 *   [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
 
-*   [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Facebook JS projects.
+*   [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Meta JS projects.
 
 *   [vercel/pkg](https://github.com/vercel/pkg) - Package your Node.js project into an executable
 
