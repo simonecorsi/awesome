@@ -2270,7 +2270,7 @@
 
 *   [micro-lc/micro-lc](https://github.com/micro-lc/micro-lc) - An open source micro-frontend orchestrator
 
-*   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints.
+*   [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 
 *   [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.
 
