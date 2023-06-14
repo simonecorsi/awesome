@@ -876,7 +876,7 @@
 
 *   [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 
-*   [luin/ioredis](https://github.com/luin/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
+*   [redis/ioredis](https://github.com/redis/ioredis) - 🚀 A robust, performance-focused, and full-featured Redis client for Node.js.
 
 *   [UpHabit/bull\_exporter](https://github.com/UpHabit/bull_exporter) -  Prometheus exporter for Bull metrics
 
