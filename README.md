@@ -34,6 +34,7 @@
 *   [C#](#c-2)
 *   [Less](#less)
 *   [Nim](#nim)
+*   [MDX](#mdx)
 *   [Markdown](#markdown)
 *   [Haskell](#haskell)
 *   [Vim Script](#vim-script)
@@ -1117,8 +1118,6 @@
 *   [alacritty/alacritty](https://github.com/alacritty/alacritty) - A cross-platform, OpenGL terminal emulator.
 
 *   [volta-cli/volta](https://github.com/volta-cli/volta) - Volta: JS Toolchains as Code. ⚡
-
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 *   [dotenv-linter/dotenv-linter](https://github.com/dotenv-linter/dotenv-linter) - ⚡️Lightning-fast linter for .env files. Written in Rust 🦀
 
@@ -3837,6 +3836,10 @@
 ## Nim
 
 *   [andi23rosca/napi-nim](https://github.com/andi23rosca/napi-nim) - Write NodeJS native extensions in Nim
+
+## MDX
+
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
 ## Markdown
 
