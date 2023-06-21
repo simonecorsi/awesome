@@ -36,8 +36,7 @@
 *   [Nim](#nim)
 *   [Markdown](#markdown)
 *   [Haskell](#haskell)
-*   [Vim script](#vim-script)
-*   [Vim Script](#vim-script-1)
+*   [Vim Script](#vim-script)
 *   [Common Lisp](#common-lisp)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
@@ -48,6 +47,7 @@
 *   [Roff](#roff)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Scheme](#scheme)
+*   [Vim script](#vim-script-1)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
 *   [VimL](#viml)
@@ -3850,23 +3850,9 @@
 
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
 
-## Vim script
+## Vim Script
 
 *   [preservim/nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim.
-
-*   [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
-
-*   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
-
-*   [dodie/vim-disapprove-deep-indentation](https://github.com/dodie/vim-disapprove-deep-indentation) - ಠ\_ಠ Vim plugin to disapprove deeply indented code. ಠ\_ಠ
-
-*   [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
-
-*   [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
-
-*   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
-
-## Vim Script
 
 *   [puremourning/vimspector](https://github.com/puremourning/vimspector) - vimspector - A multi-language debugging system for Vim
 
@@ -3931,6 +3917,20 @@
 ## Scheme
 
 *   [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
+
+## Vim script
+
+*   [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
+
+*   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
+
+*   [dodie/vim-disapprove-deep-indentation](https://github.com/dodie/vim-disapprove-deep-indentation) - ಠ\_ಠ Vim plugin to disapprove deeply indented code. ಠ\_ಠ
+
+*   [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+
+*   [ctrlpvim/ctrlp.vim](https://github.com/ctrlpvim/ctrlp.vim) - Active fork of kien/ctrlp.vim—Fuzzy file, buffer, mru, tag, etc finder.
+
+*   [VundleVim/Vundle.vim](https://github.com/VundleVim/Vundle.vim) - Vundle, the plug-in manager for Vim
 
 ## Jupyter Notebook
 
