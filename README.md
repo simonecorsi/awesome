@@ -177,7 +177,7 @@
 
 *   [software-mansion/react-freeze](https://github.com/software-mansion/react-freeze) - Prevent React component subtrees from rendering.
 
-*   [streamich/memfs](https://github.com/streamich/memfs) - In-memory filesystem with Node's API
+*   [streamich/memfs](https://github.com/streamich/memfs) - JavaScript file system utilities
 
 *   [mattpocock/ts-error-translator](https://github.com/mattpocock/ts-error-translator) - VSCode extension to turn TypeScript errors into plain English
 
