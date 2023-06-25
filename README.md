@@ -3841,6 +3841,8 @@
 
 *   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 
+*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+
 ## Markdown
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ Free uptime monitor and status page powered by GitHub
@@ -3890,8 +3892,6 @@
 ## Objective-C
 
 *   [corymsmith/react-native-fabric](https://github.com/corymsmith/react-native-fabric) - A React Native library for Fabric, Crashlytics and Answers
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
 *   [brunophilipe/Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage your Homebrew formulas with style using Cakebrew.
 
