@@ -759,6 +759,8 @@
 
 *   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
+*   [koajs/bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
+
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
@@ -2788,8 +2790,6 @@
 *   [simov/grant](https://github.com/simov/grant) - OAuth Proxy
 
 *   [node-config/node-config](https://github.com/node-config/node-config) - Node.js Application Configuration
-
-*   [koajs/bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
 
 *   [allouis/minivents](https://github.com/allouis/minivents) - ✨JavaScript events in 355 Bytes✨
 
