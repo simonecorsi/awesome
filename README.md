@@ -759,7 +759,7 @@
 
 *   [botpress/botpress](https://github.com/botpress/botpress) - The open-source hub to build & deploy GPT/LLM Agents ⚡️
 
-*   [koajs/bodyparser](https://github.com/koajs/bodyparser) - a body parser for koa
+*   [koajs/bodyparser](https://github.com/koajs/bodyparser) - Koa body parsing middleware
 
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
