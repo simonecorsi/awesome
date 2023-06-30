@@ -2101,7 +2101,7 @@
 
 *   [bamlab/generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox) - The React Native Generator to bootstrap your apps
 
-*   [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native.
+*   [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
 
 *   [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) -
 
