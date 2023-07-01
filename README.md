@@ -1615,7 +1615,7 @@
 
 *   [nexdrew/next-build-id](https://github.com/nexdrew/next-build-id) - Easily set your `next build` BUILD\_ID to the latest git commit hash
 
-*   [itsrennyman/aurora](https://github.com/itsrennyman/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
+*   [askides/aurora](https://github.com/askides/aurora) - Hate Cookies? Introducing Aurora, 100% Cookie-Free Open Website Analytics. Collect Anonymous Data. Make your Audience Happy Now!
 
 *   [matthewmueller/date](https://github.com/matthewmueller/date) - Date() for humans
 
