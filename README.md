@@ -1401,7 +1401,7 @@
 
 *   [LeaVerou/rety](https://github.com/LeaVerou/rety) - Record typing on one or more editors and replay it at will, to simulate live coding
 
-*   [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at scale
+*   [taskcluster/taskcluster](https://github.com/taskcluster/taskcluster) - CI at Scale
 
 *   [jonschlinkert/randomatic](https://github.com/jonschlinkert/randomatic) - Easily generate random strings like passwords, with simple options for specifying a length and for using patterns of numeric, alpha-numeric, alphabetical, special or custom characters. (the original "generate-password")
 
