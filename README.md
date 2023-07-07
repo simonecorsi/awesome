@@ -1247,7 +1247,7 @@
 
 *   [asciidisco/web-conferences-2018](https://github.com/asciidisco/web-conferences-2018) - A list of Web & JavaScript related conferences happening in 2018.
 
-*   [teonite/t-shirts](https://github.com/teonite/t-shirts) - The first OpenSource t-shirts (probably)
+*   [teonite/t-shirts](https://github.com/teonite/t-shirts) - The first in the world\* Open Source t-shirts (\*probably)
 
 *   [h5bp/server-configs-nginx](https://github.com/h5bp/server-configs-nginx) - Nginx HTTP server boilerplate configs
 
