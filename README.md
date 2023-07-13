@@ -3285,7 +3285,7 @@
 
 *   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 
-*   [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for developers, IoT and edge.
+*   [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 
 *   [ifzhang/FairMOT](https://github.com/ifzhang/FairMOT) - \[IJCV-2021] FairMOT: On the Fairness of Detection and Re-Identification in Multi-Object Tracking
 
