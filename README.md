@@ -1527,7 +1527,7 @@
 
 *   [Olical/EventEmitter](https://github.com/Olical/EventEmitter) - Evented JavaScript for the browser
 
-*   [cwage/fetch](https://github.com/cwage/fetch) - A window.fetch JavaScript polyfill.
+*   [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
 
 *   [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler) - :snowman: Possibly the smallest compiler ever
 
