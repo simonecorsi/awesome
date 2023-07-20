@@ -1993,6 +1993,8 @@
 
 *   [rayepps/radash](https://github.com/rayepps/radash) - Functional utility library - modern, simple, typed, powerful
 
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
+
 *   [plutotcool/release](https://github.com/plutotcool/release) - 🔖 - GitHub Action to automatically release packages using lerna or semantic-release
 
 *   [imbhargav5/rooks](https://github.com/imbhargav5/rooks) -  Essential React custom hooks ⚓ to super charge your components!
@@ -3228,8 +3230,6 @@
 *   [dgtlmoon/changedetection.io](https://github.com/dgtlmoon/changedetection.io) - The best and simplest free open source website change detection, restock monitor and notification service. Restock Monitor, change detection. Designed for simplicity - Simply monitor which websites had a text change for free. Free Open source web page change detection, Website defacement monitoring, Price change and Price Drop notification
 
 *   [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
-
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and a/b testing that you can self-host.
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
