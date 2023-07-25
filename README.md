@@ -3503,7 +3503,7 @@
 
 *   [super-linter/super-linter](https://github.com/super-linter/super-linter) - Combination of multiple linters to install as a GitHub Action
 
-*   [syndbg/goenv](https://github.com/syndbg/goenv) - :blue\_car: Like pyenv and rbenv, but for Go.
+*   [go-nv/goenv](https://github.com/go-nv/goenv) - :blue\_car: Like pyenv and rbenv, but for Go.
 
 *   [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps) - 🖥 📊 🕹 🛠 A curated list of command line apps
 
