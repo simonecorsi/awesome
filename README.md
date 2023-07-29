@@ -315,7 +315,7 @@
 
 *   [unjs/consola](https://github.com/unjs/consola) - 🐨 Elegant Console Logger for Node.js and Browser
 
-*   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task runner for Node.js
+*   [privatenumber/tasuku](https://github.com/privatenumber/tasuku) - ✅ タスク — The minimal task visualizer for Node.js
 
 *   [nonara/extract-changelog-release](https://github.com/nonara/extract-changelog-release) - Extract release notes from latest entry in standard-version changelog
 
