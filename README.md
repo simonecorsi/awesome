@@ -155,7 +155,7 @@
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
-*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text search engine written in TypeScript.
+*   [oramasearch/orama](https://github.com/oramasearch/orama) - 🌌  Fast, in-memory, typo-tolerant, full-text and vector search engine written in TypeScript.
 
 *   [ferdium/ferdium-app](https://github.com/ferdium/ferdium-app) - All your services in one place, built by the community
 
@@ -766,6 +766,8 @@
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 
@@ -2614,8 +2616,6 @@
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 
 *   [orliesaurus/nodemailer-mailgun-transport](https://github.com/orliesaurus/nodemailer-mailgun-transport) - nodemailer is an amazing node module to send emails within any of your nodejs apps. This is the transport plugin that goes with nodemailer to send email using Mailgun 🔫
-
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 *   [eddywashere/node-stripe-membership-saas](https://github.com/eddywashere/node-stripe-membership-saas) - This project is a boilerplate express app for creating a membership/subscription site with Stripe.
 
