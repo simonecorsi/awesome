@@ -768,8 +768,6 @@
 
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages.
 
-*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
-
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
 
 *   [vercel/hyper](https://github.com/vercel/hyper) - A terminal built on web technologies
@@ -2617,6 +2615,8 @@
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
 
 *   [orliesaurus/nodemailer-mailgun-transport](https://github.com/orliesaurus/nodemailer-mailgun-transport) - nodemailer is an amazing node module to send emails within any of your nodejs apps. This is the transport plugin that goes with nodemailer to send email using Mailgun 🔫
+
+*   [vercel/next.js](https://github.com/vercel/next.js) - The React Framework
 
 *   [eddywashere/node-stripe-membership-saas](https://github.com/eddywashere/node-stripe-membership-saas) - This project is a boilerplate express app for creating a membership/subscription site with Stripe.
 
