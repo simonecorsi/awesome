@@ -3234,7 +3234,7 @@
 
 *   [devicons/devicon](https://github.com/devicons/devicon) - Set of icons representing programming languages, designing & development tools
 
-*   [kraanzu/dooit](https://github.com/kraanzu/dooit) - A TUI todo manager
+*   [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
 
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
