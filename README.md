@@ -212,7 +212,7 @@
 
 *   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 
-*   [aidenybai/million](https://github.com/aidenybai/million) - The Virtual DOM Replacement for React
+*   [aidenybai/million](https://github.com/aidenybai/million) - Make React Faster. Automatically.
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
