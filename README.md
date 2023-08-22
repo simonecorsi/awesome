@@ -10,7 +10,6 @@
 *   [JavaScript](#javascript)
 *   [Rust](#rust)
 *   [miscellaneous](#miscellaneous)
-*   [Makefile](#makefile)
 *   [PHP](#php)
 *   [Python](#python)
 *   [Zig](#zig)
@@ -34,6 +33,7 @@
 *   [C#](#c-2)
 *   [Less](#less)
 *   [Nim](#nim)
+*   [Makefile](#makefile)
 *   [MDX](#mdx)
 *   [Markdown](#markdown)
 *   [Haskell](#haskell)
@@ -2972,6 +2972,8 @@
 
 *   [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 
+*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
 *   [keon/awesome-nlp](https://github.com/keon/awesome-nlp) - :book: A curated list of resources dedicated to Natural Language Processing (NLP)
 
 *   [denolib/awesome-deno](https://github.com/denolib/awesome-deno) - Curated list of awesome things related to Deno
@@ -3129,12 +3131,6 @@
 *   [DBRAINDESIGN/letsink.com](https://github.com/DBRAINDESIGN/letsink.com) -
 
 *   [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
-
-## Makefile
-
-*   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
-
-*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## PHP
 
@@ -3833,6 +3829,10 @@
 ## Nim
 
 *   [andi23rosca/napi-nim](https://github.com/andi23rosca/napi-nim) - Write NodeJS native extensions in Nim
+
+## Makefile
+
+*   [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout
 
 ## MDX
 
