@@ -1932,7 +1932,7 @@
 
 *   [GoogleChromeLabs/size-plugin](https://github.com/GoogleChromeLabs/size-plugin) - Track compressed Webpack asset sizes over time.
 
-*   [jdxcode/npm-register](https://github.com/jdxcode/npm-register) - Your own private npm registry and backup server
+*   [jdx/npm-register](https://github.com/jdx/npm-register) - Your own private npm registry and backup server
 
 *   [rlidwka/sinopia](https://github.com/rlidwka/sinopia) - Private npm repository server
 
