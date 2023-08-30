@@ -58,6 +58,8 @@
 
 ## JavaScript
 
+*   [mixpanel/mixpanel-node](https://github.com/mixpanel/mixpanel-node) - A node.js API for mixpanel
+
 *   [bigskysoftware/htmx](https://github.com/bigskysoftware/htmx) - \</> htmx - high power tools for HTML
 
 *   [PipedreamHQ/pipedream](https://github.com/PipedreamHQ/pipedream) - Connect APIs, remarkably fast.  Free for developers.
@@ -1781,8 +1783,6 @@
 *   [callmecavs/layzr.js](https://github.com/callmecavs/layzr.js) - A modern lazy loading library for images.
 
 *   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
-
-*   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
 
 ## TypeScript
 
