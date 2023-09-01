@@ -1842,7 +1842,7 @@
 
 *   [daniel-hauser/react-organizational-chart](https://github.com/daniel-hauser/react-organizational-chart) - Simple react hierarchy tree - any React children accepted for nodes
 
-*   [teaxyz/cli](https://github.com/teaxyz/cli) - the next-generation, cross‐platform package manager
+*   [teaxyz/cli](https://github.com/teaxyz/cli) - tea: run anything
 
 *   [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
 
@@ -2032,7 +2032,7 @@
 
 *   [immobiliare/atomic-state](https://github.com/immobiliare/atomic-state) - A decentralized state management library for React
 
-*   [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
+*   [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀
 
 *   [tsconfig/bases](https://github.com/tsconfig/bases) - Hosts TSConfigs to extend in a TypeScript app, tuned to a particular runtime environment
 
