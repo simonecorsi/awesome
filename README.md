@@ -2330,7 +2330,7 @@
 
 *   [vkurchatkin/koa-connect](https://github.com/vkurchatkin/koa-connect) - Use connect and express middleware in koa
 
-*   [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, or CommonJS module
+*   [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 
 *   [express-rate-limit/rate-limit-redis](https://github.com/express-rate-limit/rate-limit-redis) - A rate limiting store for express-rate-limit with Redis
 
