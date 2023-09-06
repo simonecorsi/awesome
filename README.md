@@ -1766,7 +1766,7 @@
 
 *   [gloomyson/StarCraft](https://github.com/gloomyson/StarCraft) - HTML5 version of StarCraft game
 
-*   [CatDadCode/mongoose-simpledb](https://github.com/CatDadCode/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
+*   [catdadcode/mongoose-simpledb](https://github.com/catdadcode/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
 
 *   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 
