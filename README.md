@@ -2104,7 +2104,7 @@
 
 *   [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
 
-*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - The Markdown CMS
+*   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Git and Visual Editing
 
 *   [FoalTS/foal](https://github.com/FoalTS/foal) - Full-featured Node.js framework, with no complexity. 🚀 Simple and easy to use, TypeScript-based and well-documented.
 
