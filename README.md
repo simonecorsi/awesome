@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Ruby](#ruby)
 *   [Python](#python)
 *   [JavaScript](#javascript)
 *   [TypeScript](#typescript)
@@ -25,7 +26,6 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 *   [WebAssembly](#webassembly)
-*   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
 *   [C](#c-1)
@@ -55,6 +55,36 @@
 *   [q](#q)
 *   [Pug](#pug)
 *   [Astro](#astro)
+
+## Ruby
+
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.4. PHP 8.3 and PHP 8.4 are built nightly.
+
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
+
+*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - \[DEPRECATED] Heroku buildpack for handling static sites and single page web apps
+
+*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+
+*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+
+*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
+
+*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
+
+*   [iridakos/table\_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
+
+*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## Python
 
@@ -3352,8 +3382,6 @@
 
 *   [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
 
-*   [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
-
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -3673,34 +3701,6 @@
 *   [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 
 *   [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
-
-## Ruby
-
-*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PR's.
-
-*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - \[DEPRECATED] Heroku buildpack for handling static sites and single page web apps
-
-*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-
-*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
-
-*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-
-*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
-
-*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
-
-*   [iridakos/table\_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
-
-*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## SCSS
 
