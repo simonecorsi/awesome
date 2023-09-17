@@ -778,8 +778,6 @@
 
 *   [sahat/satellizer](https://github.com/sahat/satellizer) - Token-based AngularJS Authentication
 
-*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
-
 *   [angular-ui/ui-router](https://github.com/angular-ui/ui-router) - The de-facto solution to flexible routing with nested views in AngularJS
 
 *   [tj/connect-redis](https://github.com/tj/connect-redis) - Redis session store for Connect
@@ -2603,6 +2601,8 @@
 *   [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 
 *   [google/traceur-compiler](https://github.com/google/traceur-compiler) - Traceur is a JavaScript.next-to-JavaScript-of-today compiler
+
+*   [lodash/lodash](https://github.com/lodash/lodash) - A modern JavaScript utility library delivering modularity, performance, & extras.
 
 *   [Automattic/mongoose](https://github.com/Automattic/mongoose) - MongoDB object modeling designed to work in an asynchronous environment.
 
