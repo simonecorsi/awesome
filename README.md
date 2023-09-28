@@ -2668,7 +2668,7 @@
 
 *   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban (built with Meteor). Keep variable/table/field names camelCase. For translations, only add Pull Request changes to wekan/i18n/en.i18n.json , other translations are done at https://app.transifex.com/wekan/ only.
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces
+*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
 
