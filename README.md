@@ -3496,7 +3496,7 @@
 
 *   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 
-*   [ArtemGordinsky/Spotifree](https://github.com/ArtemGordinsky/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
+*   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## CSS
 
