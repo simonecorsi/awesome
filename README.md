@@ -2608,7 +2608,7 @@
 
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
 
-*   [Jam3/devtool](https://github.com/Jam3/devtool) - \[OBSOLETE] runs Node.js programs through Chromium DevTools
+*   [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - \[OBSOLETE] runs Node.js programs through Chromium DevTools
 
 *   [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
 
