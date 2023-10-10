@@ -3868,6 +3868,8 @@
 
 *   [ryanoasis/vim-devicons](https://github.com/ryanoasis/vim-devicons) - Adds file type icons to Vim plugins such as: NERDTree, vim-airline, CtrlP, unite, Denite, lightline, vim-startify and many more
 
+*   [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
+
 *   [liuchengxu/space-vim](https://github.com/liuchengxu/space-vim) - :four\_leaf\_clover: Lean & mean spacemacs-ish Vim distribution
 
 *   [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
@@ -3925,8 +3927,6 @@
 *   [google/schism](https://github.com/google/schism) - A self-hosting Scheme to WebAssembly compiler
 
 ## Vim script
-
-*   [prettier/vim-prettier](https://github.com/prettier/vim-prettier) - A Vim plugin for Prettier
 
 *   [mhinz/vim-galore](https://github.com/mhinz/vim-galore) - :mortar\_board: All things Vim!
 
