@@ -4,6 +4,7 @@
 
 ## Table of Contents
 
+*   [Swift](#swift)
 *   [TypeScript](#typescript)
 *   [Ruby](#ruby)
 *   [Python](#python)
@@ -16,7 +17,6 @@
 *   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c)
-*   [Swift](#swift)
 *   [CSS](#css)
 *   [Starlark](#starlark)
 *   [Nix](#nix)
@@ -55,6 +55,28 @@
 *   [q](#q)
 *   [Pug](#pug)
 *   [Astro](#astro)
+
+## Swift
+
+*   [brettferdosi/grayscale](https://github.com/brettferdosi/grayscale) - macOS status bar app for easily toggling the grayscale display filter
+
+*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
+
+*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
+
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
+
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+
+*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
+
+*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+
+*   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## TypeScript
 
@@ -801,8 +823,6 @@
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 *   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
-
-*   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
 
 ## Ruby
 
@@ -3477,26 +3497,6 @@
 *   [fatih/subvim](https://github.com/fatih/subvim) - Vim customized to be like SublimeText
 
 *   [node-inspector/v8-profiler](https://github.com/node-inspector/v8-profiler) - node bindings for the v8 profiler
-
-## Swift
-
-*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
-
-*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
-
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
-
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-
-*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
-
-*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
-
-*   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## CSS
 
