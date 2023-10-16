@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [Swift](#swift)
 *   [TypeScript](#typescript)
+*   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Python](#python)
 *   [JavaScript](#javascript)
@@ -56,29 +56,9 @@
 *   [Pug](#pug)
 *   [Astro](#astro)
 
-## Swift
-
-*   [brettferdosi/grayscale](https://github.com/brettferdosi/grayscale) - macOS status bar app for easily toggling the grayscale display filter
-
-*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
-
-*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
-
-*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
-
-*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
-
-*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
-
-*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
-
-*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
-
-*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
-
-*   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
-
 ## TypeScript
+
+*   [openblocks-dev/openblocks](https://github.com/openblocks-dev/openblocks) - 🔥 🔥 🔥 The Open Source Retool Alternative
 
 *   [freight-hub/verdaccio-openmetrics](https://github.com/freight-hub/verdaccio-openmetrics) - Verdaccio Plugin which exposes an OpenMetrics/Prometheus endpoint with health and traffic metrics
 
@@ -823,6 +803,28 @@
 *   [railsware/upterm](https://github.com/railsware/upterm) - A terminal emulator for the 21st century.
 
 *   [quilljs/quill](https://github.com/quilljs/quill) - Quill is a modern WYSIWYG editor built for compatibility and extensibility.
+
+## Swift
+
+*   [brettferdosi/grayscale](https://github.com/brettferdosi/grayscale) - macOS status bar app for easily toggling the grayscale display filter
+
+*   [immobiliare/Parrot](https://github.com/immobiliare/Parrot) - 🦜 Smart HTTP Stubber for Swift
+
+*   [odlp/bluesnooze](https://github.com/odlp/bluesnooze) - Sleeping Mac = Bluetooth off
+
+*   [immobiliare/RealHTTP](https://github.com/immobiliare/RealHTTP) - 🌀swift async http client - fast, lightweight, type-safe
+
+*   [immobiliare/RealFlags](https://github.com/immobiliare/RealFlags) - 🔧 Feature Flagging for Swift
+
+*   [pock/pock](https://github.com/pock/pock) - Widgets manager for MacBook Touch Bar
+
+*   [Toxblh/MTMR](https://github.com/Toxblh/MTMR) - 🌟 \[My TouchBar My rules]. The Touch Bar Customisation App for your MacBook Pro
+
+*   [xi-editor/xi-mac](https://github.com/xi-editor/xi-mac) - The xi-editor mac frontend.
+
+*   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
+
+*   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
 
 ## Ruby
 
@@ -3033,8 +3035,6 @@
 *   [lakkatv/lakka-website](https://github.com/lakkatv/lakka-website) - Lakka website
 
 *   [jwvdiermen/grunt-include-source](https://github.com/jwvdiermen/grunt-include-source) - Include lists of files into your source files automatically.
-
-*   [google/material-design-lite](https://github.com/google/material-design-lite) - Material Design Components in HTML/CSS/JS
 
 ## Rust
 
