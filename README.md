@@ -3704,7 +3704,7 @@
 
 *   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
 
-*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+*   [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 *   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
 
