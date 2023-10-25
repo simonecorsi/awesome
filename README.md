@@ -2974,8 +2974,6 @@
 
 *   [kubernetes/kompose](https://github.com/kubernetes/kompose) - Convert Compose to Kubernetes
 
-*   [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-
 *   [profclems/glab](https://github.com/profclems/glab) - The GitLab CLI tool. Archived: now officially adopted by GitLab as the official CLI tool and maintained at https://gitlab.com/gitlab-org/cli. See https://github.com/profclems/glab/issues/983
 
 *   [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
@@ -3763,6 +3761,8 @@
 *   [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 
 *   [ggreer/the\_silver\_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+
+*   [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 
 *   [rsms/markdown-wasm](https://github.com/rsms/markdown-wasm) - Very fast Markdown parser and HTML generator implemented in WebAssembly, based on md4c
 
