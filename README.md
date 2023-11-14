@@ -410,7 +410,7 @@
 
 *   [rsify/pico](https://github.com/rsify/pico) - Take browser screenshots in Javascript  📸
 
-*   [sindresorhus/mem](https://github.com/sindresorhus/mem) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
+*   [sindresorhus/memoize](https://github.com/sindresorhus/memoize) - Memoize functions - an optimization technique used to speed up consecutive function calls by caching the result of calls with identical input
 
 *   [elsaland/elsa](https://github.com/elsaland/elsa) - ❄️ Elsa is a minimal runtime for JavaScript and TypeScript written in Go
 
@@ -576,7 +576,7 @@
 
 *   [segmentio/ui-box](https://github.com/segmentio/ui-box) - Blazing Fast React UI Primitive
 
-*   [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - React Emoji Picker
+*   [ealush/emoji-picker-react](https://github.com/ealush/emoji-picker-react) - The most popular React Emoji Picker
 
 *   [unjs/webpackbar](https://github.com/unjs/webpackbar) - Elegant ProgressBar and Profiler for Webpack 3 , 4 and 5
 
