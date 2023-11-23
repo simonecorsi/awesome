@@ -1160,7 +1160,7 @@
 
 *   [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
-*   [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - A Full Stack Framework based on Fastify and Vite. Built for great developer experience without compromising on performance and stability.
+*   [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Archived
 
 *   [lukechilds/this](https://github.com/lukechilds/this) - Traverses up the directory tree and returns the first module found
 
