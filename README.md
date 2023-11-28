@@ -4,7 +4,8 @@
 
 ## Table of Contents
 
-*   [C++](#c)
+*   [C#](#c)
+*   [C++](#c-1)
 *   [TypeScript](#typescript)
 *   [Go](#go)
 *   [JavaScript](#javascript)
@@ -28,9 +29,8 @@
 *   [WebAssembly](#webassembly)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
-*   [C](#c-1)
+*   [C](#c-2)
 *   [Java](#java)
-*   [C#](#c-2)
 *   [Less](#less)
 *   [Nim](#nim)
 *   [Makefile](#makefile)
@@ -55,6 +55,18 @@
 *   [q](#q)
 *   [Pug](#pug)
 *   [Astro](#astro)
+
+## C\#
+
+*   [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - Experience Windows 11 in your way!
+
+*   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
+
+*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+
+*   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
+
+*   [HearthstoneTracker/HearthstoneTracker](https://github.com/HearthstoneTracker/HearthstoneTracker) - Automatically track and generate statistics for all your HearthStone games.
 
 ## C++
 
@@ -2840,8 +2852,6 @@
 
 *   [catdadcode/mongoose-simpledb](https://github.com/catdadcode/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
 
-*   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
-
 ## miscellaneous
 
 *   [lirantal/nodejs-cli-apps-best-practices](https://github.com/lirantal/nodejs-cli-apps-best-practices) - The largest Node.js CLI Apps best practices list ✨
@@ -3809,16 +3819,6 @@
 *   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
 
 *   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
-
-## C\#
-
-*   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
-
-*   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-
-*   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-
-*   [HearthstoneTracker/HearthstoneTracker](https://github.com/HearthstoneTracker/HearthstoneTracker) - Automatically track and generate statistics for all your HearthStone games.
 
 ## Less
 
