@@ -808,7 +808,7 @@
 
 ## C\#
 
-*   [builtbybel/BloatyNosy](https://github.com/builtbybel/BloatyNosy) - The real Windows 11 Copilot
+*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The real Windows 11 Copilot
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 
