@@ -170,8 +170,6 @@
 
 *   [immobiliare/standard-version](https://github.com/immobiliare/standard-version) - :trophy: Automate versioning and CHANGELOG generation, with semver.org and conventionalcommits.org
 
-*   [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
-
 *   [fastify/fastify-dx](https://github.com/fastify/fastify-dx) - Archived
 
 *   [lukechilds/this](https://github.com/lukechilds/this) - Traverses up the directory tree and returns the first module found
@@ -1893,6 +1891,8 @@
 *   [changesets/changesets](https://github.com/changesets/changesets) - 🦋       A way to manage your versioning and changelogs with a focus on monorepos
 
 *   [formkit/auto-animate](https://github.com/formkit/auto-animate) - A zero-config, drop-in animation utility that adds smooth transitions to your web app. You can use it with React, Vue, or any other JavaScript application.
+
+*   [conventional-changelog/conventional-changelog](https://github.com/conventional-changelog/conventional-changelog) - Generate changelogs and release notes from a project's commit messages and metadata.
 
 *   [m4tt72/terminal](https://github.com/m4tt72/terminal) - Terminal style website
 
