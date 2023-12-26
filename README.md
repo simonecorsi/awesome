@@ -322,7 +322,7 @@
 
 *   [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 
-*   [typicode/steno](https://github.com/typicode/steno) - Specialized fast async file writer
+*   [typicode/steno](https://github.com/typicode/steno) - Super fast async file writer with atomic write ⚡
 
 *   [mercurius-js/mercurius](https://github.com/mercurius-js/mercurius) - Implement GraphQL servers and gateways with Fastify
 
