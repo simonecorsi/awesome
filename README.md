@@ -912,7 +912,7 @@
 
 *   [fusionjs/fusion-core](https://github.com/fusionjs/fusion-core) - Migrated to https://github.com/fusionjs/fusionjs
 
-*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast local JSON database
+*   [typicode/lowdb](https://github.com/typicode/lowdb) - Simple and fast JSON database
 
 *   [vpulim/node-soap](https://github.com/vpulim/node-soap) - A SOAP client and server for node.js.
 
