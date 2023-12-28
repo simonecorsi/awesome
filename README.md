@@ -3422,7 +3422,7 @@
 
 *   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
 
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Manipulation
+*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
 
 *   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
 
