@@ -1898,7 +1898,7 @@
 
 *   [yoavbls/pretty-ts-errors](https://github.com/yoavbls/pretty-ts-errors) - 🔵 Make TypeScript errors prettier and human-readable in VSCode 🎀
 
-*   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless editor framework for web artisans.
+*   [ueberdosis/tiptap](https://github.com/ueberdosis/tiptap) - The headless rich text editor framework for web artisans.
 
 *   [saitho/semantic-release-backmerge](https://github.com/saitho/semantic-release-backmerge) - :twisted\_rightwards\_arrows: semantic-release plugin to back-merge a release into a develop branch
 
