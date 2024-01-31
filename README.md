@@ -1027,7 +1027,7 @@
 
 *   [haraka/Haraka](https://github.com/haraka/Haraka) - A fast, highly extensible, and event driven SMTP server
 
-*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is the most complete javascript library for Whatsapp, 100% Open Source.
+*   [orkestral/venom](https://github.com/orkestral/venom) - Venom is a high-performance system developed with JavaScript to create a bot for WhatsApp, support for creating any interaction, such as customer service, media sending, sentence recognition based on artificial intelligence and all types of design architecture for WhatsApp.
 
 *   [berstend/node-safe](https://github.com/berstend/node-safe) - 🤠 Make using Node.js safe again with Deno-like permissions
 
