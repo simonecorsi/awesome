@@ -3803,7 +3803,7 @@
 
 *   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - Monitor your servers, containers, and applications, in high-resolution and in real-time!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
 
 ## Java
 
