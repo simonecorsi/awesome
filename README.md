@@ -2641,7 +2641,7 @@
 
 ## C\#
 
-*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Anti-assistant assistant
+*   [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Anti-assistant assistant
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 
