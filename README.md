@@ -24,7 +24,6 @@
 *   [Nix](#nix)
 *   [Shell](#shell)
 *   [V](#v)
-*   [Perl](#perl)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 *   [WebAssembly](#webassembly)
@@ -50,6 +49,7 @@
 *   [OpenEdge ABL](#openedge-abl)
 *   [Scheme](#scheme)
 *   [Vim script](#vim-script-1)
+*   [Perl](#perl)
 *   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
 *   [VimL](#viml)
@@ -3521,6 +3521,8 @@
 
 *   [mcollina/public-speaking](https://github.com/mcollina/public-speaking) - Matteo Collina's portfolio of public speaking engagements
 
+*   [ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals) - Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)
+
 *   [ajinabraham/nodejsscan](https://github.com/ajinabraham/nodejsscan) - nodejsscan is a static security code scanner for Node.js applications.
 
 *   [aurasphere/gomorra-sql](https://github.com/aurasphere/gomorra-sql) - SQL made uagliò.
@@ -3674,12 +3676,6 @@
 ## V
 
 *   [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in <1s with zero library dependencies. Supports automatic C => V translation. https://vlang.io
-
-## Perl
-
-*   [ossf/secure-sw-dev-fundamentals](https://github.com/ossf/secure-sw-dev-fundamentals) - Secure Software Development Fundamentals courses (from the OpenSSF Best Practices WG)
-
-*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Clojure
 
@@ -3936,6 +3932,10 @@
 *   [dodie/vim-disapprove-deep-indentation](https://github.com/dodie/vim-disapprove-deep-indentation) - ಠ\_ಠ Vim plugin to disapprove deeply indented code. ಠ\_ಠ
 
 *   [jiangmiao/auto-pairs](https://github.com/jiangmiao/auto-pairs) - Vim plugin, insert or delete brackets, parens, quotes in pair
+
+## Perl
+
+*   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
 
 ## Jupyter Notebook
 
