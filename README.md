@@ -2645,7 +2645,7 @@
 
 ## C\#
 
-*   [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The Copilot rebel
+*   [builtbybel/BloatynosyAI](https://github.com/builtbybel/BloatynosyAI) - The real PowerToys
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 
