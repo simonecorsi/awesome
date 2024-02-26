@@ -1867,7 +1867,7 @@
 
 *   [imbhargav5/rooks](https://github.com/imbhargav5/rooks) -  Essential React custom hooks ⚓ to super charge your components!
 
-*   [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many decorators
+*   [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators
 
 *   [payloadcms/payload](https://github.com/payloadcms/payload) - The best way to build a modern backend + admin UI. No black magic, all TypeScript, and fully open-source, Payload is both an app framework and a headless CMS.
 
