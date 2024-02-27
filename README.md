@@ -1193,8 +1193,6 @@
 
 *   [highlightjs/highlight.js](https://github.com/highlightjs/highlight.js) - JavaScript syntax highlighter with language auto-detection and zero dependencies.
 
-*   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
-
 *   [zouhir/jarvis](https://github.com/zouhir/jarvis) - A very intelligent browser based Webpack dashboard
 
 *   [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -2404,6 +2402,8 @@
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
 
 *   [callumlocke/json-formatter](https://github.com/callumlocke/json-formatter) - Makes JSON easy to read.
+
+*   [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 *   [postcss/postcss](https://github.com/postcss/postcss) - Transforming styles with JS plugins
 
