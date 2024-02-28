@@ -59,6 +59,8 @@
 
 ## JavaScript
 
+*   [wasmerio/winterjs](https://github.com/wasmerio/winterjs) - Winter is coming... ❄️
+
 *   [mcollina/borp](https://github.com/mcollina/borp) - node:test runner wrapper with TypeScript support
 
 *   [node-casbin/mongoose-adapter](https://github.com/node-casbin/mongoose-adapter) - Mongoose adapter for Casbin
@@ -2652,8 +2654,6 @@
 *   [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 
 *   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-
-*   [HearthstoneTracker/HearthstoneTracker](https://github.com/HearthstoneTracker/HearthstoneTracker) - Automatically track and generate statistics for all your HearthStone games.
 
 ## C++
 
