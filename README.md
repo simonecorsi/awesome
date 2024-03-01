@@ -1825,7 +1825,7 @@
 
 *   [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕
 
-*   [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno 🐿️ 🦕
+*   [oakserver/oak](https://github.com/oakserver/oak) - A middleware framework for handling HTTP with Deno, Node, Bun and Cloudflare Workers 🐿️ 🦕
 
 *   [daniel-hauser/react-organizational-chart](https://github.com/daniel-hauser/react-organizational-chart) - Simple react hierarchy tree - any React children accepted for nodes
 
