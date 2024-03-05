@@ -1101,7 +1101,7 @@
 
 *   [orangewise/s3-zip](https://github.com/orangewise/s3-zip) - Download selected files from an Amazon S3 bucket as a zip file
 
-*   [rekit/rekit](https://github.com/rekit/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
+*   [supnate/rekit](https://github.com/supnate/rekit) - IDE and toolkit for building scalable web applications with React, Redux and React-router
 
 *   [grantcarthew/node-console-probe](https://github.com/grantcarthew/node-console-probe) - Inspect JavaScript object methods and properties in the console.
 
