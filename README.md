@@ -141,7 +141,7 @@
 
 *   [immobiliare/radix3](https://github.com/immobiliare/radix3) - 🌳 Lightweight and fast router for JavaScript based on Radix Tree. This fork adds functional matching!
 
-*   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS and Linux.
+*   [Jigsaw-Code/outline-server](https://github.com/Jigsaw-Code/outline-server) - Outline Server, developed by Jigsaw. The Outline Server is a proxy server that runs a Shadowsocks instance and provides a REST API for access key management.
 
 *   [unjs/radix3](https://github.com/unjs/radix3) - 🌳 Lightweight and fast router for JavaScript based on Radix Tree
 
