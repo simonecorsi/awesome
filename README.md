@@ -1991,7 +1991,7 @@
 
 *   [johnpapa/lite-server](https://github.com/johnpapa/lite-server) - Lightweight node server
 
-*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
+*   [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Build applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! –
 
 *   [poberwong/react-native-switch-pro](https://github.com/poberwong/react-native-switch-pro) - a universal switch for android and iOS
 
