@@ -3255,7 +3255,7 @@
 
 *   [newren/git-filter-repo](https://github.com/newren/git-filter-repo) - Quickly rewrite git repository history (filter-branch replacement)
 
-*   [abhiprojectz/solanatrade](https://github.com/abhiprojectz/solanatrade) - Python trading bot using the Solana blockchain.
+*   [abhiprojectz/motionia](https://github.com/abhiprojectz/motionia) - The Ultimate & smart JS animation library! Simple fast , flexible & easy to integrate.
 
 *   [canonical/microk8s](https://github.com/canonical/microk8s) - MicroK8s is a small, fast, single-package Kubernetes for datacenters and the edge.
 
