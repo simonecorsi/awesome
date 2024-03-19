@@ -2649,7 +2649,7 @@
 
 ## C\#
 
-*   [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot (former Bloatynosy)
+*   [builtbybel/Winpilot](https://github.com/builtbybel/Winpilot) - Your Personal Windows Pilot
 
 *   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
 
