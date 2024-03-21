@@ -2705,7 +2705,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.5.53584, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.53622)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 10.2.6.53840, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.53622)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
@@ -3549,8 +3549,6 @@
 
 *   [nauxliu/five-star-rating](https://github.com/nauxliu/five-star-rating) - Five star rating component
 
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
-
 *   [mikolajdobrucki/material-foundation](https://github.com/mikolajdobrucki/material-foundation) - Material Design version of Foudation for Sites by Zurb
 
 *   [DennisSnijder/MakeGithubGreatAgain](https://github.com/DennisSnijder/MakeGithubGreatAgain) - Extension for making GitHub great again
@@ -3736,6 +3734,8 @@
 *   [JeremyFagis/dropify](https://github.com/JeremyFagis/dropify) - Override your input files with style — Demo here : http://jeremyfagis.github.io/dropify
 
 *   [Igosuki/compass-mixins](https://github.com/Igosuki/compass-mixins) - A collection of compass' stylesheet for bower dependencies and libsass
+
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
 *   [jessepollak/card](https://github.com/jessepollak/card) - :credit\_card: make your credit card form better in one line of code
 
