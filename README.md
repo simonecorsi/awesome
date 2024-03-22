@@ -3905,7 +3905,7 @@
 
 ## Lua
 
-*   [oratory/wago.io](https://github.com/oratory/wago.io) - Code for website wago.io
+*   [methodgg/wago.io](https://github.com/methodgg/wago.io) - Code for website wago.io
 
 *   [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 
