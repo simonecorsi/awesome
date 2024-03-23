@@ -631,7 +631,7 @@
 
 *   [cosmiconfig/cosmiconfig](https://github.com/cosmiconfig/cosmiconfig) - Find and load configuration from a package.json property, rc file, TypeScript module, and more!
 
-*   [express-rate-limit/rate-limit-redis](https://github.com/express-rate-limit/rate-limit-redis) - A rate limiting store for express-rate-limit with Redis
+*   [express-rate-limit/rate-limit-redis](https://github.com/express-rate-limit/rate-limit-redis) - A rate limiting store for express-rate-limit with Redict or Redis
 
 *   [fusionjs/fusionjs](https://github.com/fusionjs/fusionjs) - Modern framework for fast, powerful React apps
 
