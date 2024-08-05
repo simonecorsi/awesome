@@ -2084,7 +2084,7 @@
 
 *   [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
 
-*   [jaredwray/cacheable](https://github.com/jaredwray/cacheable) - Wrap native HTTP requests with RFC compliant cache support
+*   [jaredwray/cacheable\_legacy](https://github.com/jaredwray/cacheable_legacy) - Wrap native HTTP requests with RFC compliant cache support
 
 *   [piglovesyou/flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run Express middlewares anywhere🚀
 
