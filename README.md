@@ -2084,8 +2084,6 @@
 
 *   [caderek/benny](https://github.com/caderek/benny) - A dead simple benchmarking framework for JS/TS libs
 
-*   [jaredwray/cacheable\_legacy](https://github.com/jaredwray/cacheable_legacy) - Wrap native HTTP requests with RFC compliant cache support
-
 *   [piglovesyou/flow-middleware](https://github.com/piglovesyou/flow-middleware) - Run Express middlewares anywhere🚀
 
 *   [maticzav/nookies](https://github.com/maticzav/nookies) - 🍪 A set of cookie helpers for Next.js
@@ -2484,7 +2482,7 @@
 
 *   [react-bootstrap/react-bootstrap](https://github.com/react-bootstrap/react-bootstrap) - Bootstrap components built with React
 
-*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building data-driven applications running on top of REST/GraphQL APIs, using TypeScript, React and Material Design
+*   [marmelab/react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for single-page applications on top of REST/GraphQL APIs, using TypeScript, React and Material Design
 
 *   [AFASSoftware/maquette](https://github.com/AFASSoftware/maquette) - Pure and simple virtual DOM library
 
@@ -3907,6 +3905,8 @@
 ## Lua
 
 *   [methodgg/wago.io](https://github.com/methodgg/wago.io) - Code for website wago.io
+
+*   [docker/dockercraft](https://github.com/docker/dockercraft) - Docker + Minecraft = Dockercraft
 
 ## Reason
 
