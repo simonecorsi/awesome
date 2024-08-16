@@ -2548,6 +2548,8 @@
 
 *   [djc/askama](https://github.com/djc/askama) - Type-safe, compiled Jinja-like templates for Rust
 
+*   [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
+
 *   [Kilobyte22/config-parser](https://github.com/Kilobyte22/config-parser) - A simple config parser in rust
 
 *   [rome/tools](https://github.com/rome/tools) - Unified developer tools for JavaScript, TypeScript, and the web
@@ -2783,8 +2785,6 @@
 *   [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file
 
 *   [cloudwego/hertz](https://github.com/cloudwego/hertz) - Go HTTP framework with high-performance and strong-extensibility for building micro-services.
-
-*   [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 
 *   [pjebs/optimus-go](https://github.com/pjebs/optimus-go) - ID hashing and Obfuscation using Knuth's Algorithm
 
@@ -3208,7 +3208,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.0.56008, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.2.56110, 3.3.5 = 3.3.5a.12340, wotlk\_classic = 3.4.3.54261, cata classic =  4.4.0.55262)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
