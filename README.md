@@ -3800,7 +3800,7 @@
 
 *   [antirez/kilo](https://github.com/antirez/kilo) - A text editor in less than 1000 LOC with syntax highlight and search.
 
-*   [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platform everyone needs!
+*   [netdata/netdata](https://github.com/netdata/netdata) - The open-source observability platfrom everyone needs!
 
 ## Java
 
