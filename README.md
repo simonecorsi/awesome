@@ -39,6 +39,7 @@
 *   [Haskell](#haskell)
 *   [Vim Script](#vim-script)
 *   [Common Lisp](#common-lisp)
+*   [Markdown](#markdown)
 *   [Dart](#dart)
 *   [OCaml](#ocaml)
 *   [Julia](#julia)
@@ -46,7 +47,6 @@
 *   [Lua](#lua)
 *   [Reason](#reason)
 *   [Roff](#roff)
-*   [Markdown](#markdown)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Scheme](#scheme)
 *   [Vim script](#vim-script-1)
@@ -3450,8 +3450,6 @@
 
 *   [clarketm/proxy-list](https://github.com/clarketm/proxy-list) - A list of free, public, forward proxy servers. UPDATED DAILY!
 
-*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-
 *   [dailydotdev/daily](https://github.com/dailydotdev/daily) - daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻
 
 *   [Medium/medium-api-docs](https://github.com/Medium/medium-api-docs) - Documentation for Medium's OAuth2 API
@@ -3882,6 +3880,12 @@
 
 *   [dimitri/pgloader](https://github.com/dimitri/pgloader) - Migrate to PostgreSQL in a single command!
 
+## Markdown
+
+*   [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
+*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
+
 ## Dart
 
 *   [sass/dart-sass](https://github.com/sass/dart-sass) - The reference implementation of Sass, written in Dart.
@@ -3915,10 +3919,6 @@
 ## Roff
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
-
-## Markdown
-
-*   [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - 📚 Collaborative cheatsheets for console commands
 
 ## OpenEdge ABL
 
