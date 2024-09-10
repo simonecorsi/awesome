@@ -1394,8 +1394,6 @@
 
 *   [puranjayjain/react-materialui-notifications](https://github.com/puranjayjain/react-materialui-notifications) - Spec compliant notifications for react and material ui users
 
-*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
-
 *   [acdlite/recompose](https://github.com/acdlite/recompose) - A React utility belt for function components and higher-order components.
 
 *   [z-pattern-matching/z](https://github.com/z-pattern-matching/z) - Pattern Matching for Javascript
@@ -3187,6 +3185,8 @@
 *   [meltingice/CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation
 
 *   [tc39/proposal-optional-chaining](https://github.com/tc39/proposal-optional-chaining) -
+
+*   [edent/SuperTinyIcons](https://github.com/edent/SuperTinyIcons) - Under 1KB each! Super Tiny Icons are miniscule SVG versions of your favourite website and app logos
 
 *   [tma02/baritone](https://github.com/tma02/baritone) - Spotify controls that live in your menubar.
 
