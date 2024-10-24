@@ -80,7 +80,7 @@
 
 *   [swarthy/redis-semaphore](https://github.com/swarthy/redis-semaphore) - Distributed mutex and semaphore based on Redis
 
-*   [jakubczarnowski/FeastQR](https://github.com/jakubczarnowski/FeastQR) - FeastQR: Open Source SaaS Online Menu System 🌐
+*   [charnowsky/FeastQR](https://github.com/charnowsky/FeastQR) - FeastQR: Open Source SaaS Online Menu System 🌐
 
 *   [fastify/fastify-passport](https://github.com/fastify/fastify-passport) - Use passport strategies for authentication within a fastify application
 
@@ -316,7 +316,7 @@
 
 *   [rhlsthrm/typescript-solidity-dev-starter-kit](https://github.com/rhlsthrm/typescript-solidity-dev-starter-kit) - Starter kit for smart contract development using Typescript
 
-*   [medusajs/medusa](https://github.com/medusajs/medusa) - Building blocks for digital commerce
+*   [medusajs/medusa](https://github.com/medusajs/medusa) - The world's most flexible commerce platform.
 
 *   [BuilderIO/mitosis](https://github.com/BuilderIO/mitosis) - Write components once, run everywhere. Compiles to React, Vue, Qwik, Solid, Angular, Svelte, and more.
 
