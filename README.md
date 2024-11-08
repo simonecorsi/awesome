@@ -2662,11 +2662,11 @@
 
 *   [Yelp/dumb-init](https://github.com/Yelp/dumb-init) - A minimal init system for Linux containers
 
-*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source product analytics, session recording, feature flagging and A/B testing that you can self-host.
+*   [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog provides open-source web & product analytics, session recording, feature flagging and A/B testing that you can self-host. Get started - free.
 
 *   [home-assistant/core](https://github.com/home-assistant/core) - :house\_with\_garden: Open source home automation that puts local control and privacy first.
 
-*   [kraanzu/dooit](https://github.com/kraanzu/dooit) - An awesome TUI todo manager
+*   [dooit-org/dooit](https://github.com/dooit-org/dooit) - An awesome TUI todo manager
 
 *   [ansible/ansible](https://github.com/ansible/ansible) - Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.
 
