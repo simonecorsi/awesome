@@ -1214,7 +1214,7 @@
 
 *   [fabiospampinato/is](https://github.com/fabiospampinato/is) - The definitive collection of is\* functions for runtime type checking. Lodash-compatible, tree-shakable, with types.
 
-*   [fastify/env-schema](https://github.com/fastify/env-schema) - Validate your env variable using Ajv and dotenv
+*   [fastify/env-schema](https://github.com/fastify/env-schema) - Validate your env variables using Ajv and dotenv
 
 *   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 
@@ -1432,7 +1432,7 @@
 
 *   [jfromaniello/selfsigned](https://github.com/jfromaniello/selfsigned) - Generate self-signed certificates from node.js
 
-*   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Measure process load with automatic handling of "Service Unavailable" plugin for Fastify.
+*   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Process load measuring plugin for Fastify, with automatic handling of "Service Unavailable"
 
 *   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
 
@@ -1558,7 +1558,7 @@
 
 *   [mziccard/node-timsort](https://github.com/mziccard/node-timsort) - Tim Sort implementation for Node.js
 
-*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - :bathtub: Clean Code concepts adapted for JavaScript
+*   [ryanmcdermott/clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript) - Clean Code concepts adapted for JavaScript
 
 *   [animir/node-rate-limiter-flexible](https://github.com/animir/node-rate-limiter-flexible) - Atomic counters and rate limiting tools. Limit resource access at any scale.
 
@@ -1782,7 +1782,7 @@
 
 *   [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) -
 
-*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Short code snippets for all your development needs
+*   [Chalarangelo/30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code) - Coding articles to level up your development skills
 
 *   [Kagami/ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - Port of FFmpeg with Emscripten
 
@@ -2844,7 +2844,7 @@
 
 *   [jpetazzo/dind](https://github.com/jpetazzo/dind) - Docker in Docker
 
-*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - :rocket::star: Minimalistic, powerful and extremely customizable Zsh prompt
+*   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 
 *   [zulu-zsh/zulu](https://github.com/zulu-zsh/zulu) - Total environment manager for ZSH
 
