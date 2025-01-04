@@ -1104,7 +1104,7 @@
 
 *   [pmowrer/semantic-release-monorepo](https://github.com/pmowrer/semantic-release-monorepo) - Apply semantic-release's automatic publishing to a monorepo.
 
-*   [fastify/process-warning](https://github.com/fastify/process-warning) - A small utility for creating warnings and emitting them.
+*   [fastify/process-warning](https://github.com/fastify/process-warning) - A small utility for creating warnings and emitting them
 
 *   [mcollina/on-exit-leak-free](https://github.com/mcollina/on-exit-leak-free) - Execute a function on exit without leaking memory, allowing all objects to be garbage collected
 
