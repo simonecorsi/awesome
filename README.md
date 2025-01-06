@@ -3138,7 +3138,7 @@
 
 *   [GetPublii/Publii](https://github.com/GetPublii/Publii) - The most intuitive Static Site CMS designed for SEO-optimized and privacy-focused websites.
 
-*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better.
+*   [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT and other LLM tools better.
 
 *   [Igglybuff/awesome-piracy](https://github.com/Igglybuff/awesome-piracy) - A curated list of awesome warez and piracy links
 
