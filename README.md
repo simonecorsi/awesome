@@ -714,8 +714,6 @@
 
 *   [abraham/pkg-ok](https://github.com/abraham/pkg-ok) - 👌 Checks paths and scripts defined in package.json before you publish
 
-*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
-
 *   [scniro/react-codemirror2](https://github.com/scniro/react-codemirror2) - Codemirror integrated components for React
 
 *   [jquense/yup](https://github.com/jquense/yup) - Dead simple Object schema validation
@@ -2023,6 +2021,8 @@
 *   [nikhilk/node-tensorflow](https://github.com/nikhilk/node-tensorflow) - Node.js + TensorFlow
 
 *   [GoogleChromeLabs/sw-precache](https://github.com/GoogleChromeLabs/sw-precache) - \[Deprecated] A node module to generate service worker code that will precache specific resources so they work offline.
+
+*   [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 
 *   [bradley/Blotter](https://github.com/bradley/Blotter) - A JavaScript API for drawing unconventional text effects on the web.
 
