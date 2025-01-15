@@ -158,8 +158,6 @@
 
 *   [daniel-hauser/react-organizational-chart](https://github.com/daniel-hauser/react-organizational-chart) - Simple react hierarchy tree - any React children accepted for nodes
 
-*   [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
-
 *   [semantic-release-plus/semantic-release-plus](https://github.com/semantic-release-plus/semantic-release-plus) - semantic-release-plus monorepo to build and publish all semantic-release related repositories
 
 *   [voidcosmos/npkill](https://github.com/voidcosmos/npkill) - List any node\_modules 📦 dir in your system and how heavy they are. You can then select which ones you want to erase to free up space 🧹
@@ -867,6 +865,8 @@
 *   [DvorakDwarf/Infinite-Storage-Glitch](https://github.com/DvorakDwarf/Infinite-Storage-Glitch) - ISG lets you use YouTube as cloud storage for ANY files, not just video
 
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - run anything
 
 *   [bytecodealliance/wasmtime](https://github.com/bytecodealliance/wasmtime) - A lightweight WebAssembly runtime that is fast, secure, and standards-compliant
 
@@ -3576,7 +3576,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58533, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.57916)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.0.7.58608, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.1.58558)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
