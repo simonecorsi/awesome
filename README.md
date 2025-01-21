@@ -982,7 +982,7 @@
 
 *   [persvr/rql](https://github.com/persvr/rql) - Resource Query Language
 
-*   [arthurfiorette/proposal-safe-assignment-operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator) - Draft for ECMAScript Error Safe Assignment Operator
+*   [arthurfiorette/proposal-try-statements](https://github.com/arthurfiorette/proposal-try-statements) - Draft for ECMAScript Error Safe Assignment Operator
 
 *   [atlassian/better-ajv-errors](https://github.com/atlassian/better-ajv-errors) - JSON Schema validation for Human 👨‍🎤
 
