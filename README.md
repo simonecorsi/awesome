@@ -648,7 +648,7 @@
 
 *   [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - A lightweight Node.js private proxy registry
 
-*   [sekoyo/react-image-crop](https://github.com/sekoyo/react-image-crop) - A responsive image cropping tool for React
+*   [dominictobias/react-image-crop](https://github.com/dominictobias/react-image-crop) - A responsive image cropping tool for React
 
 *   [FormidableLabs/prism-react-renderer](https://github.com/FormidableLabs/prism-react-renderer) - 🖌️ Renders highlighted Prism output to React (+ theming & vendored Prism)
 
