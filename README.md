@@ -730,6 +730,8 @@
 
 *   [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
 
+*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
+
 *   [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 
 *   [FullHuman/purgecss](https://github.com/FullHuman/purgecss) - Remove unused CSS
@@ -2079,8 +2081,6 @@
 *   [carbon-app/carbon](https://github.com/carbon-app/carbon) - :black\_heart: Create and share beautiful images of your source code
 
 *   [postcss/sugarss](https://github.com/postcss/sugarss) - Indent-based CSS syntax for PostCSS
-
-*   [paulmillr/chokidar](https://github.com/paulmillr/chokidar) - Minimal and efficient cross-platform file watching library
 
 *   [rollup/rollup-plugin-babel](https://github.com/rollup/rollup-plugin-babel) - This package has moved and is now available at @rollup/plugin-babel / https://github.com/rollup/plugins/tree/master/packages/babel
 
