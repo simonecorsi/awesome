@@ -2088,7 +2088,7 @@
 
 *   [actions/checkout](https://github.com/actions/checkout) - Action for checking out a repo
 
-*   [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - Javascript client
+*   [kubernetes-client/javascript](https://github.com/kubernetes-client/javascript) - JavaScript client
 
 *   [tinacms/tinacms](https://github.com/tinacms/tinacms) - A fully open-source headless CMS that supports Markdown and Visual Editing
 
