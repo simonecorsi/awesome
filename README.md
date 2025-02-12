@@ -60,6 +60,8 @@
 
 ## JavaScript
 
+*   [just-js/ffast](https://github.com/just-js/ffast) - 🐉 An experimental node.js FFI library
+
 *   [sindresorhus/update-notifier](https://github.com/sindresorhus/update-notifier) - Update notifications for your CLI app
 
 *   [sindresorhus/nano-spawn](https://github.com/sindresorhus/nano-spawn) - Tiny process execution for humans — a better child\_process
@@ -1730,9 +1732,9 @@
 
 *   [vuejs/it.vuejs.org](https://github.com/vuejs/it.vuejs.org) - Italian translation for vuejs.org :it:
 
-*   [os-js/OS.js](https://github.com/os-js/OS.js) - OS.js - JavaScript Web Desktop Platform
-
 ## TypeScript
+
+*   [rajibola/human-regex](https://github.com/rajibola/human-regex) - Human-friendly regular expression builder with English-like syntax.
 
 *   [typegoose/typegoose](https://github.com/typegoose/typegoose) - Typegoose - Define Mongoose models using TypeScript classes.
 
@@ -3048,7 +3050,7 @@
 
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 
-*   [micro/micro](https://github.com/micro/micro) - An API first development platform
+*   [micro/micro](https://github.com/micro/micro) - An API development platform
 
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
@@ -3670,8 +3672,6 @@
 
 *   [mateuszkocz/3l](https://github.com/mateuszkocz/3l) - Lots of Love for LESS
 
-*   [krasimir/yez](https://github.com/krasimir/yez) - Chrome extension that acts as terminal and task runner
-
 ## Starlark
 
 *   [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
@@ -3766,7 +3766,7 @@
 
 *   [facebook/zstd](https://github.com/facebook/zstd) - Zstandard - Fast real-time compression algorithm
 
-*   [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source LZ77/LZSS/LZMA compressors
+*   [inikep/lzbench](https://github.com/inikep/lzbench) - lzbench is an in-memory benchmark of open-source compressors
 
 *   [JulienPalard/logtop](https://github.com/JulienPalard/logtop) - Display real time statistics of whatever you want.
 
