@@ -2534,7 +2534,7 @@
 
 *   [fujiapple852/trippy](https://github.com/fujiapple852/trippy) - A network diagnostic tool
 
-*   [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
+*   [spinframework/spin](https://github.com/spinframework/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 
 *   [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool.
 
