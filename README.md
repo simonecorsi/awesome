@@ -60,6 +60,8 @@
 
 ## TypeScript
 
+*   [tinyhttp/malibu](https://github.com/tinyhttp/malibu) - 🏄 Framework-agnostic CSRF middleware for modern Node.js
+
 *   [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
 
 *   [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - The TypeScript AI agent framework. ⚡ Assistants, RAG, observability. Supports any LLM: GPT-4, Claude, Gemini, Llama.
@@ -2545,8 +2547,6 @@
 *   [dhg/Redditate](https://github.com/dhg/Redditate) - A simple, minimal viewer for Reddit
 
 *   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-
-*   [expressjs/session](https://github.com/expressjs/session) - Simple session middleware for Express
 
 ## Rust
 
