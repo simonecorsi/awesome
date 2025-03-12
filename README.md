@@ -2572,7 +2572,7 @@
 
 *   [libreddit/libreddit](https://github.com/libreddit/libreddit) - Private front-end for Reddit
 
-*   [rinja-rs/askama](https://github.com/rinja-rs/askama) - Type-safe, compiled Jinja-like templates for Rust
+*   [askama-rs/askama-old](https://github.com/askama-rs/askama-old) - The original askama repo, please go to https://github.com/askama-rs/askama
 
 *   [sachaos/viddy](https://github.com/sachaos/viddy) - 👀 A modern watch command. Time machine and pager etc.
 
