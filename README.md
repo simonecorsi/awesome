@@ -962,8 +962,6 @@
 
 *   [VladimirMikulic/route-list](https://github.com/VladimirMikulic/route-list) - Beautifully shows Express/Koa/Hapi/Fastify routes in CLI.
 
-*   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Gracefully shutdown Node.js application: help you handle exit signals and cleanup
-
 *   [amroessam/moldock](https://github.com/amroessam/moldock) - A CLI tool to deconstruct moleculer projects into their own dependant projects, to be able to dockerize them individually
 
 *   [simonecorsi/mawesome](https://github.com/simonecorsi/mawesome) - 😎 Github action to generate your own awesome list from project you've starred ordered by languages!
@@ -984,7 +982,7 @@
 
 *   [jonwa/lerna-release-workflow](https://github.com/jonwa/lerna-release-workflow) - Create a semantic release workflow with Lerna, Conventional Commits and GitHub Actions
 
-*   [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) - This action automatically approves and merges dependabot PRs.
+*   [fastify/github-action-merge-dependabot](https://github.com/fastify/github-action-merge-dependabot) - This action automatically approves and merges dependabot PRs
 
 *   [sindresorhus/exit-hook](https://github.com/sindresorhus/exit-hook) - Run some code when the process exits
 
@@ -1044,7 +1042,7 @@
 
 *   [jaydenseric/fake-tag](https://github.com/jaydenseric/fake-tag) - A fake template literal tag to trick syntax highlighters, linters and formatters into action.
 
-*   [fastify/fastify-redis](https://github.com/fastify/fastify-redis) - Plugin to share a common Redis connection across Fastify.
+*   [fastify/fastify-redis](https://github.com/fastify/fastify-redis) - Plugin to share a common Redis connection across Fastify
 
 *   [ehmicky/wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 🤠 Object property paths with wildcards and regexps 🌵
 
@@ -1358,7 +1356,7 @@
 
 *   [nock/nock](https://github.com/nock/nock) - HTTP server mocking and expectations library for Node.js
 
-*   [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify.
+*   [fastify/middie](https://github.com/fastify/middie) - Middleware engine for Fastify
 
 *   [expressjs/express](https://github.com/expressjs/express) - Fast, unopinionated, minimalist web framework for node.
 
@@ -2824,13 +2822,15 @@
 
 *   [sickcodes/Docker-OSX](https://github.com/sickcodes/Docker-OSX) - Run macOS VM in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X Security Research! Docker mac Containers.
 
+*   [simonecorsi/fine](https://github.com/simonecorsi/fine) - 🧹 Gracefully shutdown Node.js application: help you handle exit signals and cleanup
+
 *   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 
 *   [creyD/prettier\_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
 
 *   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
-*   [nginxinc/docker-nginx](https://github.com/nginxinc/docker-nginx) - Official NGINX Dockerfiles
+*   [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
 
 *   [pi-hole/docker-pi-hole](https://github.com/pi-hole/docker-pi-hole) - Pi-hole in a docker container
 
