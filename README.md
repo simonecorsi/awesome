@@ -60,6 +60,8 @@
 
 ## TypeScript
 
+*   [openupm/verdaccio-install-counts](https://github.com/openupm/verdaccio-install-counts) - The package implements API endpoints for package download counts similar to NPM
+
 *   [tinyhttp/malibu](https://github.com/tinyhttp/malibu) - 🏄 Framework-agnostic CSRF middleware for modern Node.js
 
 *   [L-Blondy/up-fetch](https://github.com/L-Blondy/up-fetch) - Advanced fetch client builder
@@ -2545,8 +2547,6 @@
 *   [VerbalExpressions/JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 
 *   [dhg/Redditate](https://github.com/dhg/Redditate) - A simple, minimal viewer for Reddit
-
-*   [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 
 ## Rust
 
