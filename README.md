@@ -36,6 +36,7 @@
 *   [Nim](#nim)
 *   [Makefile](#makefile)
 *   [JSON](#json)
+*   [Jupyter Notebook](#jupyter-notebook)
 *   [Haskell](#haskell)
 *   [Common Lisp](#common-lisp)
 *   [Markdown](#markdown)
@@ -51,7 +52,6 @@
 *   [Scheme](#scheme)
 *   [Vim script](#vim-script-1)
 *   [Perl](#perl)
-*   [Jupyter Notebook](#jupyter-notebook)
 *   [PostScript](#postscript)
 *   [VimL](#viml)
 *   [q](#q)
@@ -2910,7 +2910,7 @@
 
 *   [Rigellute/spotify-tui](https://github.com/Rigellute/spotify-tui) - Spotify for the terminal written in Rust 🚀
 
-*   [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — Universal semantic layer platform for AI, BI, spreadsheets, and embedded analytics
+*   [cube-js/cube](https://github.com/cube-js/cube) - 📊 Cube’s universal semantic layer platform is the next evolution of OLAP technology for AI, BI, spreadsheets, and embedded analytics
 
 *   [diem/diem](https://github.com/diem/diem) - Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
 
@@ -2979,8 +2979,6 @@
 *   [containers/podman-compose](https://github.com/containers/podman-compose) - a script to run docker-compose.yml using podman
 
 *   [openai/jukebox](https://github.com/openai/jukebox) - Code for the paper "Jukebox: A Generative Model for Music"
-
-*   [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
 
 *   [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 
@@ -3864,6 +3862,12 @@
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
+## Jupyter Notebook
+
+*   [wilsonfreitas/awesome-quant](https://github.com/wilsonfreitas/awesome-quant) - A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance)
+
+*   [kmather73/NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
+
 ## Haskell
 
 *   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
@@ -3939,10 +3943,6 @@
 ## Perl
 
 *   [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
-
-## Jupyter Notebook
-
-*   [kmather73/NotHotdog-Classifier](https://github.com/kmather73/NotHotdog-Classifier) - What would you say if I told you there is a app on the market that tell you if you have a hotdog or not a hotdog.
 
 ## PostScript
 
