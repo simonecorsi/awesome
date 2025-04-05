@@ -646,8 +646,6 @@
 
 *   [nodeshift-archived/kube-probe](https://github.com/nodeshift-archived/kube-probe) - Simple liveness and readiness check middleware for openshift/kubernetes
 
-*   [iamadamdev/bypass-paywalls-chrome](https://github.com/iamadamdev/bypass-paywalls-chrome) - Bypass Paywalls web browser extension for Chrome and Firefox.
-
 *   [jfromaniello/selfsigned](https://github.com/jfromaniello/selfsigned) - Generate self-signed certificates from node.js
 
 *   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Process load measuring plugin for Fastify, with automatic handling of "Service Unavailable"
@@ -1847,6 +1845,8 @@
 *   [keithwhor/nodal](https://github.com/keithwhor/nodal) - API Services Made Easy With Node.js
 
 *   [matthewmueller/x-ray](https://github.com/matthewmueller/x-ray) - The next web scraper. See through the \<html> noise.
+
+*   [trailsjs/trails](https://github.com/trailsjs/trails) - :evergreen\_tree: Modern Web Application Framework for Node.js.
 
 ## Go
 
