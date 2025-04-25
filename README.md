@@ -356,7 +356,7 @@
 
 *   [ehmicky/wild-wild-path](https://github.com/ehmicky/wild-wild-path) - 🤠 Object property paths with wildcards and regexps 🌵
 
-*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (July 2023)
+*   [goldbergyoni/javascript-testing-best-practices](https://github.com/goldbergyoni/javascript-testing-best-practices) - 📗🌐 🚢 Comprehensive and exhaustive JavaScript & Node.js testing best practices (April 2024)
 
 *   [mcollina/fastify-sandbox](https://github.com/mcollina/fastify-sandbox) - load a plugin via a synchronous worker
 
@@ -672,7 +672,7 @@
 
 *   [lukeed/sade](https://github.com/lukeed/sade) - Smooth (CLI) Operator 🎶
 
-*   [juliangruber/buffer-replace](https://github.com/juliangruber/buffer-replace) - Like String#replace(), except for buffers
+*   [juliangruber/buffer-replace](https://github.com/juliangruber/buffer-replace) - Like String#replace(), but for buffers
 
 *   [mcollina/generify](https://github.com/mcollina/generify) - A reusable project generator
 
@@ -2018,7 +2018,7 @@
 
 *   [struCoder/pmgo](https://github.com/struCoder/pmgo) - pmgo is a process manager for Golang applications.
 
-*   [micro/micro](https://github.com/micro/micro) - A microservices platform
+*   [micro/micro](https://github.com/micro/micro) - A Go microservices platform
 
 *   [shixzie/nlp](https://github.com/shixzie/nlp) - \[UNMANTEINED] Extract values from strings and fill your structs with nlp.
 
