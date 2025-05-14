@@ -1310,6 +1310,8 @@
 
 *   [vercel/async-retry](https://github.com/vercel/async-retry) - Retrying made simple, easy and async
 
+*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
+
 *   [facebookarchive/nuclide](https://github.com/facebookarchive/nuclide) - An open IDE for web and native mobile development, built on top of Atom
 
 *   [keystonejs/keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
@@ -3725,8 +3727,6 @@
 *   [jnordberg/wintersmith](https://github.com/jnordberg/wintersmith) - A flexible static site generator
 
 *   [pazdera/gitwalk](https://github.com/pazdera/gitwalk) - Bulk processing of git repositories
-
-*   [adaltas/node-csv](https://github.com/adaltas/node-csv) - Full featured CSV parser with simple api and tested against large datasets.
 
 *   [orktes/atom-react](https://github.com/orktes/atom-react) - ReactJS Support for atom (syntax, snippets)
 
