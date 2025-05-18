@@ -17,7 +17,6 @@
 *   [C#](#c)
 *   [miscellaneous](#miscellaneous)
 *   [Swift](#swift)
-*   [Ruby](#ruby)
 *   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
@@ -28,6 +27,7 @@
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
 *   [WebAssembly](#webassembly)
+*   [Ruby](#ruby)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
 *   [C](#c-2)
@@ -3340,6 +3340,8 @@
 
 *   [ZachGoldberg/Startup-CTO-Handbook](https://github.com/ZachGoldberg/Startup-CTO-Handbook) - The Startup CTO's Handbook, a book covering leadership, management and technical topics for leaders of software engineering teams
 
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
+
 *   [denji/awesome-http-benchmark](https://github.com/denji/awesome-http-benchmark) - HTTP(S) benchmark tools, testing/debugging, & restAPI (RESTful)
 
 *   [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -3511,36 +3513,6 @@
 *   [malcommac/SwiftDate](https://github.com/malcommac/SwiftDate) - 🐔 Toolkit to parse, validate, manipulate, compare and display dates, time & timezones in Swift.
 
 *   [artemgordinskiy/Spotifree](https://github.com/artemgordinskiy/Spotifree) - An OS X app that automatically mutes ads on Spotify \[DISCONTINUED]
-
-## Ruby
-
-*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - :beer: Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly.
-
-*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
-
-*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - \[DEPRECATED] Heroku buildpack for handling static sites and single page web apps
-
-*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
-
-*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
-
-*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
-
-*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
-
-*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
-
-*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
-
-*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
-
-*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
-
-*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
-
-*   [iridakos/table\_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
-
-*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## Zig
 
@@ -3747,6 +3719,34 @@
 *   [WebAssembly/binaryen](https://github.com/WebAssembly/binaryen) - Optimizer and compiler/toolchain library for WebAssembly
 
 *   [AssemblyScript/assemblyscript](https://github.com/AssemblyScript/assemblyscript) - A TypeScript-like language for WebAssembly.
+
+## Ruby
+
+*   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
+
+*   [heroku/heroku-buildpack-static](https://github.com/heroku/heroku-buildpack-static) - \[DEPRECATED] Heroku buildpack for handling static sites and single page web apps
+
+*   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
+
+*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+
+*   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
+
+*   [forem/forem](https://github.com/forem/forem) - For empowering community 🌱
+
+*   [busyloop/lolcat](https://github.com/busyloop/lolcat) - Rainbows and unicorns!
+
+*   [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
+
+*   [discourse/discourse](https://github.com/discourse/discourse) - A platform for community discussion. Free, open, simple.
+
+*   [vccw-team/vccw](https://github.com/vccw-team/vccw) - A Vagrant based development environment.
+
+*   [mislav/git-deploy](https://github.com/mislav/git-deploy) - git deployment made easy
+
+*   [iridakos/table\_flipper](https://github.com/iridakos/table_flipper) - (╯°□°）╯︵ ┻━┻ A useless gem for table flipping on exceptions :unamused:
+
+*   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
 ## SCSS
 
