@@ -2700,7 +2700,7 @@
 
 *   [egoist/dum](https://github.com/egoist/dum) - An npm scripts runner written in Rust.
 
-*   [iotaledger/identity](https://github.com/iotaledger/identity) - Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA Tangle.
+*   [iotaledger/identity](https://github.com/iotaledger/identity) - Implementation of the Decentralized Identity standards such as DID and Verifiable Credentials by W3C for the IOTA MoveVM.
 
 *   [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
 
