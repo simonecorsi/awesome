@@ -1842,7 +1842,7 @@
 
 *   [talmobi/tor-request](https://github.com/talmobi/tor-request) - light Tor proxy wrapper for request library
 
-*   [baeyun/pregx](https://github.com/baeyun/pregx) - A collection of popular & commonly used regexp patterns for JavaScript
+*   [lordkrieg/pregx](https://github.com/lordkrieg/pregx) - A collection of popular & commonly used regexp patterns for JavaScript
 
 *   [slmgc/Nothing](https://github.com/slmgc/Nothing) - A chainable, callable mock object which always returns itself
 
