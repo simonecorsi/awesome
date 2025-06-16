@@ -931,7 +931,7 @@
 
 *   [beaugunderson/codeowners](https://github.com/beaugunderson/codeowners) - 👁 audit your CODEOWNERS file
 
-*   [a-synchronous/rubico](https://github.com/a-synchronous/rubico) - \[a]synchronous functional programming
+*   [a-synchronous/rubico](https://github.com/a-synchronous/rubico) - \[A]synchronous Functional Programming
 
 *   [ldapjs/node-ldapjs](https://github.com/ldapjs/node-ldapjs) - LDAP Client and Server API for node.js
 
