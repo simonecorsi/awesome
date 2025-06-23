@@ -3519,7 +3519,7 @@
 
 *   [rails/rails](https://github.com/rails/rails) - Ruby on Rails
 
-*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - MAC address age tracking
+*   [hdm/mac-ages](https://github.com/hdm/mac-ages) - This repository has been combined with mac-tracker project and no longer receives updates.
 
 *   [SteveLTN/https-portal](https://github.com/SteveLTN/https-portal) - A fully automated HTTPS server powered by Nginx, Let's Encrypt and Docker.
 
