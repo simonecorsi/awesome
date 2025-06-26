@@ -872,8 +872,6 @@
 
 *   [IBM/openapi-validator](https://github.com/IBM/openapi-validator) - Configurable and extensible validator/linter for OpenAPI documents
 
-*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-
 *   [just-js/ffast](https://github.com/just-js/ffast) - 🐉 An experimental node.js FFI library
 
 *   [sindresorhus/update-notifier](https://github.com/sindresorhus/update-notifier) - Update notifications for your CLI app
@@ -2526,6 +2524,8 @@
 
 *   [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
 
+*   [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
+
 *   [immobiliare/vegeta-super-sayan](https://github.com/immobiliare/vegeta-super-sayan) - This project is a versatile load testing tool designed to evaluate the performance and resilience of web services and APIs.
 
 *   [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt) - Private chat with local GPT with document, images, video, etc. 100% private, Apache 2.0. Supports oLLaMa, Mixtral, llama.cpp, and more. Demo: https://gpt.h2o.ai/ https://gpt-docs.h2o.ai/
@@ -2720,7 +2720,7 @@
 
 *   [al8n/stretto](https://github.com/al8n/stretto) - Stretto is a Rust implementation for Dgraph's ristretto (https://github.com/dgraph-io/ristretto). A high performance memory-bound Rust cache.
 
-*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, mobile, and more.
+*   [DioxusLabs/dioxus](https://github.com/DioxusLabs/dioxus) - Fullstack app framework for web, desktop, and mobile.
 
 *   [wooorm/levenshtein-rs](https://github.com/wooorm/levenshtein-rs) - Levenshtein algorithm in Rust
 
