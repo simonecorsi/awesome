@@ -60,6 +60,10 @@
 
 ## TypeScript
 
+*   [pavittarx/editorjs-html](https://github.com/pavittarx/editorjs-html) - A javascript library to parse editorjs clean data to html. It is adaptable and usable in all kind of projects.
+
+*   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
+
 *   [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
 
 *   [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performance Monitoring (APM) & Observability tool
@@ -2520,8 +2524,6 @@
 
 *   [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
 
-*   [MonkDev/tinyvision](https://github.com/MonkDev/tinyvision) - A visual file selector for TinyMCE v4.
-
 ## Python
 
 *   [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
@@ -3318,8 +3320,6 @@
 
 *   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
 
-*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
-
 ## Vue
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -3604,7 +3604,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.7.61609, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.1.7.61967, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
