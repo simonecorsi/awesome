@@ -1180,6 +1180,8 @@
 
 *   [kesla/node-snappy](https://github.com/kesla/node-snappy) - DEPRECATED - please use https://github.com/Brooooooklyn/snappy. Nodejs bindings to Google's Snappy compression library
 
+*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
+
 *   [middyjs/middy](https://github.com/middyjs/middy) - 🛵 The stylish Node.js middleware engine for AWS Lambda 🛵
 
 *   [mcollina/msgpack5](https://github.com/mcollina/msgpack5) - A msgpack v5 implementation for node.js, with extension points / msgpack.org\[Node]
@@ -1763,8 +1765,6 @@
 *   [budiadiono/mongoose-slug-hero](https://github.com/budiadiono/mongoose-slug-hero) - Mongoose trackable unique slug generator plugin
 
 *   [tleunen/babel-plugin-module-resolver](https://github.com/tleunen/babel-plugin-module-resolver) - Custom module resolver plugin for Babel
-
-*   [blacksmithstudio/blockbase](https://github.com/blacksmithstudio/blockbase) - Lightweight MVC Framework for Node.js
 
 *   [caolan/highland](https://github.com/caolan/highland) - High-level streams library for Node.js and the browser
 
@@ -2524,6 +2524,8 @@
 
 *   [troygoode/node-require-directory](https://github.com/troygoode/node-require-directory) - Recursively iterates over specified directory, requiring each file, and returning a nested hash structure containing those libraries.
 
+*   [MonkDev/tinyvision](https://github.com/MonkDev/tinyvision) - A visual file selector for TinyMCE v4.
+
 ## Python
 
 *   [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
@@ -2747,8 +2749,6 @@
 *   [sharkdp/hyperfine](https://github.com/sharkdp/hyperfine) - A command-line benchmarking tool
 
 *   [wasmerio/wasmer](https://github.com/wasmerio/wasmer) - 🚀 Fast, secure, lightweight containers based on WebAssembly
-
-*   [Brooooooklyn/snappy](https://github.com/Brooooooklyn/snappy) - Fastest Snappy compression library in Node.js
 
 *   [infinyon/node-bindgen](https://github.com/infinyon/node-bindgen) - Easy way to write Node.js module using Rust
 
