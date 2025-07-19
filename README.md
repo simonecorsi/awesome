@@ -1542,7 +1542,7 @@
 
 *   [graingert/WOW](https://github.com/graingert/WOW) - Reveal CSS animation as you scroll down a page
 
-*   [docker/kitematic](https://github.com/docker/kitematic) - Visual Docker Container Management on Mac & Windows
+*   [docker-archive-public/docker.kitematic](https://github.com/docker-archive-public/docker.kitematic) - Visual Docker Container Management on Mac & Windows
 
 *   [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 
