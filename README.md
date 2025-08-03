@@ -1202,6 +1202,8 @@
 
 *   [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe) - Async cache with dedupe support
 
+*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+
 *   [nearform/sql](https://github.com/nearform/sql) - SQL injection protection module
 
 *   [cycjimmy/semantic-release-action](https://github.com/cycjimmy/semantic-release-action) - GitHub Action for Semantic Release
@@ -3239,8 +3241,6 @@
 *   [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else) - Blame someone else for your bad code.
 
 *   [creyD/prettier\_action](https://github.com/creyD/prettier_action) - GitHub action for running prettier on your projects pull requests
-
-*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
 *   [nginx/docker-nginx](https://github.com/nginx/docker-nginx) - Official NGINX Dockerfiles
 
