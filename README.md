@@ -282,6 +282,8 @@
 
 *   [star-history/star-history](https://github.com/star-history/star-history) - The missing star history graph of GitHub repos - https://star-history.com
 
+*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
+
 *   [aidenybai/million](https://github.com/aidenybai/million) - Optimizing compiler for React
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
@@ -1203,8 +1205,6 @@
 *   [vercel/ncc](https://github.com/vercel/ncc) - Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires.
 
 *   [mcollina/async-cache-dedupe](https://github.com/mcollina/async-cache-dedupe) - Async cache with dedupe support
-
-*   [sb2nov/mac-setup](https://github.com/sb2nov/mac-setup) - Installing Development environment on macOS
 
 *   [nearform/sql](https://github.com/nearform/sql) - SQL injection protection module
 
