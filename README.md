@@ -218,7 +218,7 @@
 
 *   [plutotcool/release](https://github.com/plutotcool/release) - 🔖 - GitHub Action to automatically release packages using lerna or semantic-release
 
-*   [imbhargav5/rooks](https://github.com/imbhargav5/rooks) -  Essential React custom hooks ⚓ to super charge your components!
+*   [imbhargav5/rooks](https://github.com/imbhargav5/rooks) - Collection of awesome react hooks
 
 *   [alosaur/alosaur](https://github.com/alosaur/alosaur) - Alosaur - Deno web framework with many ES Decorators
 
