@@ -16,12 +16,11 @@
 *   [HTML](#html)
 *   [PHP](#php)
 *   [Vue](#vue)
-*   [C#](#c)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
 *   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
-*   [C++](#c-1)
+*   [C++](#c)
 *   [CSS](#css)
 *   [Starlark](#starlark)
 *   [Nix](#nix)
@@ -31,8 +30,9 @@
 *   [WebAssembly](#webassembly)
 *   [SCSS](#scss)
 *   [Assembly](#assembly)
-*   [C](#c-2)
+*   [C](#c-1)
 *   [Java](#java)
+*   [C#](#c-2)
 *   [Less](#less)
 *   [Nim](#nim)
 *   [Makefile](#makefile)
@@ -2662,6 +2662,8 @@
 
 *   [DrkSephy/es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet) - ES2015 \[ES6] cheatsheet containing tips, tricks, best practices and code snippets
 
+*   [Experience-Monks/devtool](https://github.com/Experience-Monks/devtool) - \[OBSOLETE] runs Node.js programs through Chromium DevTools
+
 ## Python
 
 *   [InternLM/lmdeploy](https://github.com/InternLM/lmdeploy) - LMDeploy is a toolkit for compressing, deploying, and serving LLMs.
@@ -3482,16 +3484,6 @@
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
 
-## C\#
-
-*   [builtbybel/Bloatynosy](https://github.com/builtbybel/Bloatynosy) - The Bloaty and the Nosy: No Bloat, No Problem!
-
-*   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
-
-*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
-
-*   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
-
 ## Swift
 
 *   [brettferdosi/grayscale](https://github.com/brettferdosi/grayscale) - macOS status bar app for easily toggling the grayscale display filter
@@ -3847,6 +3839,14 @@
 *   [sbugert/react-native-admob](https://github.com/sbugert/react-native-admob) - A react-native component for Google AdMob banners
 
 *   [WithoutInternetTechnology/wit-android-sdk](https://github.com/WithoutInternetTechnology/wit-android-sdk) - WIT Android Edition is a mobile sdk for Native Android Applications that let's mobile developers communicate with their APIs without 3g or WiFi available.
+
+## C\#
+
+*   [gremlin/microservices-demo](https://github.com/gremlin/microservices-demo) - Sample cloud-native application with 10 microservices showcasing Kubernetes, Istio, gRPC and OpenCensus. Provided for illustration and demo purposes.
+
+*   [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
+
+*   [lambci/docker-lambda](https://github.com/lambci/docker-lambda) - Docker images and test runners that replicate the live AWS Lambda environment
 
 ## Less
 
