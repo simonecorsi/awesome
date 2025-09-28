@@ -1634,7 +1634,7 @@
 
 *   [fastify/under-pressure](https://github.com/fastify/under-pressure) - Process load measuring plugin for Fastify, with automatic handling of "Service Unavailable"
 
-*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging utility
+*   [klaudiosinani/signale](https://github.com/klaudiosinani/signale) - Highly configurable logging library
 
 *   [getgauge/taiko](https://github.com/getgauge/taiko) - A node.js library for testing modern web applications
 
@@ -3518,7 +3518,7 @@
 
 ## Ruby
 
-*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.5. PHP 8.5 is built nightly :beer:
+*   [shivammathur/homebrew-php](https://github.com/shivammathur/homebrew-php) - Homebrew tap for PHP 5.6 to 8.6. PHP 8.5 and PHP 8.6 are built nightly :beer:
 
 *   [dependabot/dependabot-core](https://github.com/dependabot/dependabot-core) - 🤖 Dependabot's core logic for creating update PRs.
 
