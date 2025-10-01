@@ -1402,7 +1402,7 @@
 
 *   [embarklabs/embark](https://github.com/embarklabs/embark) - Framework for serverless Decentralized Applications using Ethereum, IPFS and other platforms
 
-*   [trufflesuite/ganache-ui](https://github.com/trufflesuite/ganache-ui) - Personal blockchain for Ethereum development
+*   [ConsenSys-archive/ganache-ui](https://github.com/ConsenSys-archive/ganache-ui) - Personal blockchain for Ethereum development
 
 *   [antoniomuso/lz4-napi](https://github.com/antoniomuso/lz4-napi) - Fastest lz4 compression library in Node.js, powered by napi-rs and lz4-flex.
 
@@ -1810,7 +1810,7 @@
 
 *   [ladjs/lad](https://github.com/ladjs/lad) - Node.js framework made by a former @expressjs TC and @koajs team member. Built for @forwardemail, @spamscanner, @breejs, @cabinjs, and @lassjs.
 
-*   [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corp. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
+*   [oracle/node-oracledb](https://github.com/oracle/node-oracledb) - Oracle Database driver for Node.js maintained by Oracle Corporation. Connect your JavaScript and TypeScript applications instantly to Oracle Database.
 
 *   [evilsocket/arc](https://github.com/evilsocket/arc) - A manager for your secrets.
 
@@ -2854,7 +2854,7 @@
 
 *   [immobiliare/collectd-haproxy-plugin](https://github.com/immobiliare/collectd-haproxy-plugin) -  Collectd plugin to pull metrics from HAProxy instances
 
-*   [siddhesh/find-unicode-control](https://github.com/siddhesh/find-unicode-control) -
+*   [siddhesh/find-unicode-control](https://github.com/siddhesh/find-unicode-control) - Look for non-printable unicode characters in text files in a source tree
 
 *   [kroitor/asciichart](https://github.com/kroitor/asciichart) - Nice-looking lightweight console ASCII line charts ╭┈╯ for NodeJS, browsers and terminal, no dependencies
 
