@@ -898,8 +898,6 @@
 
 *   [lodash/babel-plugin-lodash](https://github.com/lodash/babel-plugin-lodash) - Modular Lodash builds without the hassle.
 
-*   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
-
 *   [lucleray/next-purgecss](https://github.com/lucleray/next-purgecss) - nextjs + purgecss for smaller css bundles
 
 *   [cyrilwanner/next-optimized-images](https://github.com/cyrilwanner/next-optimized-images) - 🌅 next-optimized-images automatically optimizes images used in next.js projects (jpeg, png, svg, webp and gif).
@@ -2486,7 +2484,7 @@
 
 *   [vercel/ms](https://github.com/vercel/ms) - Tiny millisecond conversion utility
 
-*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced browser fingerprinting library.
+*   [fingerprintjs/fingerprintjs](https://github.com/fingerprintjs/fingerprintjs) - The most advanced open-source browser fingerprinting library
 
 *   [niieani/hashids.js](https://github.com/niieani/hashids.js) - A small JavaScript library to generate YouTube-like ids from numbers.
 
@@ -2537,6 +2535,8 @@
 *   [BrainJS/brain.js](https://github.com/BrainJS/brain.js) - 🤖 GPU accelerated Neural networks in JavaScript for Browsers and Node.js
 
 *   [ant-design/ant-design-pro](https://github.com/ant-design/ant-design-pro) - 👨🏻‍💻👩🏻‍💻 Use Ant Design like a Pro!
+
+*   [garmeeh/next-seo](https://github.com/garmeeh/next-seo) - Next SEO is a plug in that makes managing your SEO easier in Next.js projects.
 
 *   [xojs/xo](https://github.com/xojs/xo) - ❤️ JavaScript/TypeScript linter (ESLint wrapper) with great defaults
 
