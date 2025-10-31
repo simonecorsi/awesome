@@ -1218,7 +1218,7 @@
 
 *   [terser/terser](https://github.com/terser/terser) - 🗜 JavaScript parser, mangler and compressor toolkit for ES6+
 
-*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect trojan source attacks that employ unicode bidi attacks to inject malicious code
+*   [lirantal/anti-trojan-source](https://github.com/lirantal/anti-trojan-source) - Detect Glassworm & trojan source attacks that employ unicode bidi attacks to inject malicious code
 
 *   [fastify/fastify-vite](https://github.com/fastify/fastify-vite) - Fastify plugin for Vite integration
 
