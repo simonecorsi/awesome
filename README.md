@@ -15,7 +15,6 @@
 *   [Vim Script](#vim-script)
 *   [HTML](#html)
 *   [PHP](#php)
-*   [MDX](#mdx)
 *   [Vue](#vue)
 *   [C#](#c)
 *   [Swift](#swift)
@@ -45,6 +44,7 @@
 *   [Dart](#dart)
 *   [Julia](#julia)
 *   [Objective-C](#objective-c)
+*   [MDX](#mdx)
 *   [Lua](#lua)
 *   [Reason](#reason)
 *   [Roff](#roff)
@@ -119,6 +119,8 @@
 *   [charnowsky/FeastQR](https://github.com/charnowsky/FeastQR) - FeastQR: Open Source SaaS Online Menu System 🌐
 
 *   [fastify/fastify-passport](https://github.com/fastify/fastify-passport) - Use passport strategies for authentication within a fastify application
+
+*   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
 
 *   [Thinkmill/keystatic](https://github.com/Thinkmill/keystatic) - First class CMS experience, TypeScript API, Markdown & YAML/JSON based, no DB
 
@@ -3480,14 +3482,6 @@
 
 *   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
 
-## MDX
-
-*   [wasp-lang/wasp](https://github.com/wasp-lang/wasp) - The fastest way to develop full-stack web apps with React & Node.js.
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
-
 ## Vue
 
 *   [requarks/wiki](https://github.com/requarks/wiki) - Wiki.js | A modern and powerful wiki app built on Node.js
@@ -3911,6 +3905,12 @@
 *   [spotify/HubFramework](https://github.com/spotify/HubFramework) - DEPRECATED – Spotify’s component-driven UI framework for iOS
 
 *   [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
+
+## MDX
+
+*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Lua
 
