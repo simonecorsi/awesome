@@ -396,6 +396,8 @@
 
 *   [micheleriva/krabs](https://github.com/micheleriva/krabs) - 🦀   Express.js/Fastify middleware and virtual host for multi-tenant Next.js applications
 
+*   [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
+
 *   [Debdut/browser-extension](https://github.com/Debdut/browser-extension) - Browser Extension Template with ESbuild builds, support for React, Preact, Typescript, Tailwind, Manifest V3/V2 support and multi browser build including Chrome, Firefox, Safari, Edge, Brave.
 
 *   [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps
@@ -1267,8 +1269,6 @@
 *   [bcoe/c8](https://github.com/bcoe/c8) - output coverage reports using Node.js' built in coverage
 
 *   [bubenshchykov/ngrok](https://github.com/bubenshchykov/ngrok) - Expose your localhost to the web. Node wrapper for ngrok.
-
-*   [abhijithvijayan/web-extension-starter](https://github.com/abhijithvijayan/web-extension-starter) - 🖥🔋Web Extension starter to build "Write Once Run on Any Browser" extension
 
 *   [typicode/steno](https://github.com/typicode/steno) - Super fast async file writer with atomic write ⚡
 
