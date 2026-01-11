@@ -1482,7 +1482,7 @@
 
 *   [logicalparadox/matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-*   [neomjs/neo](https://github.com/neomjs/neo) - The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and manipulate the living application structure in real-time.
+*   [neomjs/neo](https://github.com/neomjs/neo) - The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.
 
 *   [jamiebuilds/ninos](https://github.com/jamiebuilds/ninos) - Simple stubbing/spying for AVA
 
@@ -2900,7 +2900,7 @@
 
 *   [facebook/relay](https://github.com/facebook/relay) - Relay is a JavaScript framework for building data-driven React applications.
 
-*   [nikivdev/flow](https://github.com/nikivdev/flow) - Project level config for insanely fast feedback loops
+*   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
 
 ## OCaml
 
@@ -3354,7 +3354,7 @@
 
 *   [calintat/minimal](https://github.com/calintat/minimal) - Personal blog theme powered by Hugo
 
-*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ HugoBlox Kit: Markdown sites in minutes. Academic/resume/lab/portfolio for AI researchers & startups. Premium templates. Deploy to GitHub Pages now in 1-click 👇
+*   [HugoBlox/kit](https://github.com/HugoBlox/kit) - ⚡ The Open Research Copilot. Build high-perf Portfolios, Lab Sites & Docs in Markdown + Jupyter. 100% Data Control. 🦫 数据科学家的开源 Copilot。一键部署 👇
 
 *   [webpack-contrib/awesome-webpack](https://github.com/webpack-contrib/awesome-webpack) - A curated list of awesome Webpack resources, libraries and tools
 
@@ -3616,7 +3616,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.64978, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 11.2.7.65299, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
