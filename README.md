@@ -2588,7 +2588,7 @@
 
 *   [osano/cookieconsent](https://github.com/osano/cookieconsent) - A free solution to the EU, GDPR, and California Cookie Laws
 
-*   [devmark/angular-slick-carousel](https://github.com/devmark/angular-slick-carousel) - Angular directive for slick-carousel
+*   [whcmark/angular-slick-carousel](https://github.com/whcmark/angular-slick-carousel) - Angular directive for slick-carousel
 
 *   [9bitStudios/flexisel](https://github.com/9bitStudios/flexisel) - Responsive carousel jQuery plugin...
 
