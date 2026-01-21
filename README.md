@@ -47,7 +47,6 @@
 *   [MDX](#mdx)
 *   [Lua](#lua)
 *   [Reason](#reason)
-*   [Roff](#roff)
 *   [OpenEdge ABL](#openedge-abl)
 *   [Jinja](#jinja)
 *   [Scheme](#scheme)
@@ -944,6 +943,8 @@
 
 *   [webdevops/Dockerfile](https://github.com/webdevops/Dockerfile) - :package: Dockerfiles from WebDevOps for PHP, Apache and Nginx
 
+*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
+
 *   [jpetazzo/dind](https://github.com/jpetazzo/dind) - Docker in Docker
 
 *   [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
@@ -1034,7 +1035,7 @@
 
 *   [codfish/semantic-release-action](https://github.com/codfish/semantic-release-action) - The Original GitHub Action for running semantic-release. Sets output and environment variables for you to use in subsequent actions.
 
-*   [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at LambdaTest
+*   [sandstorm-io/sandstorm](https://github.com/sandstorm-io/sandstorm) - Sandstorm is a self-hostable web productivity suite. It's implemented as a security-hardened web app package manager. | Actively sponsored by our friends at TestMu AI
 
 *   [unifiedjs/unified](https://github.com/unifiedjs/unified) - Parse, inspect, transform, and serialize content with syntax trees
 
@@ -3919,10 +3920,6 @@
 ## Reason
 
 *   [grain-lang/grain](https://github.com/grain-lang/grain) - The Grain compiler toolchain and CLI. Home of the modern web staple. 🌾
-
-## Roff
-
-*   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
 ## OpenEdge ABL
 
