@@ -1945,7 +1945,7 @@
 
 *   [talmobi/tor-request](https://github.com/talmobi/tor-request) - light Tor proxy wrapper for request library
 
-*   [lordkrieg/pregx](https://github.com/lordkrieg/pregx) - A collection of popular & commonly used regexp patterns for JavaScript
+*   [bullptr/pregx](https://github.com/bullptr/pregx) - A collection of popular & commonly used regexp patterns for JavaScript
 
 *   [slmgc/Nothing](https://github.com/slmgc/Nothing) - A chainable, callable mock object which always returns itself
 
