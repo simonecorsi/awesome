@@ -59,6 +59,8 @@
 
 ## TypeScript
 
+*   [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+
 *   [dip/cmdk](https://github.com/dip/cmdk) - Fast, unstyled command menu React component.
 
 *   [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
@@ -3746,8 +3748,6 @@
 *   [passy/angular-masonry](https://github.com/passy/angular-masonry) - An AngularJS directive for Masonry.
 
 *   [adamalbrecht/ngModal](https://github.com/adamalbrecht/ngModal) - Very basic modal dialog directive for Angular.js
-
-*   [caiogondim/js-patterns-sublime-snippets](https://github.com/caiogondim/js-patterns-sublime-snippets) - :mortar\_board: JavaScript Patterns snippets for Sublime Text
 
 ## WebAssembly
 
