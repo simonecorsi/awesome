@@ -19,6 +19,7 @@
 *   [C#](#c)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
+*   [MDX](#mdx)
 *   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
@@ -44,7 +45,6 @@
 *   [Dart](#dart)
 *   [Julia](#julia)
 *   [Objective-C](#objective-c)
-*   [MDX](#mdx)
 *   [Lua](#lua)
 *   [Reason](#reason)
 *   [OpenEdge ABL](#openedge-abl)
@@ -566,8 +566,6 @@
 *   [microsoft/DefinitelyTyped-tools](https://github.com/microsoft/DefinitelyTyped-tools) - Infrastructure for DefinitelyTyped
 
 *   [immobiliare/backstage-plugin-gitlab](https://github.com/immobiliare/backstage-plugin-gitlab) - Backstage plugins to interact with GitLab
-
-*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 
 *   [yaroslav-n/tweetGPT](https://github.com/yaroslav-n/tweetGPT) - Chrome extension that generates tweets and replies using chatGPT
 
@@ -3551,6 +3549,14 @@
 
 *   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
+## MDX
+
+*   [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+
+*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+
+*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
+
 ## Zig
 
 *   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
@@ -3906,12 +3912,6 @@
 *   [spotify/HubFramework](https://github.com/spotify/HubFramework) - DEPRECATED – Spotify’s component-driven UI framework for iOS
 
 *   [lanayotech/vagrant-manager](https://github.com/lanayotech/vagrant-manager) - Manage your vagrant machines in one place with Vagrant Manager for OS X
-
-## MDX
-
-*   [wix/react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
-
-*   [react-native-elements/react-native-elements](https://github.com/react-native-elements/react-native-elements) - Cross-Platform React Native UI Toolkit
 
 ## Lua
 
