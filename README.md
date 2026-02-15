@@ -1910,6 +1910,8 @@
 
 *   [nodejs/undici](https://github.com/nodejs/undici) - An HTTP/1.1 client, written from scratch for Node.js
 
+*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
+
 *   [walmartlabs/react-ssr-optimization](https://github.com/walmartlabs/react-ssr-optimization) - React.js server-side rendering optimization with component memoization and templatization
 
 *   [mikeal/bent](https://github.com/mikeal/bent) - Functional JS HTTP client (Node.js & Fetch) w/ async await
@@ -3614,7 +3616,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65867, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.65893, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
@@ -3867,8 +3869,6 @@
 ## JSON
 
 *   [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
-
-*   [Drive4ik/simple-tab-groups](https://github.com/Drive4ik/simple-tab-groups) - Create, modify and quick change tab groups. Inspired by the Tab Groups app :)
 
 ## Jupyter Notebook
 
