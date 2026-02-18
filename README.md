@@ -60,6 +60,8 @@
 
 ## Rust
 
+*   [ogham/exa](https://github.com/ogham/exa) - A modern replacement for ‘ls’.
+
 *   [juhaku/utoipa](https://github.com/juhaku/utoipa) - Simple, Fast, Code first and Compile time generated OpenAPI documentation for Rust
 
 *   [web-infra-dev/rspack](https://github.com/web-infra-dev/rspack) - The fast Rust-based JavaScript bundler with webpack-compatible API 🦀️
@@ -2993,8 +2995,6 @@
 *   [flowjs/ng-flow](https://github.com/flowjs/ng-flow) - Flow.js html5 file upload extension on angular.js framework
 
 *   [nervgh/angular-file-upload](https://github.com/nervgh/angular-file-upload) - \[ALMOST NOT MAINTAINED] Angular File Upload is a module for the AngularJS framework
-
-*   [yeoman/generator-angular](https://github.com/yeoman/generator-angular) - Yeoman generator for AngularJS
 
 ## miscellaneous
 
