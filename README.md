@@ -1189,8 +1189,6 @@
 
 *   [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 
-*   [reactjs/it.react.dev](https://github.com/reactjs/it.react.dev) - (Work in progress) React documentation website in Italian
-
 *   [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 
 *   [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
@@ -2262,6 +2260,8 @@
 *   [OptimalBits/bull](https://github.com/OptimalBits/bull) - Premium Queue package for handling distributed jobs and messages in NodeJS.
 
 *   [jaredpalmer/razzle](https://github.com/jaredpalmer/razzle) - ✨ Create server-rendered universal JavaScript applications with no configuration
+
+*   [reactjs/it.react.dev](https://github.com/reactjs/it.react.dev) - (Work in progress) React documentation website in Italian
 
 *   [facebook/fbjs](https://github.com/facebook/fbjs) - A collection of utility libraries used by other Meta JS projects.
 
