@@ -979,6 +979,8 @@
 
 *   [mandarineorg/mandarinets](https://github.com/mandarineorg/mandarinets) - Mandarine.TS is a typescript, decorator-driven framework that allows you to create server-side applications. Mandarine.TS provides a range of built-in solutions such as Dependency Injection, Components, ORM and more. Under its umbrella, Mandarine.TS has 4 modules: Core, Data, Security and MVC, these modules will offer you the requirements to build a Mandarine-powered application.
 
+*   [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
+
 *   [ThomasAribart/json-schema-to-ts](https://github.com/ThomasAribart/json-schema-to-ts) - Infer TS types from JSON schemas 📝
 
 *   [JMPerez/spotify-dedup](https://github.com/JMPerez/spotify-dedup) - Remove duplicates from your Spotify Playlists
@@ -1517,7 +1519,7 @@
 
 *   [docker-library/mysql](https://github.com/docker-library/mysql) - Docker Official Image packaging for MySQL Community Server
 
-*   [zplug/zplug](https://github.com/zplug/zplug) - :hibiscus: A next-generation plugin manager for zsh
+*   [zplug/zplug](https://github.com/zplug/zplug) - A next-generation plugin manager for zsh — manage plugins, commands, and themes from GitHub, Bitbucket, oh-my-zsh, prezto, and more with parallel installation and lazy loading.
 
 *   [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k) - Powerlevel9k was a tool for building a beautiful and highly functional CLI, customized for you. P9k had a substantial impact on CLI UX, and its legacy is now continued by P10k.
 
@@ -1896,8 +1898,6 @@
 *   [filecoin-project/slate](https://github.com/filecoin-project/slate) - WIP - We're building the place you go to discover, share, and sell files on the web.
 
 *   [transitive-bullshit/react-before-after-slider](https://github.com/transitive-bullshit/react-before-after-slider) - A sexy image comparison slider for React.
-
-*   [rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider) - React content transition slider. Awesome Slider is a 60fps, light weight, performant component that renders an animated set of production ready UI general purpose sliders with fullpage transition support for NextJS and GatsbyJS. 🖥️ 📱
 
 *   [fastify/fastify-caching](https://github.com/fastify/fastify-caching) - A Fastify plugin to facilitate working with cache headers
 
@@ -3799,7 +3799,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66198, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66220, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
