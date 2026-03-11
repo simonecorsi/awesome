@@ -873,7 +873,7 @@
 
 *   [simonecorsi/declarative-markdown](https://github.com/simonecorsi/declarative-markdown) - 📑 Zero dependencies javascript declarative markdown generator!
 
-*   [casbin/node-casbin](https://github.com/casbin/node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
+*   [apache/casbin-node-casbin](https://github.com/apache/casbin-node-casbin) - An authorization library that supports access control models like ACL, RBAC, ABAC in Node.js and Browser
 
 *   [sinclairzx81/typebox](https://github.com/sinclairzx81/typebox) - JSON Schema Type Builder with Static Type Resolution for TypeScript
 
@@ -1581,7 +1581,7 @@
 
 *   [mcollina/borp](https://github.com/mcollina/borp) - node:test runner wrapper with TypeScript support
 
-*   [node-casbin/mongoose-adapter](https://github.com/node-casbin/mongoose-adapter) - Mongoose adapter for Casbin
+*   [apache/casbin-node-casbin-mongoose-adapter](https://github.com/apache/casbin-node-casbin-mongoose-adapter) - Mongoose adapter for Casbin
 
 *   [vercel/nft](https://github.com/vercel/nft) - Node.js dependency tracing utility
 
@@ -3799,7 +3799,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66263, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.1.66337, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
