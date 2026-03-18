@@ -4,8 +4,8 @@
 
 ## Table of Contents
 
-*   [PHP](#php)
 *   [TypeScript](#typescript)
+*   [PHP](#php)
 *   [Rust](#rust)
 *   [Python](#python)
 *   [Go](#go)
@@ -57,99 +57,9 @@
 *   [q](#q)
 *   [Pug](#pug)
 
-## PHP
-
-*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
-
-*   [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - :fire: Powerful, yet easy to use, open-source online ordering, table reservation and management system for restaurants
-
-*   [Trusted97/whitecat](https://github.com/Trusted97/whitecat) - Developer toolbox for avoid boring setup during PHP development
-
-*   [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
-
-*   [immobiliare/braze-php-sdk](https://github.com/immobiliare/braze-php-sdk) - A PHP client to interact with Braze API
-
-*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
-
-*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
-
-*   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
-
-*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
-
-*   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
-
-*   [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
-
-*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
-
-*   [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
-
-*   [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
-
-*   [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid PHP API Library
-
-*   [voku/simple-mysqli](https://github.com/voku/simple-mysqli) - :gem: Simple MySQLi Abstraction Layer + Doctrine/DBAL support
-
-*   [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
-
-*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
-
-*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
-
-*   [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
-
-*   [illuminate/database](https://github.com/illuminate/database) - \[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
-
-*   [clickcoder/slim-blade](https://github.com/clickcoder/slim-blade) - Blade is a simple, yet powerful templating engine provided for the Slim Framework
-
-*   [ampproject/amp-wp](https://github.com/ampproject/amp-wp) - Enable AMP on your WordPress site, the WordPress way.
-
-*   [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
-
-*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
-
-*   [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
-
-*   [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
-
-*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
-
-*   [WP-API/WP-API](https://github.com/WP-API/WP-API) - The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).
-
-*   [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
-
-*   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer and Git, easier configuration, and an improved folder structure
-
-*   [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
-
-*   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
-
-*   [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
-
-*   [flowjs/flow-php-server](https://github.com/flowjs/flow-php-server) - flow.js php server library, validates uploaded chunks and safely merges all chunks to a single file
-
-*   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
-
-*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
-
-*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
-
-*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
-
-*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
-
-*   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
-
-*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
-
-*   [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
-
-*   [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
-
-*   [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
-
 ## TypeScript
+
+*   [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) - Chrome DevTools for coding agents
 
 *   [mcollina/skills](https://github.com/mcollina/skills) - My own collection of skills for modern Node.js development
 
@@ -979,6 +889,8 @@
 
 *   [jestjs/jest](https://github.com/jestjs/jest) - Delightful JavaScript Testing.
 
+*   [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
+
 *   [barbajs/barba](https://github.com/barbajs/barba) - Create badass, fluid and smooth transitions between your website’s pages
 
 *   [helmetjs/helmet](https://github.com/helmetjs/helmet) - Help secure Express apps with various HTTP headers
@@ -1020,6 +932,98 @@
 *   [colmena/colmena](https://github.com/colmena/colmena) - Free and Open Source  Full Stack RAPID API DEVELOPMENT | CURRENTLY UNMAINTAINED - READ MORE HERE ➡️
 
 *   [angular/angular](https://github.com/angular/angular) - Deliver web apps with confidence 🚀
+
+## PHP
+
+*   [linuxserver/Heimdall](https://github.com/linuxserver/Heimdall) - An Application dashboard and launcher
+
+*   [tastyigniter/TastyIgniter](https://github.com/tastyigniter/TastyIgniter) - :fire: Powerful, yet easy to use, open-source online ordering, table reservation and management system for restaurants
+
+*   [Trusted97/whitecat](https://github.com/Trusted97/whitecat) - Developer toolbox for avoid boring setup during PHP development
+
+*   [Crivaledaz/Mattermost-LDAP](https://github.com/Crivaledaz/Mattermost-LDAP) - This module provides an external LDAP authentication in Mattermost for the Team Edition (free).
+
+*   [immobiliare/braze-php-sdk](https://github.com/immobiliare/braze-php-sdk) - A PHP client to interact with Braze API
+
+*   [firefly-iii/firefly-iii](https://github.com/firefly-iii/firefly-iii) - Firefly III: a personal finances manager
+
+*   [Intervention/image](https://github.com/Intervention/image) - PHP Image Processing
+
+*   [litstack/litstack](https://github.com/litstack/litstack) - Build content-administration-panels in Laravel
+
+*   [phpstan/phpstan](https://github.com/phpstan/phpstan) - PHP Static Analysis Tool - discover bugs in your code without running it!
+
+*   [phan/phan](https://github.com/phan/phan) - Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.
+
+*   [vimeo/psalm](https://github.com/vimeo/psalm) - A PHP static analysis tool for finding errors and security vulnerabilities in PHP applications
+
+*   [flarum/flarum](https://github.com/flarum/flarum) - Simple forum software for building great communities.
+
+*   [maknz/slack](https://github.com/maknz/slack) - A simple PHP package for sending messages to Slack, with a focus on ease of use and elegant syntax.
+
+*   [humanmade/S3-Uploads](https://github.com/humanmade/S3-Uploads) - The WordPress Plugin to Store Uploads on Amazon S3
+
+*   [sendgrid/sendgrid-php](https://github.com/sendgrid/sendgrid-php) - The Official Twilio SendGrid PHP API Library
+
+*   [voku/simple-mysqli](https://github.com/voku/simple-mysqli) - :gem: Simple MySQLi Abstraction Layer + Doctrine/DBAL support
+
+*   [peppeocchi/php-cron-scheduler](https://github.com/peppeocchi/php-cron-scheduler) - PHP cron job scheduler
+
+*   [cakephp/phinx](https://github.com/cakephp/phinx) - PHP Database Migrations for Everyone
+
+*   [blueimp/jQuery-File-Upload](https://github.com/blueimp/jQuery-File-Upload) - File Upload widget with multiple file selection, drag\&drop support, progress bar, validation and preview images, audio and video for jQuery. Supports cross-domain, chunked and resumable file uploads. Works with any server-side platform (Google App Engine, PHP, Python, Ruby on Rails, Java, etc.) that supports standard HTML form file uploads.
+
+*   [phalcon/cphalcon](https://github.com/phalcon/cphalcon) - High performance, full-stack PHP framework delivered as a C extension.
+
+*   [illuminate/database](https://github.com/illuminate/database) - \[READ ONLY] Subtree split of the Illuminate Database component (see laravel/framework)
+
+*   [clickcoder/slim-blade](https://github.com/clickcoder/slim-blade) - Blade is a simple, yet powerful templating engine provided for the Slim Framework
+
+*   [ampproject/amp-wp](https://github.com/ampproject/amp-wp) - Enable AMP on your WordPress site, the WordPress way.
+
+*   [olefredrik/FoundationPress](https://github.com/olefredrik/FoundationPress) - FoundationPress is a WordPress starter theme based on Foundation 6 by Zurb
+
+*   [astralapp/astral](https://github.com/astralapp/astral) - Organize Your GitHub Stars With Ease
+
+*   [scotch-io/scotch-box](https://github.com/scotch-io/scotch-box) - Scotch Box is a preconfigured Vagrant Box with a full array of LAMP Stack features to get you up and running with Vagrant in no time.
+
+*   [themosis/themosis](https://github.com/themosis/themosis) - A framework for WordPress developers.
+
+*   [fruitcake/laravel-cors](https://github.com/fruitcake/laravel-cors) - Adds CORS (Cross-Origin Resource Sharing) headers support in your Laravel application
+
+*   [WP-API/WP-API](https://github.com/WP-API/WP-API) - The WP REST API has been merged into WordPress core. Please do not create issues or send pull requests. Submit support requests to the forums or patches to Trac (see README below for links).
+
+*   [FrozenNode/Laravel-Administrator](https://github.com/FrozenNode/Laravel-Administrator) - An administrative interface package for Laravel
+
+*   [roots/bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with Composer and Git, easier configuration, and an improved folder structure
+
+*   [vinkla/wordplate](https://github.com/vinkla/wordplate) - A boilerplate for WordPress, built with Composer and designed with sensible defaults.
+
+*   [tareq1988/wp-eloquent](https://github.com/tareq1988/wp-eloquent) - Eloquent ORM for WordPress
+
+*   [corcel/corcel](https://github.com/corcel/corcel) - Use WordPress backend with Laravel or any PHP application
+
+*   [flowjs/flow-php-server](https://github.com/flowjs/flow-php-server) - flow.js php server library, validates uploaded chunks and safely merges all chunks to a single file
+
+*   [tombenner/wp-mvc](https://github.com/tombenner/wp-mvc) - An MVC framework for WordPress
+
+*   [tymondesigns/jwt-auth](https://github.com/tymondesigns/jwt-auth) - 🔐 JSON Web Token Authentication for Laravel & Lumen
+
+*   [niutech/node.php](https://github.com/niutech/node.php) - Run node.js apps from PHP even on a shared hosting!
+
+*   [mewebstudio/Purifier](https://github.com/mewebstudio/Purifier) - HTMLPurifier for Laravel 5+
+
+*   [vinkla/laravel-hashids](https://github.com/vinkla/laravel-hashids) - A Hashids bridge for Laravel
+
+*   [illuminate/html](https://github.com/illuminate/html) - \[READ ONLY] Subtree split of the Illuminate HTML component (see laravel/framework)
+
+*   [PHPMailer/PHPMailer](https://github.com/PHPMailer/PHPMailer) - The classic email sending library for PHP
+
+*   [WordPress/WordPress](https://github.com/WordPress/WordPress) - WordPress, Git-ified. This repository is just a mirror of the WordPress subversion repository. Please do not send pull requests. Submit pull requests to https://github.com/WordPress/wordpress-develop and patches to https://core.trac.wordpress.org/ instead.
+
+*   [gantry/gantry5](https://github.com/gantry/gantry5) - :rocket: Next Generation Template / Theme Framework
+
+*   [themehybrid/hybrid-core](https://github.com/themehybrid/hybrid-core) - Official repository for the Hybrid Core WordPress development framework.
 
 ## Rust
 
@@ -3131,8 +3135,6 @@
 
 *   [zachleat/fontfaceonload](https://github.com/zachleat/fontfaceonload) - A simple utility to execute a callback when a webfont loads.
 
-*   [nk-o/jarallax](https://github.com/nk-o/jarallax) - Parallax scrolling for modern browsers
-
 *   [strawdynamics/drift](https://github.com/strawdynamics/drift) - Easily add "zoom on hover" functionality to your site's images. Lightweight, no-dependency JavaScript.
 
 *   [expressjs/cors](https://github.com/expressjs/cors) - Node.js CORS middleware
@@ -3372,8 +3374,6 @@
 *   [apache/cordova-plugin-whitelist](https://github.com/apache/cordova-plugin-whitelist) - \[DEPRECATED] Apache Cordova - Whitelist Plugin
 
 *   [airfranceklm/ng-lazy-image](https://github.com/airfranceklm/ng-lazy-image) - Angular directive for loading responsive image when container (which is preventing reflow) is in viewport.
-
-*   [pocesar/angular-onfinish](https://github.com/pocesar/angular-onfinish) - Directives that execute a function or an expression when ng-repeat is done with looping. No need for events.
 
 ## miscellaneous
 
