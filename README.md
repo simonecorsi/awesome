@@ -117,7 +117,7 @@
 
 *   [simonecorsi/mongodb-query-validator](https://github.com/simonecorsi/mongodb-query-validator) - ✅ Validate your MongoDB queries before executing them
 
-*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A static CMS for Next.js
+*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
@@ -3347,7 +3347,7 @@
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
-*   [chevcast/mongoose-simpledb](https://github.com/chevcast/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
+*   [BeekeeperAlex/mongoose-simpledb](https://github.com/BeekeeperAlex/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
 
 *   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 
@@ -3541,7 +3541,7 @@
 
 *   [ahmetsulek/flat-terminal](https://github.com/ahmetsulek/flat-terminal) - Flat design colours applied to terminal. Terminal is now sweeter than ever!
 
-*   [vira-themes/vira-theme-support](https://github.com/vira-themes/vira-theme-support) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
+*   [vira-themes/vira-assets](https://github.com/vira-themes/vira-assets) - Vira Theme is the official successor of the popular Material Theme. This premium version is actively maintained, includes hand-curated icons and more features
 
 *   [TheBestMovieIsYourImagination/Free-cookie-law-tools](https://github.com/TheBestMovieIsYourImagination/Free-cookie-law-tools) - Features, pros and cons of the free cookie law tools
 
