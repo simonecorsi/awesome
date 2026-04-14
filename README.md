@@ -38,6 +38,7 @@
 *   [Makefile](#makefile)
 *   [JSON](#json)
 *   [Haskell](#haskell)
+*   [Go Template](#go-template)
 *   [Common Lisp](#common-lisp)
 *   [Markdown](#markdown)
 *   [Dart](#dart)
@@ -3875,8 +3876,6 @@
 
 *   [troxler/awesome-css-frameworks](https://github.com/troxler/awesome-css-frameworks) - List of awesome CSS frameworks in 2026
 
-*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
-
 *   [animate-css/animate.css](https://github.com/animate-css/animate.css) - 🍿 A cross-browser library of CSS animations. As easy to use as an easy thing.
 
 *   [zachacole/Simple-Grid](https://github.com/zachacole/Simple-Grid) - A simple, lightweight CSS grid
@@ -4072,6 +4071,10 @@
 *   [hadolint/hadolint](https://github.com/hadolint/hadolint) - Dockerfile linter, validate inline bash, written in Haskell
 
 *   [purescript/purescript](https://github.com/purescript/purescript) - A strongly-typed language that compiles to JavaScript
+
+## Go Template
+
+*   [braintree/jsdoc-template](https://github.com/braintree/jsdoc-template) - A clean, responsive documentation template with search and navigation highlighting for JSDoc 3
 
 ## Common Lisp
 
