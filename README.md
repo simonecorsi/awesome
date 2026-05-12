@@ -1991,7 +1991,7 @@
 
 *   [simonecorsi/mongodb-query-validator](https://github.com/simonecorsi/mongodb-query-validator) - ✅ Validate your MongoDB queries before executing them
 
-*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Powerful CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
+*   [avitorio/outstatic](https://github.com/avitorio/outstatic) - Outstatic - A Static Site CMS for Markdown. A dashboard to write, edit, and publish Markdown and MDX stored in your GitHub repository.
 
 *   [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 
