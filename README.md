@@ -20,12 +20,12 @@
 *   [C#](#c)
 *   [Swift](#swift)
 *   [Ruby](#ruby)
-*   [Zig](#zig)
 *   [Dockerfile](#dockerfile)
 *   [C++](#c-1)
 *   [CSS](#css)
 *   [Starlark](#starlark)
 *   [Nix](#nix)
+*   [Zig](#zig)
 *   [V](#v)
 *   [Clojure](#clojure)
 *   [CoffeeScript](#coffeescript)
@@ -1919,8 +1919,6 @@
 
 *   [angular-fullstack/generator-angular-fullstack](https://github.com/angular-fullstack/generator-angular-fullstack) - Yeoman generator for an Angular app with an Express server
 
-*   [snapappointments/bootstrap-select](https://github.com/snapappointments/bootstrap-select) - :rocket: The jQuery plugin that brings select elements into the 21st century with intuitive multiselection, searching, and much more.
-
 ## TypeScript
 
 *   [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
@@ -2478,6 +2476,8 @@
 *   [mongodb/node-mongodb-native](https://github.com/mongodb/node-mongodb-native) - The official MongoDB Node.js driver
 
 *   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open-Source API Development Ecosystem • https://hoppscotch.io • Offline, On-Prem & Cloud • Web, Desktop & CLI • Open-Source Alternative to Postman, Insomnia
+
+*   [hexojs/hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js.
 
 *   [microsoft/just](https://github.com/microsoft/just) - The task library that just works
 
@@ -3116,6 +3116,8 @@
 *   [mufeedvh/binserve](https://github.com/mufeedvh/binserve) - A fast production-ready static web server with TLS (HTTPS), routing, hot reloading, caching, templating, and security in a single-binary you can set up with zero code.
 
 *   [starship/starship](https://github.com/starship/starship) - ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!
+
+*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 
 *   [pkgxdev/pkgx](https://github.com/pkgxdev/pkgx) - Run Anything
 
@@ -3759,12 +3761,6 @@
 
 *   [agiledivider/vagrant-hostsupdater](https://github.com/agiledivider/vagrant-hostsupdater) -
 
-## Zig
-
-*   [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
-
-*   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
-
 ## Dockerfile
 
 *   [renovatebot/docker-renovate-full](https://github.com/renovatebot/docker-renovate-full) - Repo for building the renovate/renovate:full image
@@ -3926,6 +3922,10 @@
 ## Nix
 
 *   [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
+
+## Zig
+
+*   [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
 ## V
 
