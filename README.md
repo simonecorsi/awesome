@@ -655,7 +655,7 @@
 
 *   [logicalparadox/matcha](https://github.com/logicalparadox/matcha) - A caffeine driven, simplistic approach to benchmarking.
 
-*   [neomjs/neo](https://github.com/neomjs/neo) - The Application Engine for the AI Era. A multi-threaded, AI-native runtime with a persistent Scene Graph, enabling AI agents to introspect and mutate the living application structure in real-time.
+*   [neomjs/neo](https://github.com/neomjs/neo) - Neo.mjs is a self-evolving software organism: a professional end-to-end AI engineering team whose cross-model swarm inhabits live apps via Neural Link, Active Hybrid GraphRAG, DreamService, and self-healing loops.
 
 *   [jamiebuilds/ninos](https://github.com/jamiebuilds/ninos) - Simple stubbing/spying for AVA
 
