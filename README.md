@@ -151,7 +151,7 @@
 
 *   [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
 
-*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - The all-in-one AI productivity accelerator. On device and privacy first with no annoying setup or configuration.
+*   [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
 
 *   [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 
@@ -479,7 +479,7 @@
 
 *   [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 
-*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript & TypeScript. Widely used, fast, and versatile.
+*   [protobufjs/protobuf.js](https://github.com/protobufjs/protobuf.js) - Protocol Buffers for JavaScript and TypeScript.
 
 *   [yjs/yjs](https://github.com/yjs/yjs) - Shared data types for building collaborative software
 
@@ -2209,7 +2209,7 @@
 
 *   [ngneat/nx-serverless](https://github.com/ngneat/nx-serverless) - 🚀 The Ultimate Monorepo Starter for Node.js Serverless Applications
 
-*   [denoland/fresh](https://github.com/denoland/fresh) - The next-gen web framework.
+*   [freshframework/fresh](https://github.com/freshframework/fresh) - The framework so simple, you already know it.
 
 *   [privatenumber/tsx](https://github.com/privatenumber/tsx) - ⚡️ TypeScript Execute | The easiest way to run TypeScript in Node.js
 
