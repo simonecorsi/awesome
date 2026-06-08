@@ -3465,7 +3465,7 @@
 
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 
-*   [micro/go-micro](https://github.com/micro/go-micro) - A Go microservices framework for AI agents
+*   [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for services and agents
 
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
