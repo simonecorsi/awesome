@@ -857,7 +857,7 @@
 
 *   [bamlab/generator-rn-toolbox](https://github.com/bamlab/generator-rn-toolbox) - The React Native Generator to bootstrap your apps
 
-*   [facebook/metro](https://github.com/facebook/metro) - 🚇 The JavaScript bundler for React Native
+*   [react/metro](https://github.com/react/metro) - 🚇 The JavaScript bundler for React Native
 
 *   [microsoft/vscode-recipes](https://github.com/microsoft/vscode-recipes) -
 
@@ -1751,7 +1751,7 @@
 
 *   [wekan/wekan](https://github.com/wekan/wekan) - The Open Source kanban, built with Meteor. GitHub issues/PRs are only for FLOSS Developers, not for support, support is at https://wekan.fi/commercial-support/ . New English strings for new features at imports/i18n/data/en.i18n.json . Non-English translations at https://app.transifex.com/wekan/wekan only.
 
-*   [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+*   [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
