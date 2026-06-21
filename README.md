@@ -201,7 +201,7 @@
 
 *   [pnpm/pnpm](https://github.com/pnpm/pnpm) - Fast, disk space efficient package manager
 
-*   [nikivdev/flow](https://github.com/nikivdev/flow) - Everything you need to move your project faster
+*   [nikivdev/flow](https://github.com/nikivdev/flow) - Move faster with autonomy
 
 ## Python
 
@@ -2055,7 +2055,7 @@
 
 *   [nodejs/node](https://github.com/nodejs/node) - Node.js JavaScript runtime ✨🐢🚀✨
 
-*   [BeekeeperAlex/mongoose-simpledb](https://github.com/BeekeeperAlex/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
+*   [AlexAllocated/mongoose-simpledb](https://github.com/AlexAllocated/mongoose-simpledb) - Simple API for defining mongoose models and loading them into a single object for easy access.
 
 *   [CodeSeven/toastr](https://github.com/CodeSeven/toastr) - Simple javascript toast notifications
 
@@ -3823,7 +3823,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.5.67823, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68256, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
