@@ -3465,7 +3465,7 @@
 
 *   [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 
-*   [micro/go-micro](https://github.com/micro/go-micro) - A Go framework for agents and services
+*   [micro/go-micro](https://github.com/micro/go-micro) - A Go agent harness and service framework
 
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
@@ -3823,7 +3823,7 @@
 
 *   [peterbraden/node-opencv](https://github.com/peterbraden/node-opencv) - OpenCV Bindings for node.js
 
-*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68256, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
+*   [TrinityCore/TrinityCore](https://github.com/TrinityCore/TrinityCore) - TrinityCore Open Source MMO Framework (master = 12.0.7.68275, 3.3.5 = 3.3.5a.12340, cata classic =  4.4.2.60895)
 
 *   [diasurgical/devilution](https://github.com/diasurgical/devilution) - Diablo devolved - magic behind the 1996 computer game
 
